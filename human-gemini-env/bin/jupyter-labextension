@@ -1,6 +1,4 @@
-#!/bin/sh
-'''exec' "/Users/maxchalekson/Northwestern University/Summer 2025/NICO/NICO Research/NICO_human-gemini/human-gemini-env/bin/python3.11" "$0" "$@"
-' '''
+#!/Users/maxchalekson/NICO-Research/NICO_human-gemini/human-gemini-env/bin/python3.13
 # -*- coding: utf-8 -*-
 import re
 import sys
