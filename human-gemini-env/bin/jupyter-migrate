@@ -1,4 +1,4 @@
-#!/Users/maxchalekson/NICO-Research/NICO_human-gemini/human-gemini-env/bin/python3.13
+#!/Users/maxchalekson/Projects/NICO-Research/NICO_human-gemini/human-gemini-env/bin/python3.13
 # -*- coding: utf-8 -*-
 import re
 import sys
