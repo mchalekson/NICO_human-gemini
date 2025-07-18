@@ -1,0 +1,13 @@
+
+Notes for human-gemini
+
+
+extract_utterances_data.py
+
+Parses valid session JSONs to extract utterance-level data (speaker, transcript, annotations, gestures, etc.) into flat CSV
+
+-----------------------------------------------------------------------------------------------
+
+extracted_utterance_data.csv
+
+Used to analyze behavior, idea flow, and group dynamics across meetings
