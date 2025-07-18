@@ -14,7 +14,7 @@ for conf in conference_folders:
         print(f"Folder not found: {conf_path}")
         continue
     
-    print(f"\n🔍 Searching folder: {conf_path}")
+    print(f"\n Searching folder: {conf_path}")
     for filename in os.listdir(conf_path):
         if filename.endswith(".json") and re.match(r"\d{4}_\d{2}_\d{2}_.+_S\d+\.json", filename):
             filepath = os.path.join(conf_path, filename)
