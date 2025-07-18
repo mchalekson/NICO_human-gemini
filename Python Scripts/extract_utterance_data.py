@@ -3,14 +3,14 @@ import re
 import json
 import pandas as pd
 
-# ✅ Base path to the data folders
+# Base path to the data folders
 base_path = "/Users/maxchalekson/Projects/NICO-Research/NICO_human-gemini/gemini_data_analysis/data/"
 conference_folders = ["2021MND", "2021ABI", "2021SLU", "2021MZT"]
 
-# ✅ Output: list of utterances
+# Output: list of utterances
 utterance_data = []
 
-# ✅ Regex pattern to include only relevant session-level JSONs
+# Regex pattern to include only relevant session-level JSONs
 valid_json_pattern = re.compile(r"\d{4}_\d{2}_\d{2}_.+_S\d+\.json")
 
 for conf in conference_folders:
@@ -50,9 +50,9 @@ for conf in conference_folders:
             except Exception as e:
                 print(f"⚠️ Failed to process {filename}: {e}")
 
-# ✅ Convert to DataFrame and save
+# Convert to DataFrame and save
 df_utterances = pd.DataFrame(utterance_data)
 output_path = "/Users/maxchalekson/Projects/NICO-Research/NICO_human-gemini/Data/extracted_utterance_data.csv"
 df_utterances.to_csv(output_path, index=False)
 
-print(f"\n✅ Saved {len(df_utterances)} utterances to {output_path}")
+print(f"\n Saved {len(df_utterances)} utterances to {output_path}")

@@ -1,5 +1,5 @@
 
-Notes for human-gemini
+Scratch Notes for human-gemini
 
 
 extract_utterances_data.py
@@ -11,3 +11,21 @@ Parses valid session JSONs to extract utterance-level data (speaker, transcript,
 extracted_utterance_data.csv
 
 Used to analyze behavior, idea flow, and group dynamics across meetings
+
+
+
+
+This massive code script (under the Parsing Transcripts from CSV section):
+
+- spent majority of Friday working on this code script. Based on what I want it to do..
+it is fine. It is mostly the edge cases. I don't need it to be perfect
+
+So then ✅ Suggested next step (Week of July 21):
+Since you're ready to explore the ideas you mentioned, I recommend:
+(just a general direction, can always adjust):
+
+- Create a first_speaker flag for each session
+- Use start_sec_adjusted to identify early utterances
+- Filter for those that include explain or define term or contain keywords like “I'm” or “My research”
+- Count participants per session with df['speaker'].nunique()
+- Compute meeting_length = df.groupby('session')['end_sec_adjusted'].max()
