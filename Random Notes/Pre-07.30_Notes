@@ -1,0 +1,62 @@
+Pre Meeting Notes: 07.30
+
+
+Things to address during the meeting:
+
+1. My findings from my ipynb during IC2S2 (done)
+
+2. Evey wants to probe my brain at during the discussion tomorrow with the following:
+
+Why do you think none of the features had much predicitive power over team outcomes
+once controlled by meeting length. 
+
+- Too little data?
+
+- Maybe those features were just not good?
+
+She's curious as to what you think.
+
+Or maybe these were mistakes when calculating those features??
+She doesn't know -- maybe worth us checking things over.
+
+
+
+I feel bad that I did all of this analysis, she then had a question, and then i'm going back through My
+ipynb to explain the why's. tell me in a long response; is this normal?
+
+
+Even with Northwestern doing all of these layoffs to comply with government standards, even as
+budget freezing -- even irreversable changes 
+Because for that day to come, to see through these hard times in the end, that's partially why
+I had decided to join this research project. To prove myself wrong, that it is still possible, when Even
+your own federal government guts everything, is this something you truly want?
+
+----------------------  ------------------------
+
+
+I went back through the modeling and here’s what I saw:
+
+A couple features like gesture_count_ratio and elaboration_to_idea_ratio showed weak signal in the Poisson model without meeting_length_sec. 
+- But once we added meeting length, most of those signals shrank, and even though meeting_length_sec itself wasn’t statistically significant, it seemed to soak up shared variance—probably because it’s correlated with a lot of other features.
+
+I also ran an OLS model on the residuals after controlling for meeting length, and the R² was very low. 
+- That seems to confirm that most behavioral predictors aren’t adding much beyond what time already explains.
+
+That said, I think there are a few reasons this might be happening:
+
+
+1. Time as a Proxy – Many features scale with time, so longer meetings might naturally contain more interaction, more elaboration, etc.
+
+2. Low Power – With only 83 sessions and 20+ features, we may not have enough data to detect small or noisy effects.
+
+3. Feature Overlap – Some features are conceptually and statistically redundant, so we get dilution from multicollinearity.
+
+4. Aggregation Loss – Because we’re summarizing behavior per session, we lose speaker roles and temporal sequencing that might carry signal.
+
+5. Outcome Ceiling – The outcome variable may have limited spread, which makes behavior harder to predict even if it does matter.
+
+6. Linear Limits – If these features work in combination or have threshold effects, linear models might miss that.
+
+7. Sanity Check – I did plot all feature distributions to check for calculation errors. Nothing obvious stood out, but happy to walk through those together if you’d like.
+
+I can check also how the features are calculated etc. 
