@@ -57,6 +57,4 @@ That said, I think there are a few reasons this might be happening:
 
 6. Linear Limits – If these features work in combination or have threshold effects, linear models might miss that.
 
-7. Sanity Check – I did plot all feature distributions to check for calculation errors. Nothing obvious stood out, but happy to walk through those together if you’d like.
-
-I can check also how the features are calculated etc. 
+7. Sanity Check – I did plot all feature distributions to check for calculation errors. Nothing obvious stood out.
