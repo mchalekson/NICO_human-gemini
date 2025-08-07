@@ -2,3 +2,11 @@
 Scratch Notes for human-gemini
 
 
+Need to go back through the convergence_burst_tracking.ipynb and add back
+the 2021_09_30_MZT_S7_MZT for testing, even if I have fixed the majority of
+my errors in the ipynb. 
+
+Just need to fix the flow. And then can move forward w/ direction.
+:D
+
+Does df_one subset the session of 2021_09_30_MZT_S7_MZT for testing
