@@ -9,4 +9,5 @@ my errors in the ipynb.
 Just need to fix the flow. And then can move forward w/ direction.
 :D
 
-Does df_one subset the session of 2021_09_30_MZT_S7_MZT for testing
+
+Note: everything Aug 6 2025 at 19:23 everything is in a stable point
