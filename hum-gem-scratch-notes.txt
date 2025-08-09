@@ -4,7 +4,7 @@ Scratch Notes for human-gemini
 ---------------------------------
 
 
-## 🔬 Why SBERT + DBSCAN Didn't Work (Long Explanation)
+## Why SBERT + DBSCAN Didn't Work (Long Explanation)
 
 At a high level, your idea was brilliant:
 
@@ -140,10 +140,10 @@ What you got:
 
 Despite its shortcomings, this was **a highly strategic first pass** because it gave you:
 
-* ✅ A full working pipeline: load → embed → cluster → analyze
-* ✅ A behavioral understanding of where SBERT/DBSCAN falters
-* ✅ Clarity on the *gap* between NLP methods and human conceptual dynamics
-* ✅ Evidence that meaningful convergence modeling must be **temporal + relational + annotational**
+* A full working pipeline: load → embed → cluster → analyze
+* A behavioral understanding of where SBERT/DBSCAN falters
+* Clarity on the *gap* between NLP methods and human conceptual dynamics
+* Evidence that meaningful convergence modeling must be **temporal + relational + annotational**
 
 And most importantly:
 
