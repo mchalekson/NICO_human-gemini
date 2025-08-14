@@ -1,0 +1,16 @@
+unit_A,speaker_A,tA,act_A,sentence_A,n_responders,n_links,latest_dt,max_cosine,any_decision_B
+2021_05_21_ABI_S15_ABI:112:1,Carolyn Bayer,1218.081999999998,Inform/Report,"alternatively, I mean just to describe what how we get around the limitation in photoacoustic imaging is that",2,3,49.02199999999948,0.75412923,True
+2021_05_21_ABI_S15_ABI:121:1,Carolyn Bayer,1218.0909999999978,Inform/Report,So we we so there's there's essentially two different strategies for photoacoustic imaging.,2,3,49.01299999999969,0.74982464,True
+2021_05_21_ABI_S15_ABI:122:1,Carolyn Bayer,1218.0919999999978,Inform/Report,"So, um, my spatial resolution is not going to be even close to what all the optical microscopists um can do.",1,2,49.01899999999955,0.7087186,False
+2021_05_21_ABI_S15_ABI:121:2,Carolyn Bayer,1218.0909999999978,Inform/Report,There's optical resolution photoacoustic imaging and that those are the super impressive like vascular networks that you see in the papers.,1,2,48.960000000000946,0.69505346,False
+2021_05_21_ABI_S15_ABI:51:1,Yevgenia Kozorovitskiy,1218.0209999999995,Inform/Report,That kind of moves us a bit away from uh considering deep tissue applications specifically.,1,1,49.02699999999936,0.77457637,True
+2021_05_21_ABI_S15_ABI:122:2,Carolyn Bayer,1218.0919999999978,Inform/Report,So I'm spatial resolution is more in the 100 to 200 micron.,1,1,49.01899999999955,0.75823283,False
+2021_05_21_ABI_S15_ABI:0:6,Brad Smith,615.0,Inform/Report,So the lack of deep tissue imaging is the problem I'm trying to avoid or trying to get around.,1,1,67.0,0.75715864,False
+2021_05_21_ABI_S15_ABI:23:4,Steve Jett,1122.0,Inform/Report,So for me deep tissue imaging means I'm looking at a piece of tissue excised from somewhere deep in an organism.,1,1,96.07999999999811,0.74609524,False
+2021_05_21_ABI_S15_ABI:111:1,Carolyn Bayer,1218.080999999998,Inform/Report,"Um, you know, I do photoacoustics which is using um optics to excite to then ultrasound acoustics to receive.",1,1,48.94000000000142,0.730591,False
+2021_05_21_ABI_S15_ABI:2:2,Brad Smith,661.0,Inform/Report,Either your problem that you're trying to solve in deep tissue or the modality that you think you can bring to the problem.,1,1,77.0,0.7292202,False
+2021_05_21_ABI_S15_ABI:13:7,Sixian You,917.0,Inform/Report,"The first aspect is uh, um multiphoton imaging.",1,1,111.0,0.72640043,False
+2021_05_21_ABI_S15_ABI:0:5,Brad Smith,615.0,Inform/Report,"Oh man, I'm a chemistry based person and optical imaging is primarily what I do.",1,1,67.0,0.7031834,True
+2021_05_21_ABI_S15_ABI:5:5,Aniruddha Ray,682.0,Inform/Report,And that's what is my interest in deep tissue imaging.,1,1,56.0,0.69875497,False
+2021_05_21_ABI_S15_ABI:92:3,Sixian You,1218.0619999999983,Inform/Report,"Uh, so recently there are starting to have efforts uh to shift to longer wavelength so that not only the excitation is in the infrared region, but also the emission is also in.",1,1,49.03999999999928,0.6965548,False
+2021_05_21_ABI_S15_ABI:99:3,Yevgenia Kozorovitskiy,1218.0689999999984,Inform/Report,And so kind of would much rather quantify an increase in fluorescence.,1,1,48.938000000001466,0.68083227,True
