@@ -1,0 +1,23 @@
+burst_idx,session,t_start,t_end,uniq_speakers,sim_max,sim_mean,example_pair,mean_sim,median_sim,mean_sim_z,frac_any_label,frac_decision,frac_explanation,uniq_speakers_both,n_pairs,proxy_label,conv_score,snippet
+1,2021_05_21_ABI_S15,2639.0,2675.75,5,0.8533292412757874,0.6764843344688416,There's a couple of people that do wave front shaping in here. … || That's what I always ask when I meet people who do wave front shaping. …,0.6764843344688416,,0.0,,,,5,10,0.0,0.3367695170640945,"[ 2643s] Carolyn Bayer: That's what I always ask when I meet people who do wave front shaping.
+[ 2647s] Carolyn Bayer: How do we get.
+[ 2649s] Carolyn Bayer: to five to six centimeters with your technique.
+[ 2651s] Carolyn Bayer: Can we?
+[ 2652s] Luke Mortensen: You mean millimeters or.
+[ 2654s] Alexandra Dickinson: Oh.
+[ 2655s] Brad Smith: Well, she said centimeters.
+[ 2661s] Carolyn Bayer: Okay, let's let's try millimeters first.
+[ 2663s] Carolyn Bayer: Or or half a centimeter.
+[ 2665s] Carolyn Bayer: How about half a centimeter?
+[ 2672s] Brad Smith: Well, does anybody want to just explain that in layman's terms wave front technology to the rest of the group."
+0,2021_05_21_ABI_S15,55.28125,163.54166666666666,4,0.757158637046814,0.6686176245029156,"Oh man, I'm a chemistry based person and optical imaging is primarily what I do. … || So I work on nanotechnology aided optical imaging, which involves fluorescence a …",0.6686176245029156,,0.0,,,,4,13,0.0,0.33401616857602046,"[   56s] Aniruddha Ray: Oh, there is Stephen Barbara.
+[   58s] Aniruddha Ray: So Danny, can see you.
+[   59s] Aniruddha Ray: Hey Danny.
+[   61s] Barbara Smith: Sorry, sorry.
+[   64s] Barbara Smith: I have a little human that required me for a few minutes.
+[   70s] Aniruddha Ray: Um, so, uh, my name is Anirud.
+[   76s] Aniruddha Ray: I'm from University of Toledo.
+[   83s] Aniruddha Ray: I work on two different things.
+[   89s] Aniruddha Ray: So I work on nanotechnology aided optical imaging, which involves fluorescence as well as photoacoustics.
+[   96s] Aniruddha Ray: And that's what is my interest in deep tissue imaging.
+[  102s] Aniruddha Ray: I also work on lensless holographic microscop …"

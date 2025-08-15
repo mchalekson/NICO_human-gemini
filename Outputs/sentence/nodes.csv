@@ -1,0 +1,435 @@
+id,t,t_start,t_end,speaker,text
+0,2.3125,0.0,4.625,Brad Smith,"Well, um, yeah, let's maybe start some introductions."
+1,6.9375,4.625,9.25,Brad Smith,We're beginning the obviously by the third breakout session and all of this stuff beginning to know each other pretty well.
+2,11.5625,9.25,13.875,Brad Smith,"So, uh, I'll just read them out here."
+3,16.1875,13.875,18.5,Brad Smith,"Well, let me I've already introduced."
+4,20.8125,18.5,23.125,Brad Smith,"Oh man, I'm a chemistry based person and optical imaging is primarily what I do."
+5,25.4375,23.125,27.75,Brad Smith,So the lack of deep tissue imaging is the problem I'm trying to avoid or trying to get around.
+6,30.0625,27.75,32.375,Brad Smith,"Uh, but let's just see what other modalities that we've got there."
+7,34.6875,32.375,37.0,Brad Smith,"So, um, Anarude, maybe start with you because you're you're not eating."
+8,40.0,38.0,42.0,Aniruddha Ray,"Uh, hello everyone."
+9,44.0,42.0,46.0,Aniruddha Ray,So I've actually spoken to everyone here already.
+10,48.5,46.0,51.0,Brad Smith,Maybe focus on your modality because I think when you get that's where we're going to be.
+11,53.5,51.0,56.0,Brad Smith,Either your problem that you're trying to solve in deep tissue or the modality that you think you can bring to the problem.
+12,56.66666666666667,56.0,57.333333333333336,Aniruddha Ray,"Oh, there is Stephen Barbara."
+13,58.0,57.333333333333336,58.666666666666664,Aniruddha Ray,"So Danny, can see you."
+14,61.5,60.0,63.0,Barbara Smith,"Sorry, sorry."
+15,64.5,63.0,66.0,Barbara Smith,I have a little human that required me for a few minutes.
+16,70.25,67.0,73.5,Aniruddha Ray,"Um, so, uh, my name is Anirud."
+17,76.75,73.5,80.0,Aniruddha Ray,I'm from University of Toledo.
+18,83.25,80.0,86.5,Aniruddha Ray,I work on two different things.
+19,89.75,86.5,93.0,Aniruddha Ray,"So I work on nanotechnology aided optical imaging, which involves fluorescence as well as photoacoustics."
+20,96.25,93.0,99.5,Aniruddha Ray,And that's what is my interest in deep tissue imaging.
+21,102.75,99.5,106.0,Aniruddha Ray,"I also work on lensless holographic microscopy, um, but that is more for Xvivo samples or in vitro samples."
+22,109.25,106.0,112.5,Aniruddha Ray,"So we basically develop different types of nanoparticles, um, metallic quantum dots, um, um, polymeric nanoparticles for biomedical imaging, sensing, as well as for therapy, uh, chemotherapy, photodynamic therapy."
+23,115.75,112.5,119.0,Aniruddha Ray,"And we monitor them using fluorescence and photoacoustics, as well as some scattering and other things."
+24,121.5,120.0,123.0,Brad Smith,"Jazz, can you what's your modality?"
+25,127.08333333333333,123.0,131.16666666666666,Alexandra Dickinson,"Sure, so, um, I am a developmental biologist and I work in plants and um, I typically use fluorescence microscopy and chemical imaging using mass spectrometry imaging."
+26,135.25,131.16666666666666,139.33333333333334,Alexandra Dickinson,"Um, but I'm always really interested in deep tissue uh problems."
+27,143.41666666666669,139.33333333333334,147.5,Alexandra Dickinson,"Um, in in my field I think of it as either imaging can we image plants that are growing in soil?"
+28,151.58333333333331,147.5,155.66666666666666,Alexandra Dickinson,Can we image any biological processes of plants growing in soil or can we image deep into a tree trunk?
+29,159.75,155.66666666666666,163.83333333333331,Alexandra Dickinson,"Like something along those lines, although I've never done it."
+30,167.91666666666666,163.83333333333331,172.0,Alexandra Dickinson,"Um, I just, you know, I'd be interested to see what possibilities might be out there to do that kind of work."
+31,173.0,172.0,174.0,Brad Smith,"Uh Barbara, you're there?"
+32,180.8,176.0,185.6,Barbara Smith,I am here.
+33,190.39999999999998,185.6,195.2,Barbara Smith,In in full person.
+34,200.0,195.2,204.8,Barbara Smith,"Um, so my imaging modality that we work with, uh, so, uh, we do develop imaging tools and we apply those imaging tools, um, and we also do some chemical analysis as well."
+35,209.60000000000002,204.8,214.4,Barbara Smith,"Uh, so we work with photoacoustic imaging, uh, ultrasound, um, also fluorescence uh approaches and um, we're also working with near infrared, um, probes and contrast for uh deep tissue uh targeting specifically for neurons."
+36,219.2,214.4,224.0,Barbara Smith,"Um, and then we also do LC and GC mass spec."
+37,227.0,224.0,230.0,Brad Smith,"Uh yeah, Genia, you're can you talk now?"
+38,243.3125,238.875,247.75,Yevgenia Kozorovitskiy,"I'm mid bite, so this is perfect."
+39,252.1875,247.75,256.625,Yevgenia Kozorovitskiy,"Uh, my name is Genia or Yevgenia Kozorovitskiy and I am at Northwestern University and we're interested in optical fluorescence imaging, which we do with uh primarily with light sheet using single objective based approaches."
+40,261.0625,256.625,265.5,Yevgenia Kozorovitskiy,"Um, we also do some two photon uh image basic point scanning imaging and also photolysis of chemical probes."
+41,269.9375,265.5,274.375,Yevgenia Kozorovitskiy,"Um, and I think, you know, in my field deep tissue typically means one of three things."
+42,278.8125,274.375,283.25,Yevgenia Kozorovitskiy,"One is, you know, throw more more photons at it and get deeper."
+43,287.6875,283.25,292.125,Yevgenia Kozorovitskiy,"Um, two is you are in a light sheet type uh context then, you know, do some uh holography for shaping of beams."
+44,296.5625,292.125,301.0,Yevgenia Kozorovitskiy,"Uh, or use some penetrative probes, uh, which for many pre-clinical applications are possible and there it begins to be more about optimizing those so that you get the most amount of information for the least amount of um tissue damage."
+45,301.5,301.0,302.0,Brad Smith,Uh see Shim.
+46,305.57142857142856,302.0,309.14285714285717,Sixian You,Hi everyone.
+47,312.7142857142857,309.14285714285717,316.2857142857143,Sixian You,My name is Sishan Yo.
+48,319.8571428571429,316.2857142857143,323.42857142857144,Sixian You,"Uh, I recently started in electric engineering department at MIT."
+49,327.0,323.42857142857144,330.57142857142856,Sixian You,My background is in optics and microscopy.
+50,334.1428571428571,330.57142857142856,337.7142857142857,Sixian You,"Uh, so, uh, we are very much troubled by deep tissue imaging because uh, we're we're blessed with this submicro resolution but we can rarely go deeper than millimeter uh depth."
+51,341.28571428571433,337.7142857142857,344.8571428571429,Sixian You,"So what my lab does, uh, we want to tackle this issue and also a lot of other like imaging speed or contrast issue from three aspects."
+52,348.42857142857144,344.8571428571429,352.0,Sixian You,"The first aspect is uh, um multiphoton imaging."
+53,357.0,352.0,362.0,Sixian You,"How can we uh design different wavefront shaping or post shaping or even light engineering, light generation techniques to enable deeper penetration of the light."
+54,367.0,362.0,372.0,Sixian You,"Uh, that's one aspect."
+55,377.0,372.0,382.0,Sixian You,"Uh, so we work on label free imaging technologies and also just uh uh common multiphoton coherent image coherent raming imaging."
+56,385.83333333333337,382.0,389.6666666666667,Sixian You,And then the second aspect is how to use optics and algorithms to push it deeper.
+57,393.5,389.6666666666667,397.3333333333333,Sixian You,"So instead of avoid uh multiple scattering photons just getting ballistic photons, how can we use multiple scattering?"
+58,401.16666666666663,397.3333333333333,405.0,Sixian You,How can we use deterministic models of multiple scattering to get deeper into the tissue.
+59,406.5,405.0,408.0,Sixian You,"And look, there's a way to cheat cheat it."
+60,409.5,408.0,411.0,Sixian You,"Uh, so uh we just insert a fiber into it."
+61,415.83333333333337,413.0,418.6666666666667,Luke Mortensen,"Sorry, change location."
+62,421.5,418.6666666666667,424.3333333333333,Luke Mortensen,I use my computer.
+63,427.16666666666663,424.3333333333333,430.0,Luke Mortensen,"Okay, um, I'm uh assistant professor at University of Georgia."
+64,432.83333333333337,430.0,435.6666666666667,Luke Mortensen,"Um, and uh Athens Georgia, um biomedical engineering background."
+65,438.5,435.6666666666667,441.3333333333333,Luke Mortensen,"Um, and I um am primarily working with uh multiphoton imaging."
+66,444.16666666666663,441.3333333333333,447.0,Luke Mortensen,"Um, so two photon and you know, a bunch of towards three photon, you know, etc. And um, uh trying to um move as well both on the fluorescence side, um as well as in the second harmonic, third harmonic generation."
+67,448.5,447.0,450.0,Luke Mortensen,You guys can hear me?
+68,450.5,450.0,451.0,Sixian You,I can hear you.
+69,464.5,457.0,472.0,Luke Mortensen,Um and um so I guess I'll continue.
+70,479.5,472.0,487.0,Luke Mortensen,"Um, and so we're working towards like trying to image into and through highly scattering bone um or other highly scattering tissues."
+71,494.5,487.0,502.0,Luke Mortensen,"Um, and doing that by moving towards like 1300, 1700 uh wavelength regime as well as doing um aberration correction and scattering correction to allow our point spread function to be um reconstructed deep in the tissue."
+72,504.0,502.0,506.0,Luke Mortensen,"Steve, do you have any introduction obviously you're"
+73,511.125,507.0,515.25,Steve Jett,I'm I'm the fly on the wall. Okay.
+74,519.375,515.25,523.5,Steve Jett,My name is Steve Jett.
+75,527.625,523.5,531.75,Steve Jett,Uh my background is in electron and atomic force microscopy.
+76,535.875,531.75,540.0,Steve Jett,So for me deep tissue imaging means I'm looking at a piece of tissue excised from somewhere deep in an organism.
+77,553.5,540.0,567.0,Steve Jett,"However, over the last several years I was working on a project at the NCI called the imaging data commons where we had to think about collecting images related to cancer from a whole bunch of modalities."
+78,568.5,567.0,570.0,Steve Jett,"You know, initially this means radiology because those are most of the images that have been collected."
+79,575.0,570.0,580.0,Steve Jett,"We started then thinking about cryo EM and we started thinking or the group that's still working is thinking now about other modalities like deep tissue imaging, you know."
+80,585.0,580.0,590.0,Steve Jett,"So how do you bring them all together, make them interoperable."
+81,592.0,590.0,594.0,Steve Jett,And interoperable enough to where you can then infer knowledge.
+82,597.0,594.0,600.0,Steve Jett,By asking a question about one type of data and pulling relevant information from other types of data like deep tissue.
+83,601.5,600.0,603.0,Brad Smith,"Well, we seem to be a pretty coherent group here that we all"
+84,608.6,603.0,614.2,Brad Smith,are pretty much optical based or maybe ultrasound Barbara perhaps got the broadest capabilities.
+85,619.8,614.2,625.4,Brad Smith,Uh anybody feeling it to be the reporter here?
+86,631.0,625.4,636.6,Brad Smith,There is a lot of benefit in being the reporter I tell you.
+87,642.2,636.6,647.8,Brad Smith,Um I'll come back to that in two minutes.
+88,653.4,647.8,659.0,Brad Smith,Don't make me choose a birthday.
+89,662.5,659.0,666.0,Brad Smith,"which I will do, but whoever's birthday is closest to this day, you're in trouble, so it is an honor system I suppose."
+90,672.5,671.0,674.0,Barbara Smith,"No, nobody's going to volunteer."
+91,676.0,675.0,677.0,Brad Smith,"Well, I'll just go alphabetical."
+92,678.0,677.0,679.0,Brad Smith,I've got all sorts of I got I throw a dice.
+93,680.0,679.0,681.0,Brad Smith,I've got a dice here which I also do as well.
+94,688.5,681.0,696.0,Brad Smith,"But there is some bit of anyway, as you can see now, it's a bit on the zoom in when it's in person, it's much better because you actually see an individual and you can point to them in the in the it's just like my family zooms, it's just total chaos and nobody pay any attention anyway."
+95,697.75,696.0,699.5,Brad Smith,You could stand up there and report back that elephants are the best way to do imaging.
+96,701.25,699.5,703.0,Brad Smith,"I bet you no one actually catches you on this, but anyway."
+97,711.0,703.0,719.0,Brad Smith,"If if I just go to the prompt that we had, um, maybe as a as to kick this out, um, maybe start out with optical ideas, which I think is the central to all of that and then let you guys take it, but the first one there is,"
+98,722.5,719.0,726.0,Brad Smith,Are there methods beyond confocal and light sheet to address 3D regions deep within a tissue sample.
+99,730.25,726.0,734.5,Brad Smith,That seems to me rather and some of you people are really focused on that.
+100,738.75,734.5,743.0,Brad Smith,"So where do you see in the next five years, let's say beyond light sheet, uh, how to how do people view that?"
+101,750.0,748.0,752.0,Brad Smith,And some of you are working exactly on this problem.
+102,754.0,752.0,756.0,Brad Smith,"So, you know, you can pump up why you're going to solve it, uh,"
+103,767.75,764.0,771.5,Yevgenia Kozorovitskiy,"But but beyond light sheet, I mean, we've barely just gotten back to light sheet after 100 year hiatus."
+104,775.25,771.5,779.0,Yevgenia Kozorovitskiy,I think there's still an enormous amount of work to do on uh deep imaging with light sheet.
+105,782.0,780.0,784.0,Brad Smith,Can I ask what did you get a commercial instrument your light sheet uh?
+106,787.0,784.0,790.0,Yevgenia Kozorovitskiy,"Uh us no, we develop uh single objective based light sheet imaging systems."
+107,793.5,792.0,795.0,Yevgenia Kozorovitskiy,Like we have pushed super hard on depth in that context.
+108,805.75,802.5,809.0,Brad Smith,"I mean, there's one thing to have specialized labs doing things, but then there's another once you get the machines or the scopes, you know, as a commodity in most labs, then then that's that that really has impactful."
+109,818.0,809.0,827.0,Brad Smith,Because now you can put it in the hands of people that are problem based and now they can have sort of turn key and so at my place here we've just recently acquired a light sheet and it's been a bit of a disaster getting it running is it's still definitely not turn key technology it seems.
+110,835.6666666666667,829.0,842.3333333333334,Yevgenia Kozorovitskiy,"Well, I I mean, I think there's more and more different kinds that are starting to be turn key."
+111,849.0,842.3333333333334,855.6666666666666,Yevgenia Kozorovitskiy,We have tried to get uh a couple of big companies to license our patents and they wouldn't.
+112,862.3333333333333,855.6666666666666,869.0,Yevgenia Kozorovitskiy,And then we just turned rogue and are doing everything absolutely open and just trying to help people build their own.
+113,869.5,869.0,870.0,Yevgenia Kozorovitskiy,"So it may go beyond,"
+114,873.0,871.0,875.0,Brad Smith,"Well, what about you multi photon folks, Luke and Sishan?"
+115,877.0,875.0,879.0,Brad Smith,How deep do you think you guys can go?
+116,881.25,880.0,882.5,Sixian You,Um definitely further than light sheet.
+117,885.5,885.0,886.0,Sixian You,But it's a different game.
+118,889.8333333333333,886.0,893.6666666666666,Sixian You,"Um, so I I think it's very interesting question."
+119,897.5,893.6666666666666,901.3333333333334,Sixian You,"So I I feel light sheet is still at the uh development phase, right?"
+120,905.1666666666667,901.3333333333334,909.0,Sixian You,So uh it takes biologist many years to accept confocal.
+121,913.5,909.0,918.0,Sixian You,"Uh and so there might be a need to develop that technology much, much further on on the optical side to push that to biologist because they needed to be turn key."
+122,920.5,920.0,921.0,Carolyn Bayer,I'll introduce myself real quick.
+123,921.5,921.0,922.0,Carolyn Bayer,I'm sorry I was running a bit late.
+124,922.5,922.0,923.0,Carolyn Bayer,Um but I'm Carolyn Bayer.
+125,923.5,923.0,924.0,Carolyn Bayer,I'm assuming everyone did introductions and I missed it.
+126,924.5,924.0,925.0,Carolyn Bayer,Um I'm Carolyn Bayer.
+127,925.5,925.0,926.0,Brad Smith,modality and problem.
+128,929.0,927.0,931.0,Carolyn Bayer,"Yeah, so I'm I work in photoacoustic imaging."
+129,933.0,931.0,935.0,Carolyn Bayer,"Um, I'm at Tulane University."
+130,937.0,935.0,939.0,Carolyn Bayer,"Um, and I'm primarily imaging preeclampsia, um, and so vascular remodeling and development deep in deep tissues."
+131,941.25,940.0,942.5,Brad Smith,"Genia, you're the one that's pioneering it."
+132,943.75,942.5,945.0,Brad Smith,You've you've
+133,958.0,945.0,971.0,Yevgenia Kozorovitskiy,"I I think yes, uh, but primarily by having advantages of gentle illumination and relatively rapid access to 3D information."
+134,981.0,971.0,991.0,Yevgenia Kozorovitskiy,"And if you start combining that with the smart microscopy type approaches that were described by several groups in our previous brainstorming session, you could imagine situations where you can, you know, screen organoids that are developing in ways that are really efficient and give you a lot of the right kind of information."
+135,997.5,991.0,1004.0,Yevgenia Kozorovitskiy,"So, I and I think there are some ways to think about light sheet applications as related to depth, but its primary power is in gentleness and speed and not necessarily in depth."
+136,1010.25,1004.0,1016.5,Yevgenia Kozorovitskiy,"But if you think about, you know, broadly light shaping applications, I think would be would have been a better word to put there because light sheet to me it means that you rely somehow on camera based, um, sensor imaging, but light shaping applications are super broad and can rely on point detectors as well as camera based imaging and any kind of sensor that you want."
+137,1022.75,1016.5,1029.0,Yevgenia Kozorovitskiy,And that's where I think there's a lot of
+138,1037.0,1029.0,1045.0,Yevgenia Kozorovitskiy,"engineering, uh, that relates to depth where you have to kind of think separately about excitation delivery and then also, uh, as as as Sian thinks about a lot also getting back that information out somehow."
+139,1052.5,1049.0,1056.0,Brad Smith,Would it be fair to say that the develop continued development of genetic reporters is is going to be key to this as well?
+140,1060.25,1056.0,1064.5,Brad Smith,"Um, so the more the more colors you can see and the redder the colors you are, this is going to help or are we pretty happy with the genetic reporters that you've got now?"
+141,1079.25,1075.0,1083.5,Sixian You,That's a that's a terrific that's a terrific point.
+142,1087.75,1083.5,1092.0,Sixian You,"Actually, a lot of imaging technologies we're developing now, uh, I was just talking with Genia yesterday about this voltage indicators, right?"
+143,1095.0,1092.0,1098.0,Sixian You,"So, uh that is one example where it has really strong potential, but it's just not bright enough."
+144,1104.1666666666665,1098.0,1110.3333333333333,Sixian You,So I I think genetic reporters could be a very important breaking through point here.
+145,1116.5,1110.3333333333333,1122.6666666666667,Sixian You,"So the brightness, right, the efficiency, quantum efficiency, and then the second point is uh like you mentioned, the longer wavelength."
+146,1128.8333333333335,1122.6666666666667,1135.0,Sixian You,"Uh, so recently there are starting to have efforts uh to shift to longer wavelength so that not only the excitation is in the infrared region, but also the emission is also in."
+147,1138.5,1136.0,1141.0,Sixian You,So right now what sort of uh probes do you use for voltage?
+148,1143.5,1141.0,1146.0,Sixian You,Are those the aneps or are they other kind of nanoparticles?
+149,1150.5,1147.0,1154.0,Sixian You,"Um, so I'm not as for this, um, we use genetic reporters, uh, something called ASAP and sometimes is uh some archam."
+150,1165.8333333333335,1163.0,1168.6666666666667,Yevgenia Kozorovitskiy,I mean there's a couple of different families of voltage reporters.
+151,1171.5,1168.6666666666667,1174.3333333333333,Yevgenia Kozorovitskiy,None of them are perfect.
+152,1177.1666666666665,1174.3333333333333,1180.0,Yevgenia Kozorovitskiy,"Many of them are inverted, uh, meaning that, uh,"
+153,1183.6666666666665,1180.0,1187.3333333333333,Yevgenia Kozorovitskiy,that you have a decrease in fluorescence rather than an increase in fluorescence in response to some event that you're detecting.
+154,1191.0,1187.3333333333333,1194.6666666666667,Yevgenia Kozorovitskiy,That's of course not great because the probes are also bleaching.
+155,1198.3333333333335,1194.6666666666667,1202.0,Yevgenia Kozorovitskiy,And so kind of would much rather quantify an increase in fluorescence.
+156,1213.0,1202.0,1224.0,Yevgenia Kozorovitskiy,"Some of them are based off of GFP, other are based off of other kinds of proteins and their modalities under development for uh really nice multiphoton excitation, but also single photon uh has been quite, you know, broadly uh used."
+157,1231.25,1224.0,1238.5,Yevgenia Kozorovitskiy,"Voltage sensor imaging is super important for neuroscience because despite the dominance of really heavily engineered GFP based calcium sensors, we know that calcium reporting of neural activity is really limited."
+158,1245.75,1238.5,1253.0,Yevgenia Kozorovitskiy,"Uh, it's got really slow temporal kinetics, which helped us at first because we didn't have a good imaging methods to go faster."
+159,1256.1666666666665,1253.0,1259.3333333333333,Yevgenia Kozorovitskiy,"Uh, but it's slow, you know, it misses neuronal action potentials."
+160,1262.5,1259.3333333333333,1265.6666666666667,Yevgenia Kozorovitskiy,It doesn't report hyperpolarization very well unless on a really slow time scale.
+161,1268.8333333333335,1265.6666666666667,1272.0,Yevgenia Kozorovitskiy,"Uh, it doesn't tell you very much about, you know, not nothing about sub threshold events, which is"
+162,1277.0,1272.0,1282.0,Yevgenia Kozorovitskiy,"you know, everything about how neurons compute is about sub threshold very interesting biophysics and integration across the, you know, unique and neuron type specific uh dendritic trees that they used to collect information with."
+163,1303.0,1293.0,1313.0,Brad Smith,"Yeah, I think uh um Jean Young's lecture yesterday is really showing a glimpse in the future of just how sophisticated some of these genetic reporters can become."
+164,1322.0,1313.0,1331.0,Brad Smith,"Um maybe Carolyn bring you in as we've just sort of been focusing a little bit here on pure fluorescence, but photoacoustic is uh that's one of the"
+165,1352.0,1331.0,1373.0,Carolyn Bayer,"I was kind of my question as I was listening is that um, are we only thinking about deep tissue imaging in the context of optics and it seems like it's a very, you know, optics microscopy heavy group, but um, obviously thinking about our colleagues that work in other imaging modalities like MRI."
+166,1378.75,1373.0,1384.5,Carolyn Bayer,"Um, you know, I do photoacoustics which is using um optics to excite to then ultrasound acoustics to receive."
+167,1390.25,1384.5,1396.0,Carolyn Bayer,"Um, you know, is there some other excitation that we should be thinking about beyond light since we know the limitations of light or"
+168,1400.0,1396.0,1404.0,Carolyn Bayer,"alternatively, I mean just to describe what how we get around the limitation in photoacoustic imaging is that"
+169,1412.0,1404.0,1420.0,Carolyn Bayer,"we are not worried about coherent focus light, you know, we're using scattered light for our imaging purpose."
+170,1425.375,1421.0,1429.75,Carolyn Bayer,Um that said we still have depth limitations.
+171,1434.125,1429.75,1438.5,Carolyn Bayer,"You know, we're limited to to two to three centimeters."
+172,1442.875,1438.5,1447.25,Carolyn Bayer,I would say.
+173,1451.625,1447.25,1456.0,Carolyn Bayer,"Um, but we still want to go deeper than that even obviously so that we can image clinically."
+174,1461.0,1458.0,1464.0,Brad Smith,Well that's quite impressive two to three centimeters that uh that's um
+175,1465.75,1464.0,1467.5,Brad Smith,Do you and that's not a problem for you?
+176,1469.25,1467.5,1471.0,Brad Smith,I mean I I read this all the time in the papers but
+177,1475.5,1471.0,1480.0,Brad Smith,it's one thing to read it do do you can one regularly do biomedical
+178,1485.625,1480.0,1491.25,Carolyn Bayer,So we we so there's there's essentially two different strategies for photoacoustic imaging.
+179,1496.875,1491.25,1502.5,Carolyn Bayer,There's optical resolution photoacoustic imaging and that those are the super impressive like vascular networks that you see in the papers.
+180,1508.125,1502.5,1513.75,Carolyn Bayer,And then there's acoustic resolution.
+181,1519.375,1513.75,1525.0,Carolyn Bayer,So what I do primarily is acoustic resolution.
+182,1532.0,1525.0,1539.0,Carolyn Bayer,"So, um, my spatial resolution is not going to be even close to what all the optical microscopists um can do."
+183,1546.0,1539.0,1553.0,Carolyn Bayer,So I'm spatial resolution is more in the 100 to 200 micron.
+184,1556.0,1553.0,1559.0,Carolyn Bayer,But I think um there is
+185,1565.5,1559.0,1572.0,Carolyn Bayer,"I think a a huge growth area, although um clinical translation becomes a little less obvious or a little bit large of a barrier is developing contrast agents, right?"
+186,1581.5,1572.0,1591.0,Carolyn Bayer,"And so not just agents which have different chromophore properties but maybe are responsive in some way, you know, are triggerable, um,"
+187,1602.5,1591.0,1614.0,Carolyn Bayer,"rather than um, you know, so sort of distinguishing between different reactions rather than relying on um multi wavelength for multi chromophore kind of approach to distinguish between contrast agents or probes."
+188,1620.5,1614.0,1627.0,Carolyn Bayer,"could be used, anything that's absorbing light or another form of energy could in theory be used to generate an acoustic signal."
+189,1633.5,1627.0,1640.0,Carolyn Bayer,"Um, and so the the problem we'll run into though with deep tissue imaging is sensitivity."
+190,1646.5,1640.0,1653.0,Carolyn Bayer,"Um, so if you had a genetic reporter, you're not likely generating sufficient concentrations at depth that you would have the sensitivity necessary to detect it."
+191,1659.5,1653.0,1666.0,Carolyn Bayer,"Um, you know, we think a lot though about redesigning our systems for improved signal to noise, you know, improved light delivery, you know, and all of those things can work in your favor when you're trying to really push the limits on sensitivity, but we obviously have some big goals and big challenges."
+192,1674.6666666666665,1667.0,1682.3333333333333,Alexandra Dickinson,"I have a question about it kind of ties into something we were talking about in our last breakout session, so not most of you weren't there, but um, we were talking about how fluorescence is very, very specific to certain molecules, a single molecule and how some of the other really cool imaging techniques that have are have a lot of use are not as specific."
+193,1690.0,1682.3333333333333,1697.6666666666667,Alexandra Dickinson,"I'm wondering for photoacoustic imaging, you know, I hear a lot about detecting hemoglobin and I assume that's because it's very concentrated and has sort of spectral properties that are that are easy to detect using a photoacoustic imaging."
+194,1705.3333333333335,1697.6666666666667,1713.0,Alexandra Dickinson,"What other kinds of molecules can you detect and um, yeah, what is the kind of specificity?"
+195,1717.0,1713.0,1721.0,Carolyn Bayer,"Yeah, so we use ICG, you know, um, so we're typically imaging in the near infrared, um, far near infrared if we can get those dyes."
+196,1725.0,1721.0,1729.0,Carolyn Bayer,"Um, and you know, I'll often talk to people who are developing fluorescent probes who have failures that aren't fluorescent."
+197,1733.0,1729.0,1737.0,Carolyn Bayer,"You know, so those are the ones that we can image well."
+198,1737.5,1737.0,1738.0,Alexandra Dickinson,Failures?
+199,1739.75,1738.0,1741.5,Carolyn Bayer,"Sorry, do they have to be both?"
+200,1743.25,1741.5,1745.0,Carolyn Bayer,Can they be fluorescent probes that work and?
+201,1749.0,1745.0,1753.0,Carolyn Bayer,"Well, I just say that because most people are trying to develop them for fluorescence and they're like, what else could I use this for?"
+202,1757.0,1753.0,1761.0,Carolyn Bayer,Well absorb.
+203,1767.0,1761.0,1773.0,Yevgenia Kozorovitskiy,You're just the same argument made for pH sensing uh probes last uh breakout meeting where it was other people's failures were the best probes for this guy.
+204,1774.0,1773.0,1775.0,Alexandra Dickinson,"Yeah, that's that's where we're at."
+205,1780.5,1775.0,1786.0,Carolyn Bayer,"But I think um that I mean, obviously the other thing that absorbs light strongly is nano particles."
+206,1791.5,1786.0,1797.0,Carolyn Bayer,Um so there's been a lot of people in photoacoustics that have used metallic nano particles which have surface plasma resonance that absorb it.
+207,1811.25,1807.0,1815.5,Barbara Smith,There's some molecular um endogenous agents also photoacoustics um specific wavelengths have been shown with lipids and with DNA.
+208,1819.75,1815.5,1824.0,Barbara Smith,Um so uh there's a a couple of components of cells and extracellular area.
+209,1831.8333333333335,1824.0,1839.6666666666667,Barbara Smith,"And then I think what they meant by failures is uh with the fluorescence, um you've got the excitation and the emission and um, so it the those molecules are very good at at taking in and then emitting."
+210,1847.5,1839.6666666666667,1855.3333333333333,Barbara Smith,"So if a molecule is not as good at emitting, it takes in a certain wavelength and it's very good for photoacoustics at that point because then that heat is a that energy is absorbed, it gets excited and then it can produce a photoacoustic response more than a fluorescent response."
+211,1863.1666666666665,1855.3333333333333,1871.0,Barbara Smith,"So you can use a molecule that's not very good um at a at being fluorescent, you can still use it for fluorescence but it's not so good um but you can also generate a photoacoustic effect from it."
+212,1886.5833333333335,1883.0,1890.1666666666667,Aniruddha Ray,"So in addition to what Barbara said, actually if you try to do photoacoustic imaging on tissues or on animals, you'll see that there is a lot of photoacoustic signal from every layer."
+213,1893.75,1890.1666666666667,1897.3333333333333,Aniruddha Ray,"So melanin absorbs, everything absorbs."
+214,1900.9166666666665,1897.3333333333333,1904.5,Aniruddha Ray,So it's a big challenge to actually figure out where your signal is uh if your signal is coming from where you want it to be.
+215,1908.0833333333335,1904.5,1911.6666666666667,Aniruddha Ray,And and that's where targeted contrast agents they really help.
+216,1915.25,1911.6666666666667,1918.8333333333333,Aniruddha Ray,"So everything, like every part of our body is talking all the time."
+217,1922.4166666666665,1918.8333333333333,1926.0,Aniruddha Ray,"So whenever you're exposed to light, they are generating tiny bit of acoustic signal, so it's almost like talking."
+218,1928.0,1926.0,1930.0,Brad Smith,I think a couple of you are experts at at like fibers or wave guides or things that actually send the light in.
+219,1932.0,1930.0,1934.0,Brad Smith,Do you want to?
+220,1939.5,1934.0,1945.0,Barbara Smith,So what do we do in my lab?
+221,1950.5,1945.0,1956.0,Barbara Smith,We're using um we're using actually clinically and clinical and research tools um to translate light and sound.
+222,1961.5,1956.0,1967.0,Barbara Smith,"And so we use electrodes as our wave guides to um to send light down, uh target a molecule of interest in the in the deep tissue um that uh might have a some genetic marker."
+223,1972.5,1967.0,1978.0,Barbara Smith,And then um we we can get both sound wave and light wave back up the electrode.
+224,1984.75,1978.0,1991.5,Barbara Smith,"And so all all we need um is all of our um all of our software part uh and then the hardware part that we need is um the laser, uh optical fiber, any of optics that we need and then we um we trans transfer that light down."
+225,1998.25,1991.5,2005.0,Barbara Smith,And we use that both in in research applications and then we also um use that in clinical applications.
+226,2012.75,2005.0,2020.5,Barbara Smith,"And so we uh we develop um integrated systems for like pipels uh so for endometrial cancer for instance that um right now they go in blind and um an OBGYN will take out cells um in in throughout the uterus, but it's just a vacuum system that they'll place in and they'll um release a vacuum and then that tube will be removed manually."
+227,2028.25,2020.5,2036.0,Barbara Smith,And so we've integrated like an optical and acoustic system into that so that they can have visual guidance and eyes where they're currently going in blind.
+228,2043.75,2036.0,2051.5,Barbara Smith,"And so um how we um re I I would say um reposition the light as we go at a 90 degree angle, we'll we'll place an optical fiber in with um with some kind of redirection."
+229,2059.25,2051.5,2067.0,Barbara Smith,"And so we can get um both optics and acoustics coming from the surrounding area so we can look for different different things both endogenous, so like um that hemoglobin and and different kinds of areas where there's increased vasculature um and acoustic information as well and they're also doing transactional ultrasounds."
+230,2074.75,2067.0,2082.5,Barbara Smith,So they're doing acoustic information anyways.
+231,2090.25,2082.5,2098.0,Barbara Smith,Um so we've we've integrated tools into research and clinical.
+232,2101.5,2098.0,2105.0,Brad Smith,"It um it it always impresses me that you know, if you if you do get sick or you know, you get some sort of cancer like that, you"
+233,2108.0,2105.0,2111.0,Brad Smith,"The best labs or the place or the best clinics, you know, that that I've sort of learned that with surgery as well is that there's still a a human performance in these technologies as they guide these things in."
+234,2114.0,2111.0,2117.0,Brad Smith,It's uh training is still a very important.
+235,2120.0,2117.0,2123.0,Brad Smith,I mean eventually I suppose robotics can take this over.
+236,2126.0,2123.0,2129.0,Brad Smith,"But see, you you talked about a fiber idea as well, but I I sort of assume yours is at a more microscopic scale."
+237,2132.0,2129.0,2135.0,Brad Smith,Is that what you're envisioning?
+238,2140.166666666667,2135.0,2145.3333333333335,Sixian You,"Yes, so I was thinking about uh the just like a microendoscopy."
+239,2150.5,2145.3333333333335,2155.6666666666665,Sixian You,So use uh fiber as the wave guide to transmit the images in.
+240,2160.833333333333,2155.6666666666665,2166.0,Sixian You,There are challenges about it is that uh how to preserve the images on the way in and on the way out.
+241,2169.125,2166.0,2172.25,Sixian You,And so how to use ultrasound to push this deeper.
+242,2175.375,2172.25,2178.5,Sixian You,Um photoacoustic is a perfect genius example of doing this.
+243,2181.625,2178.5,2184.75,Sixian You,Uh another way to think about this um I have been really interested in this is how can we use the contrast from optical imaging.
+244,2187.875,2184.75,2191.0,Sixian You,"We have fluorescence, we have phase contrast from optics."
+245,2193.875,2191.0,2196.75,Sixian You,"sound the unscattering property, right?"
+246,2199.625,2196.75,2202.5,Sixian You,"So if we know the signal is there, can we use ultrasound to confine the signal there, to modulate the signal, and then to get the signal back."
+247,2205.375,2202.5,2208.25,Sixian You,So I think that could be very interesting and I need to learn more about Barbara's research on electrodes as wave guide.
+248,2211.125,2208.25,2214.0,Sixian You,"Uh, it sounds really fascinating."
+249,2215.75,2214.0,2217.5,Barbara Smith,"Oh, I'd be delighted."
+250,2219.25,2217.5,2221.0,Barbara Smith,"Yeah, that's we are a little geeked out by it."
+251,2224.5,2222.0,2227.0,Barbara Smith,"Yeah, it seems like there's a lot of a lot of connections throughout throughout."
+252,2228.833333333333,2227.0,2230.6666666666665,Yevgenia Kozorovitskiy,I would also Barbara love to talk to you more about that.
+253,2232.5,2230.6666666666665,2234.3333333333335,Yevgenia Kozorovitskiy,We do some micro LED based wireless uh tech for sensing and control.
+254,2236.166666666667,2234.3333333333335,2238.0,Yevgenia Kozorovitskiy,"Uh, so I would I would love to learn more about your wave guide."
+255,2238.9,2238.0,2239.8,Barbara Smith,Sounds sounds great.
+256,2242.5,2241.6,2243.4,Barbara Smith,Should we have should we talk now?
+257,2244.3,2243.4,2245.2,Barbara Smith,We talk later.
+258,2246.1,2245.2,2247.0,Barbara Smith,So maybe we'll keep on we'll keep on.
+259,2251.5,2247.0,2256.0,Brad Smith,"Yeah, let's put a pin in that and if we find we have a bit of uh a bit of a lag, we'll come back to that."
+260,2260.5,2256.0,2265.0,Brad Smith,I I want to help Jazz out a little bit because she's the only one in the whole conference I think doing plants and it seemed to me that plants have got like something around the outside so sticking an electrode into a plant might be the way to go.
+261,2269.5,2265.0,2274.0,Brad Smith,"Is has that ever been thought about or uh what what's the problem that we could help you with, Jazz?"
+262,2277.9444444444443,2275.0,2280.8888888888887,Alexandra Dickinson,"I mean, I was thinking that would be really cool and I don't think it's been done to my knowledge."
+263,2283.833333333333,2280.8888888888887,2286.777777777778,Alexandra Dickinson,"Um, so I think that would be something pretty exciting to try."
+264,2289.722222222222,2286.777777777778,2292.6666666666665,Alexandra Dickinson,"I mean, I was just thinking, you know, as everybody was talking, um, something like you can think of plants are as super regenerators, right?"
+265,2295.6111111111113,2292.6666666666665,2298.5555555555557,Alexandra Dickinson,"Like a a bamboo plant for instance, if you ever have bamboo in your yard and you're trying to get rid of it, it's not going to happen."
+266,2301.5,2298.5555555555557,2304.4444444444443,Alexandra Dickinson,Like that plan is going to grow back.
+267,2307.3888888888887,2304.4444444444443,2310.3333333333335,Alexandra Dickinson,"You can chop it down, you can cut off the roots, it will grow back."
+268,2313.277777777778,2310.3333333333335,2316.222222222222,Alexandra Dickinson,So it would be really cool to to look at a tissue like that that's really thick.
+269,2319.166666666667,2316.222222222222,2322.1111111111113,Alexandra Dickinson,"Um, if you could get, you know, a centimeter or two into that tissue and and look at the, you know, the regeneration processes."
+270,2325.0555555555557,2322.1111111111113,2328.0,Alexandra Dickinson,I think that would be really cool application of of this kind of technology that uh has not been to my knowledge done at all before.
+271,2337.5,2329.0,2346.0,Brad Smith,"Yes, I've wondered there's people often want to have optical sensors sometimes for like pollution in the soil or the water and that, but I sometimes wonder if plants because they draw stuff up could be an interesting way to report back current environmental conditions."
+272,2351.0,2347.0,2355.0,Alexandra Dickinson,"Yeah, and plants, I mean, one way people use plants is is like for phytoremediation."
+273,2359.0,2355.0,2363.0,Alexandra Dickinson,"So plants suck up the toxins and then degrade them is the idea and then release, you know, the the graded bits into the atmosphere so it's safe."
+274,2365.166666666667,2363.0,2367.3333333333335,Brad Smith,That's quite interesting.
+275,2369.5,2367.3333333333335,2371.6666666666665,Brad Smith,"Well, just to move us one of the other points that we we had here in our in our talk sheet was this um adaptive imaging, this this scope or integrated."
+276,2373.833333333333,2371.6666666666665,2376.0,Brad Smith,You So um let me try to read it out I suppose.
+277,2380.75,2376.0,2385.5,Brad Smith,"What integrative techniques allow wide field screening of tissue to identify a region of interest which can be subsequently imaged at very high magnifications, perhaps super resolution."
+278,2390.25,2385.5,2395.0,Brad Smith,"So in some sense that's been talked about maybe in other sessions, but um."
+279,2404.0,2395.0,2413.0,Brad Smith,I don't know exactly how you would do that.
+280,2422.0,2413.0,2431.0,Brad Smith,You would um anybody anybody got any ideas on how you would I.
+281,2438.75,2431.0,2446.5,Luke Mortensen,"I was talking with uh Anaruda and Jazz yesterday about something kind of related to this, you know, if you have some sort of like some carrier or something, you can have multi component um where they're like, you know, permanently colocalized um reporters where you can, you know, perhaps use your photoacoustic imaging to be able to identify a location of interest and then have some kind of fluorescent tag associated with it as well."
+282,2454.25,2446.5,2462.0,Luke Mortensen,"maybe even one that, you know, could allow you to do single molecule or whatever, you know, whatever else."
+283,2462.5,2462.0,2463.0,Luke Mortensen,going to do.
+284,2464.0,2463.0,2465.0,Luke Mortensen,"Um, that seems like it could be like a cool way to that."
+285,2468.5,2465.0,2472.0,Luke Mortensen,"I mean, I just I can't think of very many or any any examples of that, but, you know, it's not my area of expertise, so."
+286,2484.0,2481.0,2487.0,Brad Smith,"I mean, I understand that problem in sort of in a clinical circumstance that you see a large piece of tissue and then you go in and then you try to do it almost cellular level microscopy."
+287,2489.0,2487.0,2491.0,Brad Smith,Adding then deep tissue on top of that seems a really difficult problem.
+288,2498.0,2495.0,2501.0,Brad Smith,Maybe we we'll we'll put a pin in that one as well.
+289,2505.0,2502.0,2508.0,Carolyn Bayer,"Just just to throw an idea out there not to talk about photoacoustics again, but people have tried to take temporal characteristics, right?"
+290,2510.25,2508.0,2512.5,Carolyn Bayer,"Where you have something that's blinking, um, and use that to improve resolution, right?"
+291,2514.75,2512.5,2517.0,Carolyn Bayer,So you can.
+292,2519.75,2517.0,2522.5,Carolyn Bayer,"If your photoacoustic reporter is blinking, then you know, you can use a video and you can parse out the specific location of that thing."
+293,2529.5,2528.0,2531.0,Brad Smith,"Yes, I suppose there is lifetime imaging."
+294,2534.75,2531.0,2538.5,Brad Smith,Does anybody here work in lifetime imaging?
+295,2542.25,2538.5,2546.0,Brad Smith,I mean is that is that a technology that would work at a deeper tissue as well?
+296,2552.0,2547.0,2557.0,Aniruddha Ray,I worked on um using photoacoustics to determine the lifetime of dies for oxygen sensing.
+297,2559.25,2557.0,2561.5,Aniruddha Ray,Inside tissues.
+298,2563.75,2561.5,2566.0,Aniruddha Ray,"Um, but that was what I did was uh was more of a sensing than imaging."
+299,2568.25,2566.0,2570.5,Aniruddha Ray,But it's definitely possible.
+300,2572.75,2570.5,2575.0,Aniruddha Ray,But then again with photoacoustics your resolution is not as good as optical purely optical methods.
+301,2582.666666666667,2578.0,2587.3333333333335,Sixian You,measurement is uh is an interesting approach to tackle deep tissue imaging because uh most fluorescence imaging are intensity dependent.
+302,2592.0,2587.3333333333335,2596.6666666666665,Sixian You,"So if you go deeper, it's actually not absolute, but lifetime is kind of absolute."
+303,2601.333333333333,2596.6666666666665,2606.0,Sixian You,"So as long as you have enough photons, uh lifetime could be a robust way to go go forward, especially for some metabolic ratio metric imaging."
+304,2610.5,2609.0,2612.0,Brad Smith,Let's um I mean I think.
+305,2616.25,2612.0,2620.5,Brad Smith,We we could return back to this wave guide.
+306,2624.75,2620.5,2629.0,Brad Smith,"We've got 15 minutes, so we we may have to go to our bullet points, but I was anybody had any points that they wrote down or thought about that that they'd like to move this discussion in a to raise now or we can go back to Barbara's wave guide technology which was getting a lot of interest here."
+307,2631.0,2629.0,2633.0,Carolyn Bayer,Wavefront is also interesting.
+308,2634.5,2633.0,2636.0,Barbara Smith,There's a couple of people that do wave front shaping in here.
+309,2638.5,2636.0,2641.0,Carolyn Bayer,"Yeah, that's what I was about to say."
+310,2643.5,2641.0,2646.0,Carolyn Bayer,That's what I always ask when I meet people who do wave front shaping.
+311,2647.0,2646.0,2648.0,Carolyn Bayer,How do we get.
+312,2649.5,2648.0,2651.0,Carolyn Bayer,to five to six centimeters with your technique.
+313,2651.5,2651.0,2652.0,Carolyn Bayer,Can we?
+314,2652.5,2652.0,2653.0,Luke Mortensen,You mean millimeters or.
+315,2655.5,2655.0,2656.0,Brad Smith,"Well, she said centimeters."
+316,2661.0,2660.0,2662.0,Carolyn Bayer,"Okay, let's let's try millimeters first."
+317,2663.0,2662.0,2664.0,Carolyn Bayer,Or or half a centimeter.
+318,2665.0,2664.0,2666.0,Carolyn Bayer,How about half a centimeter?
+319,2672.0,2668.0,2676.0,Brad Smith,"Well, does anybody want to just explain that in layman's terms wave front technology to the rest of the group."
+320,2679.5,2678.0,2681.0,Sixian You,So wave front image uh engineering.
+321,2684.0,2681.0,2687.0,Carolyn Bayer,determining how to send light in in a way that it scatters deeper in tissue.
+322,2691.375,2688.0,2694.75,Brad Smith,One thing that I I've I've definitely heard some talks where people just image what they call the the early photons.
+323,2698.125,2694.75,2701.5,Brad Smith,So the ones that are the the least the least the least scattered.
+324,2704.875,2701.5,2708.25,Brad Smith,So you only collect the first 5% of the signal on the assumption that it got there first was the least scattered and so it's going to have the best resolution and you toss out 95% of the the rest of it.
+325,2711.625,2708.25,2715.0,Brad Smith,I don't know if that's a feasible technology.
+326,2718.5,2715.0,2722.0,Sixian You,"Yeah, a lot of the technologies that to reject scatter light, they call this ballistic photons, which only go back and forth without other uh rerouting."
+327,2731.5,2730.0,2733.0,Brad Smith,"I presume that always has a huge sensitivity problem, yeah."
+328,2736.0,2734.0,2738.0,Sixian You,Exactly because the ballistic photons decay exponentially with depth.
+329,2748.5,2743.0,2754.0,Brad Smith,"Um, maybe we should um, either we can go to the Google document um, to start starting our bullet points since Andrew set out now the chopper."
+330,2758.0,2756.0,2760.0,Aniruddha Ray,"Sure, I can start to summarize and we can conclude this discussion."
+331,2764.0,2762.0,2766.0,Aniruddha Ray,"One point, are we, are we on slide 55 or should we be on 54?"
+332,2770.5,2767.0,2774.0,Brad Smith,"Yeah, we're 54, 3.4, deep tissue imaging."
+333,2776.0,2775.0,2777.0,Brad Smith,"Oh, so we've gone and put our names in the wrong one, have we?"
+334,2781.0,2780.0,2782.0,Brad Smith,So should someone want to cut and paste that?
+335,2783.75,2783.0,2784.5,Andrew Feig,"You're actually you're in room three, not room four."
+336,2785.25,2784.5,2786.0,Andrew Feig,So you're 3.3.
+337,2790.0,2788.0,2792.0,Brad Smith,"Okay, now we're pirates."
+338,2794.0,2792.0,2796.0,Brad Smith,that's quite interesting that we've gone in and we should do ransomware and we'll occupy their slide until they pay us some money or something.
+339,2797.5,2797.0,2798.0,Aniruddha Ray,So actually someone else hijacked our room.
+340,2800.0,2799.0,2801.0,Barbara Smith,Someone's occupied ours.
+341,2802.0,2801.0,2803.0,Barbara Smith,"You're not going to get rich that way, Brad."
+342,2807.0,2806.0,2808.0,Barbara Smith,It's probably the people we've occupied.
+343,2810.0,2809.0,2811.0,Aniruddha Ray,I guess we can do 3.4 then.
+344,2817.166666666667,2816.0,2818.3333333333335,Brad Smith,"Well, we'll just become 3.4B or something like this."
+345,2819.5,2818.3333333333335,2820.6666666666665,Brad Smith,"So what you're on slide, which one?"
+346,2824.0,2823.0,2825.0,Aniruddha Ray,"Um, I'm doing 54."
+347,2832.5,2826.0,2839.0,Brad Smith,"Yeah, all right."
+348,2845.5,2839.0,2852.0,Brad Smith,"So if people want to focus on slide 54, we start building up our bullet points."
+349,2858.5,2852.0,2865.0,Brad Smith,"If uh, further advances in genetic reporters is going to be coupled with uh hardware developments."
+350,2866.5,2866.0,2867.0,Aniruddha Ray,"Yeah, light sheet microscopy, right?"
+351,2869.5,2868.0,2871.0,Brad Smith,"So yeah, especially light sheet microscopy."
+352,2879.5,2872.0,2887.0,Aniruddha Ray,"Um, and the issues were uh, we need brighter and um, brighter pro."
+353,2889.75,2887.0,2892.5,Brad Smith,Also bio responsive.
+354,2895.25,2892.5,2898.0,Brad Smith,"I mean some of them would be voltage um gated or voltage responsive, but one could imagine other types of responsive systems."
+355,2905.0,2899.0,2911.0,Aniruddha Ray,And so example is voltage sensitive.
+356,2917.0,2911.0,2923.0,Aniruddha Ray,"Um, and so with voltage sensitive, um, they there is also I think you mentioned that there was also a problem that most of the dies have a inverted sensitivity."
+357,2929.0,2923.0,2935.0,Aniruddha Ray,"Uh, not dies, but most of the probes they have inverted sensitivity where the fluorescence decreases when the voltage increases, right?"
+358,2938.5,2936.0,2941.0,Yevgenia Kozorovitskiy,"Yeah, and also they they're just very dim."
+359,2943.5,2941.0,2946.0,Yevgenia Kozorovitskiy,"So brighter probes kind of captures that, but there's additional engineering to do."
+360,2948.5,2946.0,2951.0,Yevgenia Kozorovitskiy,"Uh, and then also I guess occupying more parts of uh excitation emission spectrum."
+361,2958.0,2955.0,2961.0,Brad Smith,Maybe a second bullet point is uh photoacoustic imaging saves the day.
+362,2965.5,2964.0,2967.0,Brad Smith,"Uh, can photoacoustic image save the day?"
+363,2968.5,2967.0,2970.0,Brad Smith,I I don't know.
+364,2971.5,2970.0,2973.0,Brad Smith,"maybe shouldn't use that phrase, but it's photoacoustic imaging has promise, I don't know, has has promise and challenges."
+365,2974.5,2973.0,2976.0,Brad Smith,I don't know um.
+366,2977.5,2977.0,2978.0,Brad Smith,"What are the challenges, Carolyn?"
+367,2982.166666666667,2979.0,2985.3333333333335,Carolyn Bayer,"Well, spatial resolution, right?"
+368,2988.5,2985.3333333333335,2991.6666666666665,Carolyn Bayer,So we're obviously not in the same domain as far as spatial resolution.
+369,2994.833333333333,2991.6666666666665,2998.0,Carolyn Bayer,"So um, and then when you start thinking about how to improve spatial resolution, then sensitivity becomes a problem, you know, as you're imaging smaller and smaller objects."
+370,3002.5,3001.0,3004.0,Aniruddha Ray,"Right and and depth is, sorry, go ahead."
+371,3006.5,3005.0,3008.0,Carolyn Bayer,I would I would love to figure out how to how to bridge that though.
+372,3010.5,3009.0,3012.0,Aniruddha Ray,And and depth is also a problem.
+373,3013.5,3012.0,3015.0,Aniruddha Ray,"the deeper you go, the poorer the resolution becomes."
+374,3018.5,3015.0,3022.0,Aniruddha Ray,"Um, for example with photoacoustic microscopy, it's possible to get down to few tens of uh micron resolution."
+375,3023.0,3022.0,3024.0,Aniruddha Ray,"Um, or or even a few micron resolution."
+376,3029.5,3028.0,3031.0,Aniruddha Ray,"Okay, so there was some problem with this."
+377,3032.5,3032.0,3033.0,Brad Smith,"You just saved it for you, did it?"
+378,3038.5,3038.0,3039.0,Aniruddha Ray,It just got reset.
+379,3056.0,3053.0,3059.0,Carolyn Bayer,"Yeah, we kept having this problem in the other meetings and they ended up just putting copy and pasting it over."
+380,3068.5,3066.0,3071.0,Brad Smith,There's history.
+381,3073.5,3071.0,3076.0,Brad Smith,"Um, is anyone smart enough to know where the history of this?"
+382,3078.5,3076.0,3081.0,Brad Smith,If you want to reget that text.
+383,3106.0,3104.0,3108.0,Yevgenia Kozorovitskiy,"I'm I'm looking at history, but I don't actually see the right version."
+384,3112.0,3111.0,3113.0,Yevgenia Kozorovitskiy,That has stuff in it.
+385,3115.5,3115.0,3116.0,Brad Smith,I'm just a bit worried this is going to happen again here shortly.
+386,3116.5,3116.0,3117.0,Brad Smith,We're going to lose it again.
+387,3117.5,3117.0,3118.0,Brad Smith,It's um.
+388,3137.8,3135.0,3140.6,Luke Mortensen,Maybe it'd seem more like the like wavefront or you know the challenges of achieving wavefront reconstruction to get wide field super resolution check techniques.
+389,3143.3999999999996,3140.6,3146.2,Luke Mortensen,I think that's going to be tough to overcome because they're very sensitive.
+390,3149.0,3146.2,3151.8,Luke Mortensen,Sam or something is like a true wide field sim is going to be highly sensitive to tissue aberrations and scattering.
+391,3154.6000000000004,3151.8,3157.4,Luke Mortensen,"Okay, well that's plenty of bullet points."
+392,3160.2,3157.4,3163.0,Luke Mortensen,I don't think we need
+393,3166.333333333333,3163.0,3169.6666666666665,Brad Smith,to increase the number.
+394,3173.0,3169.6666666666665,3176.3333333333335,Brad Smith,"If anybody has any comment of it increasing the quality of those statements, go ahead."
+395,3179.666666666667,3176.3333333333335,3183.0,Brad Smith,Um otherwise we got a couple of minutes so Barbara if you want to I don't know if anybody had any more of those wave guide questions for you.
+396,3184.0,3183.0,3185.0,Barbara Smith,"Yeah, I'd be glad I'd be glad to navigate."
+397,3188.75,3188.0,3189.5,Brad Smith,You call it an electrode.
+398,3190.25,3189.5,3191.0,Brad Smith,I'm a little confused as an outsider.
+399,3191.75,3191.0,3192.5,Brad Smith,Why do you use the word electrode?
+400,3193.25,3192.5,3194.0,Brad Smith,That implies to me electrochemistry.
+401,3199.6923076923076,3195.0,3204.3846153846152,Barbara Smith,"Yeah, so we do it's electrophysiology."
+402,3209.076923076923,3204.3846153846152,3213.769230769231,Barbara Smith,So um the micropipette electrode um was developed I think it's around the 1960s and um they record neuronal activity.
+403,3218.4615384615386,3213.769230769231,3223.153846153846,Barbara Smith,It's a high resolution recording of typically single neurons um and their activity level um with the with the um basically I won't go into detail.
+404,3227.846153846154,3223.153846153846,3232.5384615384614,Barbara Smith,Um so the electrode is placed into the brain and um it's typically done either um blind or um using optical microscopy approaches from from external sources.
+405,3237.2307692307695,3232.5384615384614,3241.923076923077,Barbara Smith,So uh a microscope on the outside.
+406,3246.6153846153848,3241.923076923077,3251.3076923076924,Barbara Smith,"And and so what ends up happening is if you have um if you work with this blind, you would use like probably a DIC microscope and um you can do this in vivo and the electrode is placed in and uh positive pressure is is pushed into the electrode as it's moved through the brain tissue so that that electrode doesn't get clogged."
+407,3256.0,3251.3076923076924,3260.6923076923076,Barbara Smith,"The tip of the electrode is about um one to three microns in diameter and that electrode is is moved little very very very slowly into the brain um and there's no way to target selective cells of interest using the blind approach, but you can get deeper, right?"
+408,3265.3846153846152,3260.6923076923076,3270.076923076923,Barbara Smith,So um the only way the most basic way that they know that they've hit a cell of interest is by creating a connection between that electrode and that cell.
+409,3274.7692307692305,3270.076923076923,3279.4615384615386,Barbara Smith,So they place it from a positive pressure and then we make a negative pressure from that.
+410,3284.153846153846,3279.4615384615386,3288.846153846154,Barbara Smith,"We create a bleb, so it sucks up part of that membrane of the cell."
+411,3293.5384615384614,3288.846153846154,3298.230769230769,Barbara Smith,Um we um increase the pressure and it opens up the cell membrane so that there's a direct connection between that electrode and the fluids within the electrode and the cell um solution.
+412,3302.923076923077,3298.230769230769,3307.6153846153848,Barbara Smith,"And and what ends up happening is the um it ends up being able to record that cell, but you don't know what cell you're hitting until you start recording it."
+413,3312.3076923076924,3307.6153846153848,3317.0,Barbara Smith,"And if you've started recording the wrong cell, you have to remove that micropipette electrode um throw it out, place a new one in and then enter into the brain one more time."
+414,3321.6923076923076,3317.0,3326.3846153846152,Barbara Smith,And so uh it's kind of a hunt and peck process.
+415,3331.076923076923,3326.3846153846152,3335.769230769231,Barbara Smith,You can get deeper and people can record very well uh neuroscientists have been recording like that for for decades.
+416,3340.4615384615386,3335.769230769231,3345.153846153846,Barbara Smith,"Um but lately with two photon microscopy, you can get down to about a millimeter and you can genetically alter or place in different kinds of dyes and and selectively target neurons up to a millimeter."
+417,3349.846153846154,3345.153846153846,3354.5384615384614,Barbara Smith,"But past the millimeter from the cortical surface, um there are minimal ways to do it."
+418,3359.2307692307695,3354.5384615384614,3363.923076923077,Barbara Smith,So you can suction out a portion of the brain.
+419,3368.6153846153848,3363.923076923077,3373.3076923076924,Barbara Smith,Um that's one way to do it and then the animal is still alive and you can move down um and you can do within a millimeter of whatever area you've sectioned.
+420,3378.0,3373.3076923076924,3382.6923076923076,Barbara Smith,"Um or if you're coming from the top, you can see cells about within a millimeter of of where that surface is."
+421,3387.3846153846152,3382.6923076923076,3392.076923076923,Barbara Smith,"If you're exceptional if you're doing three photon or multi photon, you can get maybe two millimeters."
+422,3396.7692307692305,3392.076923076923,3401.4615384615386,Barbara Smith,Um it's a little bit rough.
+423,3406.153846153846,3401.4615384615386,3410.846153846154,Barbara Smith,Um but the way that we're doing this is oh oh is we're integrating light and sound into that micropipette electrode so you don't need a microscope on the outside to guide that cell.
+424,3415.5384615384614,3410.846153846154,3420.230769230769,Barbara Smith,And so um we can get uh stains and genetic um uh genetic contrast throughout the brain and now we can we can tap into cells um of interest at at depths beyond one millimeter as deep as that.
+425,3424.923076923077,3420.230769230769,3429.6153846153848,Barbara Smith,"So we're combining um blind and an imaging guided approach by doing this, but without the microscope on the outside."
+426,3434.3076923076924,3429.6153846153848,3439.0,Barbara Smith,Hope that made sense.
+427,3440.583333333333,3439.0,3442.1666666666665,Brad Smith,"Yeah, no it's incredibly."
+428,3443.75,3442.1666666666665,3445.3333333333335,Brad Smith,The timer started going.
+429,3446.916666666667,3445.3333333333335,3448.5,Brad Smith,"Yes, it is very hard to talk with a clock in front of you, isn't it?"
+430,3450.083333333333,3448.5,3451.6666666666665,Brad Smith,It's a thing.
+431,3453.25,3451.6666666666665,3454.8333333333335,Brad Smith,"It's a Well, thank you very much to everybody."
+432,3456.416666666667,3454.8333333333335,3458.0,Brad Smith,It's uh these sessions are always a little draining when everyone's staring at each other and trying to overcome that flight or fight.
+433,3513.5,3512.0,3515.0,Silvia Ronco,"Okay, are we all here now?"

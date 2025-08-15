@@ -1,0 +1,6 @@
+lens,start_global_sec,end_global_sec,center_global_sec,unit_id_center,node_speaker,node_text,edge_speaker_i,edge_speaker_j,pair_sep_sec,edge_weight,context_uniq_speakers_±15s,context_±15s,annotations,has_decision,has_explanation,has_new_idea,is_true_convergence
+Blocks,2868.0,2868.0,2868.0,181,Aniruddha Ray,"Yeah, light sheet microscopy, right?",Aniruddha Ray,Brad Smith,3.0,0.9081329107284546,0,,,,,,False
+Clauses,2639.0,2639.0,2639.0,308,Barbara Smith,There's a couple of people that do wave front shaping in here.,Barbara Smith,Carolyn Bayer,9.0,0.8533292412757874,0,,,,,,False
+Clauses,2868.0,2868.0,2868.0,350,Aniruddha Ray,"Yeah, light sheet microscopy, right?",Aniruddha Ray,Brad Smith,3.0,0.908133029937744,0,,,,,,False
+Sentence,2639.0,2639.0,2639.0,308,Barbara Smith,There's a couple of people that do wave front shaping in here.,Barbara Smith,Carolyn Bayer,9.0,0.8533292412757874,0,,,,,,False
+Sentence,2868.0,2868.0,2868.0,350,Aniruddha Ray,"Yeah, light sheet microscopy, right?",Aniruddha Ray,Brad Smith,3.0,0.908133029937744,0,,,,,,False

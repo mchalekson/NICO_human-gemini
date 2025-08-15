@@ -1,0 +1,9 @@
+Session: 2021_05_21_ABI_S15
+Merged unique events: 7 (showing top 7)
+• t=918.0s | lenses=[Blocks,Clauses,Sentence] | strength=7.52 (speakers≈3.0, cross≈176.0, prop=True, commit=True)
+• t=913.0s | lenses=[Blocks,Clauses,Sentence] | strength=7.46 (speakers≈3.0, cross≈173.0, prop=True, commit=True)
+• t=679.7s | lenses=[Blocks,Clauses,Sentence] | strength=4.25 (speakers≈2.0, cross≈62.33, prop=True, commit=True)
+• t=690.0s | lenses=[Blocks,Clauses,Sentence] | strength=4.23 (speakers≈2.0, cross≈61.67, prop=True, commit=True)
+• t=1036.0s | lenses=[Clauses,Sentence] | strength=4.22 (speakers≈2.0, cross≈61.0, prop=True, commit=True)
+• t=1080.0s | lenses=[Clauses,Sentence] | strength=4.1 (speakers≈2.0, cross≈55.0, prop=True, commit=True)
+• t=1049.0s | lenses=[Blocks,Clauses,Sentence] | strength=3.89 (speakers≈2.0, cross≈44.33, prop=True, commit=True)

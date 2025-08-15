@@ -1,0 +1,9 @@
+Session: 2021_05_21_ABI_S15
+Auto events total: 2 | kept: 2 | rejected: 0
+
+- Clauses: events=1, kept=1, rejected=0
+- Sentence: events=1, kept=1, rejected=0
+
+Kept events:
+  • Clauses @ 922.5s (speakers=3, edges=2, cross=1)
+  • Sentence @ 922.5s (speakers=3, edges=2, cross=1)

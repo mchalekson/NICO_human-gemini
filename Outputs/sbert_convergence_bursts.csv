@@ -1,0 +1,3 @@
+burst_idx,session,t_start,t_end,n_pairs,uniq_speakers,sim_max,sim_mean,example_pair
+0,2021_05_21_ABI_S15,55.28125,163.54166666666666,13,4,0.757158637046814,0.6686176245029156,"Oh man, I'm a chemistry based person and optical imaging is primarily what I do. … || So I work on nanotechnology aided optical imaging, which involves fluorescence a …"
+1,2021_05_21_ABI_S15,2639.0,2675.75,10,5,0.8533292412757874,0.6764843344688416,There's a couple of people that do wave front shaping in here. … || That's what I always ask when I meet people who do wave front shaping. …

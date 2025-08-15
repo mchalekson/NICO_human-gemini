@@ -1,0 +1,35 @@
+Session: 2021_05_21_ABI_S15
+Total candidates: 204 | kept by signature: 28 | rejected: 176
+- Blocks: candidates=68 kept=8 rejected=60
+- Clauses: candidates=68 kept=10 rejected=58
+- Sentence: candidates=68 kept=10 rejected=58
+
+Kept events:
+  • Blocks @ 677.0s (speakers=2, cross=27)
+  • Blocks @ 680.0s (speakers=2, cross=27)
+  • Blocks @ 682.0s (speakers=2, cross=27)
+  • Blocks @ 690.0s (speakers=2, cross=27)
+  • Blocks @ 913.0s (speakers=3, cross=59)
+  • Blocks @ 917.0s (speakers=3, cross=47)
+  • Blocks @ 919.0s (speakers=3, cross=47)
+  • Blocks @ 1049.0s (speakers=2, cross=19)
+  • Clauses @ 677.0s (speakers=2, cross=73)
+  • Clauses @ 680.0s (speakers=2, cross=80)
+  • Clauses @ 682.0s (speakers=2, cross=87)
+  • Clauses @ 690.0s (speakers=2, cross=79)
+  • Clauses @ 913.0s (speakers=3, cross=230)
+  • Clauses @ 917.0s (speakers=3, cross=249)
+  • Clauses @ 919.0s (speakers=3, cross=232)
+  • Clauses @ 1036.0s (speakers=2, cross=61)
+  • Clauses @ 1049.0s (speakers=2, cross=57)
+  • Clauses @ 1080.0s (speakers=2, cross=55)
+  • Sentence @ 677.0s (speakers=2, cross=73)
+  • Sentence @ 680.0s (speakers=2, cross=80)
+  • Sentence @ 682.0s (speakers=2, cross=87)
+  • Sentence @ 690.0s (speakers=2, cross=79)
+  • Sentence @ 913.0s (speakers=3, cross=230)
+  • Sentence @ 917.0s (speakers=3, cross=249)
+  • Sentence @ 919.0s (speakers=3, cross=232)
+  • Sentence @ 1036.0s (speakers=2, cross=61)
+  • Sentence @ 1049.0s (speakers=2, cross=57)
+  • Sentence @ 1080.0s (speakers=2, cross=55)
