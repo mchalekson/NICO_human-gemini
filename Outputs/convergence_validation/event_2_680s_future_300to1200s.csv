@@ -1,0 +1,59 @@
+center_global_sec,ts,speaker,transcript,anchor_hit,class
+679.5,981.0,Aniruddha Ray,"Inside tissues. Um, but that was what I did was uh was more of a sensing than imaging.",True,reopen
+679.5,987.0,Carolyn Bayer,"Yeah, we kept having this problem in the other meetings and they ended up just putting copy and pasting it over. Yeah.",True,affirm
+679.5,989.0,Brad Smith,"Um maybe Carolyn bring you in as we've just sort of been focusing a little bit here on pure fluorescence, but photoacoustic is uh that's one of the",False,reopen
+679.5,990.0,Aniruddha Ray,But it's definitely possible. But then again with photoacoustics your resolution is not as good as optical purely optical methods.,False,reopen
+679.5,997.0,Sixian You,"And then the second aspect is how to use optics and algorithms to push it deeper. So instead of avoid uh multiple scattering photons just getting ballistic photons, how can we use multiple scattering? How can we use deterministic models of multiple scattering to get deeper into the tissue.",True,reopen
+679.5,999.0,Aniruddha Ray,Yeah.,True,affirm
+679.5,1000.0,Brad Smith,"There's history. Um, is anyone smart enough to know where the history of this? If you want to reget that text.",True,reopen
+679.5,1002.0,Sixian You,"measurement is uh is an interesting approach to tackle deep tissue imaging because uh most fluorescence imaging are intensity dependent. So if you go deeper, it's actually not absolute, but lifetime is kind of absolute. So as long as you have enough photons, uh lifetime could be a robust way to go go forward, especially for some metabolic ratio metric imaging.",True,reopen
+679.5,1006.0,Barbara Smith,"And so we uh we develop um integrated systems for like pipels uh so for endometrial cancer for instance that um right now they go in blind and um an OBGYN will take out cells um in in throughout the uterus, but it's just a vacuum system that they'll place in and they'll um release a vacuum and then that tube will be removed manually. And so we've integrated like an optical and acoustic system into that so that they can have visual guidance and eyes where they're currently going in blind. And so um how we um re I I would say um reposition the light as we go at a 90 degree angle, we'll we'll place an optical fiber in with um with some kind of redirection. And so we can get um both optics and acoustics coming from the surrounding area so we can look for different different things both endogenous, so like um that hemoglobin and and different kinds of areas where there's increased vasculature um and acoustic information as well and they're also doing transactional ultrasounds. So they're doing acoustic information anyways. Um so we've we've integrated tools into research and clinical.",True,reopen
+679.5,1007.0,Carolyn Bayer,"I was kind of my question as I was listening is that um, are we only thinking about deep tissue imaging in the context of optics and it seems like it's a very, you know, optics microscopy heavy group, but um, obviously thinking about our colleagues that work in other imaging modalities like MRI.",True,reopen
+679.5,1007.0,Brad Smith,Right.,False,affirm
+679.5,1007.0,Carolyn Bayer,Right.,False,affirm
+679.5,1007.0,Brad Smith,Right.,False,affirm
+679.5,1009.0,Silvia Ronco,"Okay, are we all here now?",False,reopen
+679.5,1020.0,Sixian You,"And look, there's a way to cheat cheat it. Uh, so uh we just insert a fiber into it.",False,affirm
+679.5,1028.0,Luke Mortensen,"Sorry, change location. I use my computer. Okay, um, I'm uh assistant professor at University of Georgia. Um, and uh Athens Georgia, um biomedical engineering background. Um, and I um am primarily working with uh multiphoton imaging. Um, so two photon and you know, a bunch of towards three photon, you know, etc. And um, uh trying to um move as well both on the fluorescence side, um as well as in the second harmonic, third harmonic generation.",True,affirm
+679.5,1033.0,Brad Smith,Let's um I mean I think.,True,proposal
+679.5,1036.0,Brad Smith,"We we could return back to this wave guide. We've got 15 minutes, so we we may have to go to our bullet points, but I was anybody had any points that they wrote down or thought about that that they'd like to move this discussion in a to raise now or we can go back to Barbara's wave guide technology which was getting a lot of interest here.",True,reopen
+679.5,1038.0,Yevgenia Kozorovitskiy,"I'm I'm looking at history, but I don't actually see the right version.",False,reopen
+679.5,1049.0,Carolyn Bayer,"Um, you know, I do photoacoustics which is using um optics to excite to then ultrasound acoustics to receive. Um, you know, is there some other excitation that we should be thinking about beyond light since we know the limitations of light or",True,proposal
+679.5,1060.0,Carolyn Bayer,"Yeah, that's what I was about to say. That's what I always ask when I meet people who do wave front shaping.",True,affirm
+679.5,1062.0,Luke Mortensen,You guys can hear me?,True,reopen
+679.5,1065.0,Sixian You,I can hear you.,True,neutral
+679.5,1070.0,Carolyn Bayer,How do we get.,True,reopen
+679.5,1072.0,Luke Mortensen,"Um and um so I guess I'll continue. Um, and so we're working towards like trying to image into and through highly scattering bone um or other highly scattering tissues. Um, and doing that by moving towards like 1300, 1700 uh wavelength regime as well as doing um aberration correction and scattering correction to allow our point spread function to be um reconstructed deep in the tissue.",True,neutral
+679.5,1072.0,Carolyn Bayer,"alternatively, I mean just to describe what how we get around the limitation in photoacoustic imaging is that",True,neutral
+679.5,1075.0,Carolyn Bayer,Can we?,True,reopen
+679.5,1079.0,Brad Smith,"Well, she said centimeters.",True,neutral
+679.5,1080.0,Carolyn Bayer,"we are not worried about coherent focus light, you know, we're using scattered light for our imaging purpose.",True,neutral
+679.5,1084.0,Carolyn Bayer,"Okay, let's let's try millimeters first.",False,proposal
+679.5,1086.0,Carolyn Bayer,Or or half a centimeter. How about half a centimeter?,False,reopen
+679.5,1092.0,Brad Smith,"Well, does anybody want to just explain that in layman's terms wave front technology to the rest of the group.",True,neutral
+679.5,1096.0,Carolyn Bayer,Right.,False,affirm
+679.5,1097.0,Carolyn Bayer,"Um that said we still have depth limitations. You know, we're limited to to two to three centimeters. I would say. Um, but we still want to go deeper than that even obviously so that we can image clinically.",True,reopen
+679.5,1099.0,Brad Smith,"It um it it always impresses me that you know, if you if you do get sick or you know, you get some sort of cancer like that, you",True,neutral
+679.5,1106.0,Brad Smith,"The best labs or the place or the best clinics, you know, that that I've sort of learned that with surgery as well is that there's still a a human performance in these technologies as they guide these things in. It's uh training is still a very important. I mean eventually I suppose robotics can take this over. But see, you you talked about a fiber idea as well, but I I sort of assume yours is at a more microscopic scale. Is that what you're envisioning?",True,reopen
+679.5,1117.0,Luke Mortensen,"Steve, do you have any introduction obviously you're",True,neutral
+679.5,1122.0,Steve Jett,I'm I'm the fly on the wall. Okay. My name is Steve Jett. Uh my background is in electron and atomic force microscopy. So for me deep tissue imaging means I'm looking at a piece of tissue excised from somewhere deep in an organism.,True,affirm
+679.5,1134.0,Brad Smith,Well that's quite impressive two to three centimeters that uh that's um,True,neutral
+679.5,1136.0,Sixian You,"Yes, so I was thinking about uh the just like a microendoscopy. So use uh fiber as the wave guide to transmit the images in. There are challenges about it is that uh how to preserve the images on the way in and on the way out.",True,affirm
+679.5,1140.0,Carolyn Bayer,Right.,False,affirm
+679.5,1140.0,Brad Smith,Right.,False,affirm
+679.5,1140.0,Brad Smith,Do you and that's not a problem for you? I mean I I read this all the time in the papers but,False,reopen
+679.5,1147.0,Brad Smith,it's one thing to read it do do you can one regularly do biomedical,True,neutral
+679.5,1155.0,Steve Jett,"However, over the last several years I was working on a project at the NCI called the imaging data commons where we had to think about collecting images related to cancer from a whole bunch of modalities.",True,reopen
+679.5,1156.0,Carolyn Bayer,So we we so there's there's essentially two different strategies for photoacoustic imaging. There's optical resolution photoacoustic imaging and that those are the super impressive like vascular networks that you see in the papers. And then there's acoustic resolution. So what I do primarily is acoustic resolution.,True,neutral
+679.5,1167.0,Sixian You,"And so how to use ultrasound to push this deeper. Um photoacoustic is a perfect genius example of doing this. Uh another way to think about this um I have been really interested in this is how can we use the contrast from optical imaging. We have fluorescence, we have phase contrast from optics.",True,neutral
+679.5,1182.0,Steve Jett,"You know, initially this means radiology because those are most of the images that have been collected.",True,neutral
+679.5,1185.0,Steve Jett,"We started then thinking about cryo EM and we started thinking or the group that's still working is thinking now about other modalities like deep tissue imaging, you know. So how do you bring them all together, make them interoperable.",True,neutral
+679.5,1201.0,Carolyn Bayer,"So, um, my spatial resolution is not going to be even close to what all the optical microscopists um can do. So I'm spatial resolution is more in the 100 to 200 micron.",True,neutral
+679.5,1205.0,Steve Jett,And interoperable enough to where you can then infer knowledge.,True,neutral
+679.5,1209.0,Steve Jett,By asking a question about one type of data and pulling relevant information from other types of data like deep tissue.,True,reopen
+679.5,1215.0,Brad Smith,"Well, we seem to be a pretty coherent group here that we all",True,neutral
+679.5,1218.0,Brad Smith,are pretty much optical based or maybe ultrasound Barbara perhaps got the broadest capabilities. Uh anybody feeling it to be the reporter here? There is a lot of benefit in being the reporter I tell you. Um I'll come back to that in two minutes. Don't make me choose a birthday.,False,reopen
+679.5,1229.0,Carolyn Bayer,But I think um there is,True,reopen
+679.5,1235.0,Carolyn Bayer,"I think a a huge growth area, although um clinical translation becomes a little less obvious or a little bit large of a barrier is developing contrast agents, right?",True,reopen
+679.5,1248.0,Carolyn Bayer,"And so not just agents which have different chromophore properties but maybe are responsive in some way, you know, are triggerable, um,",True,reopen
+679.5,1267.0,Carolyn Bayer,"rather than um, you know, so sort of distinguishing between different reactions rather than relying on um multi wavelength for multi chromophore kind of approach to distinguish between contrast agents or probes.",True,neutral

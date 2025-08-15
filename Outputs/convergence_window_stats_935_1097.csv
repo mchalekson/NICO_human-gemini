@@ -1,0 +1,2 @@
+window_start_sec,window_end_sec,window_len_sec,tokens_in_window,baseline_mean,baseline_std,zscore_vs_baseline,window_minutes,micro_timeline_png,whole_meeting_png
+935.0,1097.0,162.0,31,37.47959183673469,11.300241391306132,-0.5734029577208661,15–18,/Users/maxchalekson/Projects/NICO-Research/NICO_human-gemini/Outputs/micro_timeline_935_1097.png,/Users/maxchalekson/Projects/NICO-Research/NICO_human-gemini/Outputs/meeting_convergence_density_ABI_S15.png

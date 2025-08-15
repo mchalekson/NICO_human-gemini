@@ -1,0 +1,8 @@
+event_id,center_global_sec,lenses,n_future_lines,n_affirm,n_reopen,n_proposal,stickiness_net,reopen_ratio,future_window_sec
+2,913.0,"Blocks,Clauses,Sentence",79,4,2,3,2,0.333,240.0
+3,918.0,"Blocks,Clauses,Sentence",78,4,2,3,2,0.333,240.0
+4,1036.0,"Clauses,Sentence",48,2,1,2,1,0.333,240.0
+0,679.7,"Blocks,Clauses,Sentence",121,5,5,5,0,0.5,240.0
+5,1049.0,"Blocks,Clauses,Sentence",44,1,1,2,0,0.5,240.0
+1,690.0,"Blocks,Clauses,Sentence",120,4,5,3,-1,0.556,240.0
+6,1080.0,"Clauses,Sentence",29,0,1,1,-1,1.0,240.0

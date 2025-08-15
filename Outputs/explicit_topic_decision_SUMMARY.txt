@@ -1,0 +1,12 @@
+Session: 2021_05_21_ABI_S15
+Scan start: 12 min | Window size: ±45s
+
+Line-level (topic+decision on same line): 4
+  line-level by bin:
+  10:00–15:00 | 1 hits
+  15:00–20:00 | 3 hits
+
+Window-level (topic within ±45s of decision-like line): 7
+  window-level by bin:
+  10:00–15:00 | 3 hits
+  15:00–20:00 | 4 hits

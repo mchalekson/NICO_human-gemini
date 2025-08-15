@@ -1,0 +1,5 @@
+center_sec,window_left,window_right,n_speakers,n_topic_lines,n_decision_phrase_lines,n_coded_decision_lines,time_bin,overlaps_913_918,score
+919.0,889.0,949.0,6,12,2,2,15:00–20:00,True,10.2
+889.0,859.0,919.0,6,7,2,2,10:00–15:00,True,9.2
+895.0,865.0,925.0,6,7,2,2,10:00–15:00,True,9.2
+1006.0,976.0,1036.0,6,8,1,1,15:00–20:00,False,6.3999999999999995

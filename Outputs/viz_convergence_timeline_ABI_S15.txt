@@ -1,0 +1,1 @@
+Shaded bands = decision‑gated windows; vertical ticks = window strength; line = smoothed topic‑term density.
