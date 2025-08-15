@@ -1,1 +1,4 @@
 gemini_data_analysis-EV/
+.DS_Store
+**/.DS_Store
+Outputs/.llm_cache/
