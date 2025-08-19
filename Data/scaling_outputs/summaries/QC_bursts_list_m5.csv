@@ -1,0 +1,331 @@
+conference,session,center_time_sec,teaser_context,human_is_decision,human_decision_type,human_initiator,human_notes,human_confidence_1to5
+2021_06_10_SLU_S1,2021_06_10_SLU_S1,720.9941860465117,"[ -19.3s] Jeffrey Marlow: Um, one is this yeah, the idea of like um, ratios of elements, how universal those could be.
+[ -19.0s] Jay Forsythe(he/him): But there are different structural isomers of amino acids and in some amino acids, you know, like like ones that have longer carbon chains are like much way more upregulated than others, right?
+[ -17.5s] Niki Parenteau: So you first have to characterize the habitability and and think about it in a more in a broader sense and then, you know, focus a little bit more on on life detection.
+[ -13.2s] Jeffrey Marlow: Interesting links between analog environments and experimentation.
+[ -12.5s] Niki Parenteau: So you can look at meter um craters, you know, impacts, things where things have um areas where things have been excavated.
+[ -12.1s] Niki Parenteau: So I'll let you go ahead and get that set up and while uh Jeff is doing that, why don't we go ahead and go around the room and and do another brief introduction.
+[ -12.1s] Niki Parenteau: Um
+[ -10.0s] Jeffrey Marlow: That's number one.
+[  -7.1s] Smadar Naoz: about temperature, I wonder if we if we're also, I mean, there are other contributions for temperature apart from how close a planet is to a star, right?
+[  -6.6s] Niki Parenteau: Um, so it's it is a possibility to look for that.
+[  -4.5s] Jeffrey Marlow: Number two, um, are perhaps uh, over focus on oxygen in the past, um, and maybe looking at different elements or nutrients.",,,,,
+2021_06_10_SLU_S1,2021_06_10_SLU_S1,766.4970873786408,"[ -19.1s] Jay Forsythe(he/him): I wanted to mention um um uh smarter is it is that right?
+[ -18.7s] Noah Planavsky: I'd take another minute.
+[ -17.8s] Erik Sperling: It's just you know, there's other things as well.
+[ -17.7s] Noah Planavsky: Sorry.
+[ -17.4s] Stilianos Louca: I'm coming long back, coming from physics, um, and and mathematics and then moved to sort of biological modeling, bioinformatics and nowadays my lab we do uh we study microbial ecology and evolution using a lot of sequencing techniques, phylogenomics.
+[ -17.0s] Niki Parenteau: No worries.
+[ -16.0s] Noah Planavsky: That's a tricky.
+[ -15.4s] Noah Planavsky: I know.
+[ -14.6s] Jay Forsythe(he/him): You you brought up um, you know, like deliver like net delivery versus um destruction, right?
+[ -14.5s] Erik Sperling: And yeah, everyone's known that but we need to, you know, kind of refocus that.
+[ -13.3s] Noah Planavsky: Even though the goal of this is to not sit silently by ourselves.",,,,,
+2021_06_10_SLU_S1,2021_06_10_SLU_S1,772.3589869682812,"[ -19.2s] Noah Planavsky: Even though the goal of this is to not sit silently by ourselves.
+[ -17.9s] Jeffrey Marlow: Sure.
+[ -15.3s] Smadar Naoz: That's a very extreme place.
+[ -15.2s] Niki Parenteau: So thanks Jeff for summarizing that.
+[ -14.4s] Morgan Raven: I was gonna say it does seem like there might be some sort of broad first principles you could put on a question like this if we just think about like if you're living in an aqueous system, you need something that's hydrophobic and you need something that's hydrophilic and you have an edge and you have an inside and like so there's going to be some bounds on how much, you know, cell membrane that you need and how much volume that you need and at some point maybe just those like super basic functional classes are able to tell us something about we need something that's going to, you know, fold in a hydrophilic way or something like that and I mean those bounds might be way too big to be useful and cell size, who knows, but um.
+[ -14.4s] Niki Parenteau: We'll just do that at the beginning and then we'll chat.
+[ -13.8s] Morgan Raven: I don't know.
+[ -12.6s] Smadar Naoz: Maybe to follow up on this question, I I have another question along these lines.
+[ -11.4s] Morgan Raven: Um I think there are certainly ways to get false positive on that kind of thing.
+[ -10.9s] Noah Planavsky: Struggling to throw anything other than a word salad on the old page.
+[  -8.9s] Smadar Naoz: I don't know if people are interested in that at all, but I'm trying to be very if you notice because I'm so out of the field of all of you guys, so I'm trying to push a lot.",,,,,
+2021_06_10_SLU_S1,2021_06_10_SLU_S1,757.1883495145631,"[ -20.0s] Jay Forsythe(he/him): And so they the like the history of those in terms of their kind of weathering and and things like like melting cycles, things like that is really plays a huge role in the content, the organic content that we detect.
+[ -19.8s] Niki Parenteau: So how are we doing?
+[ -19.3s] Niki Parenteau: Oh sorry, go ahead, go ahead.
+[ -18.8s] Niki Parenteau: Do we need another minute or so?
+[ -17.9s] Stilianos Louca: I'm at the University of Oregon.
+[ -15.6s] Morgan Raven: Yeah, I mean I guess I just any place you can get kerogen, you can theoretically crack it and obviously some types of molecules are going to be better for that than others and lipids are the main thing that we're thinking about here, but I mean it took them forever to even figure out uh petroleum was biogenic and they kind of needed biomarkers to do it because there I mean there certainly are theoretically ways to produce stuff like that that would not necessarily require life unless you had some sort of sort of more detailed molecular information about what that is and that could be a bio strictly defined or just something about complexity.
+[ -14.8s] Jeffrey Marlow: So that's what jumped out at me at least.
+[ -12.5s] Jay Forsythe(he/him): I also wanted to related to that.
+[ -11.5s] Erik Sperling: I just want to clarify really quick that oxygen is really important.
+[ -11.0s] Morgan Raven: And like how much of phosphorus and nitrogen being the story and iron being the story is something we could assume is something fundamental that comes out of continental differentiation and crustal differentiation and how much of it is a weird quirk of the way our minerals work on the surface Earth and I don't know, have you guys thought about that before?
+[ -10.9s] Smadar Naoz: So not necessarily, I mean, there is a prediction of a lot of free floating planets that usually people think that are completely not interesting, but if this free floating planet isn't actually a very dense area, um and there are lots of stars around, you know, overall it gets uh the temperature that it needs.",,,,,
+2021_06_10_SLU_S1,2021_06_10_SLU_S1,732.9342560553633,"[ -19.1s] Smadar Naoz: about temperature, I wonder if we if we're also, I mean, there are other contributions for temperature apart from how close a planet is to a star, right?
+[ -18.5s] Niki Parenteau: Um, so it's it is a possibility to look for that.
+[ -16.5s] Jeffrey Marlow: Number two, um, are perhaps uh, over focus on oxygen in the past, um, and maybe looking at different elements or nutrients.
+[ -16.4s] Jay Forsythe(he/him): Um, the for example like Murchison one of the reasons why that caught so much attention one one it was like really the first study but also a lot of the like alpha amino acids that we use in our proteins um are pretty upregulated in that one relative to some of the other structural isomers.
+[ -14.1s] Niki Parenteau: And um, as Richard said, we'll kind of keep it brief, but it'd be helpful to know, you know, who you are, your name, where you work and and kind of your specialty areas.
+[ -12.4s] Niki Parenteau: Um, but again, it might be difficult uh to put it in the in the framework that Vicky was talking about assessing false positives.
+[ -12.3s] Smadar Naoz: So we can have um tidal effects that will contribute to this.
+[ -12.3s] Noah Planavsky: You have actual empirical records of it and then you you have of course record in in life itself of of what would be limiting the scope of the of the biosphere.
+[ -11.9s] Solange Duhamel: So I think thinking of both the microbes, their processes but also their environments, everything is tied together which is also a difficulty because uh part of it is can you mimic that in the lab and uh how can how much can you simplify without losing important components that would uh artificially drive your results towards uh the wrong answer.
+[  -8.7s] Jeffrey Marlow: Um, this idea of meteorites as net positive or net negative impacts in general.
+[  -6.4s] Niki Parenteau: So anybody else want to jump in on that?",,,,,
+2021_06_10_SLU_S1,2021_06_10_SLU_S1,714.4008935824533,"[ -19.7s] Niki Parenteau: There are some platforms being developed um with drills, but it's it's fairly short.
+[ -18.8s] Niki Parenteau: If you can just create a new Google Doc and if you want, if you guys think it would be more efficient for you to share your screen and to record the notes as we go, if folks would think that would be helpful to kind of reflect on the conversation that we're having, we can do that.
+[ -18.5s] Jeffrey Marlow: Um, I'll run through these real quick and please correct me.
+[ -16.2s] Noah Planavsky: Yeah, I think the the figuring out the the not only what's limiting but the kind of the the size of the biosphere in the past is is I think is is one of the most most kind of fundamental unresolved questions about Earth's history and I think there are definitely there's there's it'd be fun it'd be great to talk about ways in which you could actually do that from look for say evidence for extreme phosphorus limitation not in geochemical records but in in molecular records and um and the other way you could tackle that of course to think of everybody's take on it would be that geochemical you also have to have something that works from a mass balanced Earth system.
+[ -13.5s] Niki Parenteau: But what you can do instead is go to areas where ancient rocks are exposed, um recently exposed.
+[ -12.7s] Jeffrey Marlow: Um, one is this yeah, the idea of like um, ratios of elements, how universal those could be.
+[ -12.4s] Jay Forsythe(he/him): But there are different structural isomers of amino acids and in some amino acids, you know, like like ones that have longer carbon chains are like much way more upregulated than others, right?
+[ -10.9s] Niki Parenteau: So you first have to characterize the habitability and and think about it in a more in a broader sense and then, you know, focus a little bit more on on life detection.
+[  -6.6s] Jeffrey Marlow: Interesting links between analog environments and experimentation.
+[  -5.9s] Niki Parenteau: So you can look at meter um craters, you know, impacts, things where things have um areas where things have been excavated.
+[  -5.5s] Niki Parenteau: So I'll let you go ahead and get that set up and while uh Jeff is doing that, why don't we go ahead and go around the room and and do another brief introduction.",,,,,
+2021_06_10_SLU_S1,2021_06_10_SLU_S1,624.2492307692308,"[  -8.7s] Rika Anderson: eukaryotes and so on.
+[  -6.8s] Stilianos Louca: whether if there was life on a planet, how likely would it have been to create such deposits?
+[  -6.1s] Morgan Raven: that might not be a cell or a nucleus, but some sort of compartment.
+[  -3.7s] Solange Duhamel: Hello.
+[  -3.5s] Erik Sperling: to to forest fires, the fire triangle and oxygen um fuel and temperature being the important things uh in controlling large uh kind of habitability.
+[  -3.3s] Niki Parenteau: are you familiar with like different um astrochemistry studies, you know, like how to kind of poke at that like how universal are these compounds that are that are synthesized on different parent bodies?
+[  -2.7s] Niki Parenteau: Hi, welcome.
+[  -1.7s] Rika Anderson: Um, and so one thing I've been thinking of about ever since Vicky and um Tim's talk this morning was, you know, can we try to get a better handle on the nutrient availability through Earth's history, how would that have affected the evolution of life over time?
+[  -1.1s] Morgan Raven: Maybe there's a chemical argument there.
+[  -0.1s] Stilianos Louca: And then also is the question and maybe that's impossible right now, could we then also have a way to look for the existence of such deposits underground?
+[  +0.0s] Niki Parenteau: It looks like we're all here.",,,,,
+2021_06_10_SLU_S1,2021_06_10_SLU_S1,720.5463038180342,"[ -19.6s] Niki Parenteau: But what you can do instead is go to areas where ancient rocks are exposed, um recently exposed.
+[ -18.8s] Jeffrey Marlow: Um, one is this yeah, the idea of like um, ratios of elements, how universal those could be.
+[ -18.6s] Jay Forsythe(he/him): But there are different structural isomers of amino acids and in some amino acids, you know, like like ones that have longer carbon chains are like much way more upregulated than others, right?
+[ -17.0s] Niki Parenteau: So you first have to characterize the habitability and and think about it in a more in a broader sense and then, you know, focus a little bit more on on life detection.
+[ -12.7s] Jeffrey Marlow: Interesting links between analog environments and experimentation.
+[ -12.1s] Niki Parenteau: So you can look at meter um craters, you know, impacts, things where things have um areas where things have been excavated.
+[ -11.7s] Niki Parenteau: So I'll let you go ahead and get that set up and while uh Jeff is doing that, why don't we go ahead and go around the room and and do another brief introduction.
+[ -11.6s] Niki Parenteau: Um
+[  -9.5s] Jeffrey Marlow: That's number one.
+[  -6.7s] Smadar Naoz: about temperature, I wonder if we if we're also, I mean, there are other contributions for temperature apart from how close a planet is to a star, right?
+[  -6.1s] Niki Parenteau: Um, so it's it is a possibility to look for that.",,,,,
+2021_06_10_SLU_S1,2021_06_10_SLU_S1,718.8787878787879,"[ -18.0s] Niki Parenteau: But what you can do instead is go to areas where ancient rocks are exposed, um recently exposed.
+[ -17.2s] Jeffrey Marlow: Um, one is this yeah, the idea of like um, ratios of elements, how universal those could be.
+[ -16.9s] Jay Forsythe(he/him): But there are different structural isomers of amino acids and in some amino acids, you know, like like ones that have longer carbon chains are like much way more upregulated than others, right?
+[ -15.4s] Niki Parenteau: So you first have to characterize the habitability and and think about it in a more in a broader sense and then, you know, focus a little bit more on on life detection.
+[ -11.1s] Jeffrey Marlow: Interesting links between analog environments and experimentation.
+[ -10.4s] Niki Parenteau: So you can look at meter um craters, you know, impacts, things where things have um areas where things have been excavated.
+[ -10.0s] Niki Parenteau: So I'll let you go ahead and get that set up and while uh Jeff is doing that, why don't we go ahead and go around the room and and do another brief introduction.
+[  -9.9s] Niki Parenteau: Um
+[  -7.8s] Jeffrey Marlow: That's number one.
+[  -5.0s] Smadar Naoz: about temperature, I wonder if we if we're also, I mean, there are other contributions for temperature apart from how close a planet is to a star, right?
+[  -4.5s] Niki Parenteau: Um, so it's it is a possibility to look for that.",,,,,
+2021_06_10_SLU_S1,2021_06_10_SLU_S1,626.5753846153846,"[ -11.0s] Rika Anderson: eukaryotes and so on.
+[  -9.1s] Stilianos Louca: whether if there was life on a planet, how likely would it have been to create such deposits?
+[  -8.4s] Morgan Raven: that might not be a cell or a nucleus, but some sort of compartment.
+[  -6.1s] Solange Duhamel: Hello.
+[  -5.8s] Erik Sperling: to to forest fires, the fire triangle and oxygen um fuel and temperature being the important things uh in controlling large uh kind of habitability.
+[  -5.6s] Niki Parenteau: are you familiar with like different um astrochemistry studies, you know, like how to kind of poke at that like how universal are these compounds that are that are synthesized on different parent bodies?
+[  -5.1s] Niki Parenteau: Hi, welcome.
+[  -4.0s] Rika Anderson: Um, and so one thing I've been thinking of about ever since Vicky and um Tim's talk this morning was, you know, can we try to get a better handle on the nutrient availability through Earth's history, how would that have affected the evolution of life over time?
+[  -3.4s] Morgan Raven: Maybe there's a chemical argument there.
+[  -2.4s] Stilianos Louca: And then also is the question and maybe that's impossible right now, could we then also have a way to look for the existence of such deposits underground?
+[  -2.3s] Niki Parenteau: It looks like we're all here.",,,,,
+2021_06_10_SLU_S1,2021_06_10_SLU_S1,642.0024370430544,"[ -19.4s] Rika Anderson: Um, and so one thing I've been thinking of about ever since Vicky and um Tim's talk this morning was, you know, can we try to get a better handle on the nutrient availability through Earth's history, how would that have affected the evolution of life over time?
+[ -18.9s] Morgan Raven: Maybe there's a chemical argument there.
+[ -17.9s] Stilianos Louca: And then also is the question and maybe that's impossible right now, could we then also have a way to look for the existence of such deposits underground?
+[ -17.8s] Niki Parenteau: It looks like we're all here.
+[ -16.4s] Niki Parenteau: Um, are there any other kind of origins of life chemists within the group, um, that have thought about kind of this universal composition of life, you know, from the perspective of like a redfield ratio.
+[ -15.4s] Niki Parenteau: Well, thanks for joining.
+[ -14.1s] Rika Anderson: I like that idea, although isn't it that one person's toxin is another person's food, right?
+[ -11.4s] Stilianos Louca: I mean they're going to be underground, so maybe there's no methods available right now.
+[ -10.8s] Rika Anderson: So it's it's hard to even say what's toxic for for some organisms.
+[  -9.5s] Niki Parenteau: Are they very similar throughout our galaxy or are all these different different planetary bodies receiving that same those same um types or characterization character of building blocks.
+[  -9.3s] Niki Parenteau: Um, my name is Nikki Parenteau and I already gave an introduction earlier, but I'll be the facilitator for this group.",,,,,
+2021_06_10_SLU_S1,2021_06_10_SLU_S1,749.1280276816609,"[ -17.9s] Morgan Raven: Along those lines, one random thought that's come up a lot for me this morning and thinking about these sort of deep time limiting nutrients is just how universal even their identity would be.
+[ -16.2s] Stilianos Louca: Well, I can start, I guess.
+[ -15.1s] Jeffrey Marlow: Uh, and then maybe I think we've come back to this a couple times of like structure, compartmentalization, um, if it's necessary, if it's diagnostic um, in terms of complexity.
+[ -13.9s] Smadar Naoz: Um and also the environment itself.
+[ -13.1s] Stilianos Louca: Um, I'm Stilianos Louca, uh short you can just call me Stilian.
+[ -12.8s] Niki Parenteau: question?
+[ -11.9s] Jay Forsythe(he/him): And so they the like the history of those in terms of their kind of weathering and and things like like melting cycles, things like that is really plays a huge role in the content, the organic content that we detect.
+[ -11.7s] Niki Parenteau: So how are we doing?
+[ -11.3s] Niki Parenteau: Oh sorry, go ahead, go ahead.
+[ -10.7s] Niki Parenteau: Do we need another minute or so?
+[  -9.8s] Stilianos Louca: I'm at the University of Oregon.",,,,,
+2021_06_10_SLU_S1,2021_06_10_SLU_S1,632.7353846153846,"[ -17.2s] Rika Anderson: eukaryotes and so on.
+[ -15.2s] Stilianos Louca: whether if there was life on a planet, how likely would it have been to create such deposits?
+[ -14.6s] Morgan Raven: that might not be a cell or a nucleus, but some sort of compartment.
+[ -12.2s] Solange Duhamel: Hello.
+[ -12.0s] Erik Sperling: to to forest fires, the fire triangle and oxygen um fuel and temperature being the important things uh in controlling large uh kind of habitability.
+[ -11.7s] Niki Parenteau: are you familiar with like different um astrochemistry studies, you know, like how to kind of poke at that like how universal are these compounds that are that are synthesized on different parent bodies?
+[ -11.2s] Niki Parenteau: Hi, welcome.
+[ -10.1s] Rika Anderson: Um, and so one thing I've been thinking of about ever since Vicky and um Tim's talk this morning was, you know, can we try to get a better handle on the nutrient availability through Earth's history, how would that have affected the evolution of life over time?
+[  -9.6s] Morgan Raven: Maybe there's a chemical argument there.
+[  -8.6s] Stilianos Louca: And then also is the question and maybe that's impossible right now, could we then also have a way to look for the existence of such deposits underground?
+[  -8.5s] Niki Parenteau: It looks like we're all here.",,,,,
+2021_06_10_SLU_S1,2021_06_10_SLU_S1,642.7723076923077,"[ -19.6s] Morgan Raven: Maybe there's a chemical argument there.
+[ -18.6s] Stilianos Louca: And then also is the question and maybe that's impossible right now, could we then also have a way to look for the existence of such deposits underground?
+[ -18.5s] Niki Parenteau: It looks like we're all here.
+[ -17.1s] Niki Parenteau: Um, are there any other kind of origins of life chemists within the group, um, that have thought about kind of this universal composition of life, you know, from the perspective of like a redfield ratio.
+[ -16.2s] Niki Parenteau: Well, thanks for joining.
+[ -14.9s] Rika Anderson: I like that idea, although isn't it that one person's toxin is another person's food, right?
+[ -12.1s] Stilianos Louca: I mean they're going to be underground, so maybe there's no methods available right now.
+[ -11.6s] Rika Anderson: So it's it's hard to even say what's toxic for for some organisms.
+[ -10.3s] Niki Parenteau: Are they very similar throughout our galaxy or are all these different different planetary bodies receiving that same those same um types or characterization character of building blocks.
+[ -10.0s] Niki Parenteau: Um, my name is Nikki Parenteau and I already gave an introduction earlier, but I'll be the facilitator for this group.
+[  -9.5s] Rika Anderson: I like what you're thinking though.",,,,,
+2021_10_01_MZT_S11,2021_10_01_MZT_S11,933.6907894736842,"[ -15.9s] Wilfred van der Donk: And then they bend them and they put them together in in in the way they have.
+[ -15.9s] William Witola: Uh because immune would be like you know, it can be vaccinated people or but here we're looking at, you know
+[ -14.9s] Wilfred van der Donk: So so coming back to my question, is there a depository?
+[ -13.3s] Joyce Jose: Um I think intervention strategies uh if you want to identify them then you need to understand the pathogen and their differences and how they they change or their mutations, how they adapt to new host or um what are the molecular mechanisms?
+[ -10.6s] Wilfred van der Donk: That doesn't mean that we need to be uh limited to that, although we do.
+[  -8.7s] William Witola: Like all pathogens that go into the cell and form a vacu around them are attacked pretty much in the same way by the host.
+[  -8.7s] Wilfred van der Donk: Is there so so you you clearly present data that is out there for parasites focusing in this case on the host to to predict susceptibility.
+[  -6.7s] Joyce Jose: and then we can see them how they go together because we have fluorescently tagged the envelope protein or replication protein and we know organel markers to and see where they go, when they stop going, when you inhibit these and we have used inhibitors to see these um in I mean, I didn't think anybody was going to talk about cell biology, but that's what we do in a regular basis and I actually can when you use inhibitors, you can see them
+[  -3.9s] Wilfred van der Donk: Kristen does have to report to the entire group about what we talked about with respect to biochemistry and genetics.
+[  -3.7s] Kristin Koutmou: Sure, so innate immune response.
+[  -2.0s] Wilfred van der Donk: But are there are there databases there either for the parasites or for",,,,,
+2021_10_01_MZT_S11,2021_10_01_MZT_S11,948.8,"[ -19.0s] Wilfred van der Donk: Kristen does have to report to the entire group about what we talked about with respect to biochemistry and genetics.
+[ -18.8s] Kristin Koutmou: Sure, so innate immune response.
+[ -17.1s] Wilfred van der Donk: But are there are there databases there either for the parasites or for
+[ -16.8s] Kristin Koutmou: Seems reasonable.
+[ -15.1s] Joyce Jose: So is it receptor new receptor identifying or something uh after going in it's targeting some other signaling cascade or uh something like that.
+[ -14.3s] Wilfred van der Donk: Yeah, go ahead, Kristen.
+[ -13.5s] William Witola: So it's basically dependent on how does the pathogen invade the host and how does it uh protect itself from the host.
+[ -13.3s] William Witola: Yeah.
+[  -8.7s] William Witola: So the the kind of data we used was not that we got samples and sequenced these individuals.
+[  -6.3s] Danae Schulz: Sorry, I was muted.
+[  -5.3s] Danae Schulz: Yes, that's fine.",,,,,
+2021_10_01_MZT_S11,2021_10_01_MZT_S11,946.3322368421052,"[ -19.3s] Joyce Jose: and then we can see them how they go together because we have fluorescently tagged the envelope protein or replication protein and we know organel markers to and see where they go, when they stop going, when you inhibit these and we have used inhibitors to see these um in I mean, I didn't think anybody was going to talk about cell biology, but that's what we do in a regular basis and I actually can when you use inhibitors, you can see them
+[ -16.5s] Wilfred van der Donk: Kristen does have to report to the entire group about what we talked about with respect to biochemistry and genetics.
+[ -16.3s] Kristin Koutmou: Sure, so innate immune response.
+[ -14.6s] Wilfred van der Donk: But are there are there databases there either for the parasites or for
+[ -14.3s] Kristin Koutmou: Seems reasonable.
+[ -12.6s] Joyce Jose: So is it receptor new receptor identifying or something uh after going in it's targeting some other signaling cascade or uh something like that.
+[ -11.8s] Wilfred van der Donk: Yeah, go ahead, Kristen.
+[ -11.1s] William Witola: So it's basically dependent on how does the pathogen invade the host and how does it uh protect itself from the host.
+[ -10.8s] William Witola: Yeah.
+[  -6.3s] William Witola: So the the kind of data we used was not that we got samples and sequenced these individuals.
+[  -3.8s] Danae Schulz: Sorry, I was muted.",,,,,
+2021_10_01_MZT_S11,2021_10_01_MZT_S11,1059.3636363636365,"[ -16.7s] Dana Mitzel: You know, there's very few changes between something like Reston and a little and a more virulent one and they've tried to make all these changes and they haven't been able to associate it with uh the differences in pathogenesis that they see.
+[ -16.0s] Wilfred van der Donk: Uh you guys were the best and we don't need anybody other people to uh to to uh to fight about that.
+[ -14.6s] William Witola: So I I would like to see if we can develop uh memetics of those molecules and then introduce them in the host and see if they can actually activate the same mechanisms that make the resistant host resist infection.
+[ -12.4s] Kristin Koutmou: Yeah, so in bacteria can as well.
+[ -11.6s] Wilfred van der Donk: So I'll see you in the main room.
+[ -11.4s] Wilfred van der Donk: We already talked about that with respect to anything uh with respect to uh epigenetics of the host uh we often don't have the data uh and and and when we do have the data uh you usually generate it yourself.
+[ -10.4s] Wilfred van der Donk: Uh
+[ -10.0s] Danae Schulz: Great, sorry.
+[  -9.9s] William Witola: Goodbye.
+[  -9.0s] Danae Schulz: Maybe I'm misunderstanding.
+[  -8.9s] Joyce Jose: Thank you so much.",,,,,
+2021_10_01_MZT_S11,2021_10_01_MZT_S11,903.5200421940928,"[ -19.5s] William Witola: Are are these uh some specific type of GTPases because they are
+[ -19.5s] Wilfred van der Donk: Uh we as I said, we can talk about anything.
+[ -19.0s] Brenda Rubenstein: Um so in terms of detection, uh one would often want to to know very quickly um if a pathogen is is in a specific organism um for surveillance.
+[ -16.8s] William Witola: Yeah, yeah, like uh I think uh I I work on toxoplasma trying to look at how their host is is uh susceptible or resistant.
+[ -14.1s] Joyce Jose: So in my lab, we actually use that we can actually see it in cells.
+[ -13.3s] William Witola: What we don't know is what is on the promoter and what's activating the expression of the genes in the resistant rat.
+[ -10.1s] Wilfred van der Donk: I mean, uh the whole idea behind these meetings is to get you guys to a stage where you can uh hook up with others and start writing proposals and so how we get there is not that important.
+[  -9.4s] Brenda Rubenstein: Um and so general means of of detection so that one doesn't have to look at every, you know, make sensors for every single different kind of of virus.
+[  -8.7s] William Witola: Uh one thing I can tell you toxoplasma is an intracellular pathogen.
+[  -7.9s] Joyce Jose: So we do live cell imaging using fluorescent viruses.
+[  -3.5s] Wilfred van der Donk: Can you make the font a little smaller?",,,,,
+2021_10_01_MZT_S11,2021_10_01_MZT_S11,1081.8235294117649,"[ -16.8s] Kristin Koutmou: Yes, and it's a hot mess right now, so we're going to go through and pull.
+[ -16.2s] Joyce Jose: And then uh study those inhibitors in BSL2 or BSL3 pathogens in um using SARS or any other viruses and uh we have been successful in actually testing identifying compounds that are uh able to inhibit viruses.
+[ -14.3s] Kristin Koutmou: So we're Excellent.
+[ -12.7s] Dana Mitzel: Um, but you know with West Nile as it passed through the United States and have changed and even now with SARS CO2, um, you know, they they see the changes in the mutants, they're doing the sequencing and they're they're trying to correlate it to other stuff, but um, so for me it it can be very dependent, but it's a very difficult aspect to determine.
+[ -11.8s] Kristin Koutmou: So any enzyme the machinery, right, the mechanism tends to be conserved, but how they target their individual their you know, the the targeting domains tend not to be so well conserved um between different species.
+[  -7.3s] Danae Schulz: I think if we could get single cell epigenetic assays working better um then it could help us take these samples where we don't have a lot of material um from the host, but maybe you have some saliva and maybe you can do some single cell, you know, from a very small sample to some single cell epigenetic sequencing.
+[  -0.2s] Kristin Koutmou: So like eukaryotic pseudouridine synthesis species for example have really different um
+[  +0.0s] Kristin Koutmou: All right, so I I think the first thing we need or the thing that I would be be most useful for me to get your help with is to figure out which one of these we actually want to share out because we had a lot of ideas, but I think we should maybe prioritize when we share out.
+[  +2.4s] Kristin Koutmou: Joyce, I think that's really cool.
+[  +6.9s] Dana Mitzel: Um, sometimes like I said with Ebola, I know they've been trying to do it for years and it just they just haven't been able to figure out the actual genetics because that I mean that was one goal that some people were having was to try and predict future outbreaks especially after the big 2013 one.
+[  +8.4s] Wilfred van der Donk: How much uh conservation is there between humans and say what we heard about yesterday livestock, uh other reservoirs of those post transcriptional modification enzymes.",,,,,
+2021_10_01_MZT_S11,2021_10_01_MZT_S11,1016.0,"[ -17.7s] Wilfred van der Donk: Yeah, and remember in in in uh um Andrew said it at the very beginning, uh the most successful proposals are those where people that don't speak each other's language now are forced to speak each other's language.
+[ -17.5s] Wilfred van der Donk: And then and then you went on but it would be really nice if there were databases where once people had done some mining the results thereof would be deposited in some database where you could easily for all kinds of different targets
+[ -13.0s] Kristin Koutmou: I think it's also a very nice link to that because these modifications are almost exclusively, not entirely exclusively, but almost exclusively being put in by host protein machinery and I just I don't know.
+[ -10.1s] Wilfred van der Donk: We have about 20 minutes before time is up.
+[  -9.5s] Wilfred van der Donk: find what makes things spill over or not.
+[  -9.3s] Dana Mitzel: So it's more RNA virus based versus DNA virus based, something like that.
+[  -9.0s] Joyce Jose: So in my lab we actually use live cell imaging to study these um specifically antivirals and seeing virus replication using fluorescent viruses.
+[  -7.0s] Wilfred van der Donk: Anyway, I I will let others talk about the viruses.
+[  -5.2s] Wilfred van der Donk: Uh maybe this is a good time to think what technologies are we missing?
+[  -4.6s] Dana Mitzel: So like a more broad based novel intervention that yeah up in the sky type of thing.
+[  -3.4s] Wilfred van der Donk: It's fine that you have heard a lot of people speak language that I have I understand.",,,,,
+2021_10_01_MZT_S11,2021_10_01_MZT_S11,917.7752808988764,"[ -17.7s] Wilfred van der Donk: Can you make the font a little smaller?
+[ -14.3s] Brenda Rubenstein: So you know, what are molecular markers that we should be looking for that could be easily sampled um and and used in surveillance tasks.
+[ -13.4s] Wilfred van der Donk: I can see uh if we can then see everything.
+[ -12.2s] William Witola: So quite clearly, there is something at play in the way the host responds to infection vis-a-vis genetics or epigenetics, which will determine whether the host to be susceptible or not susceptible or whether you see pathology or you don't see pathology.
+[ -11.6s] Joyce Jose: We use Zika and also Chikungunya or and we we can actually use these fluorescently tagged um CDC 42 or other GTPases, different organel specific GTPases
+[ -11.0s] Wilfred van der Donk: Yes.
+[  -9.8s] Wilfred van der Donk: The way the uh the resource corporation came up with these as I think you know is by us all of us facilitators and fellows and uh funders uh just putting interesting questions into their their uh questionnaires.
+[  -9.0s] William Witola: So the mechanism that the host uses to counteract it is kind of uh similar to all intracellular pathogens, not just parasites, but uh is also quite related to the mechanisms that the host will use against tuberculosis for example, which is intracellular.
+[  -8.0s] William Witola: So I'm looking at uh immune responses of initial human hosts.
+[  -7.8s] Wilfred van der Donk: Uh Joyce, you're next on my my going around.
+[  -4.7s] William Witola: Uh can we like just specify it as innate responses?",,,,,
+2021_10_01_MZT_S11,2021_10_01_MZT_S11,945.25,"[ -18.2s] Joyce Jose: and then we can see them how they go together because we have fluorescently tagged the envelope protein or replication protein and we know organel markers to and see where they go, when they stop going, when you inhibit these and we have used inhibitors to see these um in I mean, I didn't think anybody was going to talk about cell biology, but that's what we do in a regular basis and I actually can when you use inhibitors, you can see them
+[ -15.4s] Wilfred van der Donk: Kristen does have to report to the entire group about what we talked about with respect to biochemistry and genetics.
+[ -15.2s] Kristin Koutmou: Sure, so innate immune response.
+[ -13.5s] Wilfred van der Donk: But are there are there databases there either for the parasites or for
+[ -13.2s] Kristin Koutmou: Seems reasonable.
+[ -11.6s] Joyce Jose: So is it receptor new receptor identifying or something uh after going in it's targeting some other signaling cascade or uh something like that.
+[ -10.8s] Wilfred van der Donk: Yeah, go ahead, Kristen.
+[ -10.0s] William Witola: So it's basically dependent on how does the pathogen invade the host and how does it uh protect itself from the host.
+[  -9.8s] William Witola: Yeah.
+[  -5.2s] William Witola: So the the kind of data we used was not that we got samples and sequenced these individuals.
+[  -2.7s] Danae Schulz: Sorry, I was muted.",,,,,
+2021_10_01_MZT_S11,2021_10_01_MZT_S11,960.7772020725388,"[ -18.2s] Danae Schulz: Sorry, I was muted.
+[ -17.2s] Danae Schulz: Yes, that's fine.
+[ -16.2s] Joyce Jose: you know, virus replication stopping or where is budding stopping for example for Zika virus.
+[ -15.5s] Kristin Koutmou: Okay.
+[ -14.4s] Joyce Jose: To understand that you have to have proper genetic tools to manipulate the virus genomes and you know, instead of see what happens and and then uh identify new targets and that's where it should be we should be going with.
+[ -12.0s] Kristin Koutmou: Are is there anything yeah that we discussed that is not on there?
+[ -10.1s] William Witola: So if if it those path if a group of pathogens that are completely different but they have similar characteristics, the host do have pretty much the same mechanism of attacking whether it's a virus, bacteria or a parasite or whatever it is.
+[  -9.8s] William Witola: So we just went into a database that was created for some other purposes, but we were able to identify those individuals and then analyze their sequences.
+[  -6.2s] Joyce Jose: Um yeah, that's a tool that we can use to study these things to pinpoint exactly when and where they stop um in
+[  -5.7s] Wilfred van der Donk: Yeah, we get our 10 minutes warning.
+[  -3.7s] Kristin Koutmou: And did we want to include um the environmentally yeah, because I think we talked about that a bit.",,,,,
+2021_10_01_MZT_S11,2021_10_01_MZT_S11,692.1129261363636,"[ -18.2s] Wilfred van der Donk: So I actually wasn't there this morning because I was teaching.
+[ -16.8s] Dana Mitzel: But that was just like one of the questions that had popped up yesterday as well and it could play a role in, you know, could this be a way for it to jump or for it to be a super spreader or anything like that.
+[ -14.2s] Dana Mitzel: Well GTPases are really important for virus replication because they're important they rearrange the the actin and the side of skeleton which the virus
+[ -14.2s] William Witola: So if they are infected during that time, they are born with severe infection like brain damage, eye damage and often, you know, they don't live long.
+[ -13.7s] Cheryl Andam: So some would be, you know, more host restricted, some would have broad host range, but all of these within a single species.
+[ -12.7s] Wilfred van der Donk: Uh but uh yesterday we took a minute to think about these.
+[ -11.5s] Dana Mitzel: Um but unfortunately I don't have more information on it.
+[  -8.2s] Wilfred van der Donk: We don't have to stick to these prompts.
+[  -7.6s] Joyce Jose: Yeah.
+[  -7.1s] Wilfred van der Donk: I think if there's something that I've heard to in today's discussion compared to previous discussions is how much we we don't know and how much we need and how hard this is.
+[  -6.3s] Dana Mitzel: I just know that is an area where there's a little bit more studies that are coming out on it.",,,,,
+2021_10_01_MZT_S11,2021_10_01_MZT_S11,1011.4481012658229,"[ -15.8s] Dana Mitzel: But you know, is would if we use something like that like the polyphenols or anything like that, would it be more broad based target where they're actually attacking more of like the transcription of viruses or something that's needed to actually that's applied to a lot of the RNA viruses.
+[ -13.2s] Wilfred van der Donk: Yeah, and remember in in in uh um Andrew said it at the very beginning, uh the most successful proposals are those where people that don't speak each other's language now are forced to speak each other's language.
+[ -12.9s] Wilfred van der Donk: And then and then you went on but it would be really nice if there were databases where once people had done some mining the results thereof would be deposited in some database where you could easily for all kinds of different targets
+[  -8.4s] Kristin Koutmou: I think it's also a very nice link to that because these modifications are almost exclusively, not entirely exclusively, but almost exclusively being put in by host protein machinery and I just I don't know.
+[  -5.6s] Wilfred van der Donk: We have about 20 minutes before time is up.
+[  -4.9s] Wilfred van der Donk: find what makes things spill over or not.
+[  -4.8s] Dana Mitzel: So it's more RNA virus based versus DNA virus based, something like that.
+[  -4.4s] Joyce Jose: So in my lab we actually use live cell imaging to study these um specifically antivirals and seeing virus replication using fluorescent viruses.
+[  -2.4s] Wilfred van der Donk: Anyway, I I will let others talk about the viruses.
+[  -0.6s] Wilfred van der Donk: Uh maybe this is a good time to think what technologies are we missing?
+[  +0.0s] Dana Mitzel: So like a more broad based novel intervention that yeah up in the sky type of thing.",,,,,
+2021_10_01_MZT_S11,2021_10_01_MZT_S11,1054.220848056537,"[ -19.6s] Dana Mitzel: Um Ebola is a big one.
+[ -18.5s] Wilfred van der Donk: I mean we already talked about the difficulty to mine current databases.
+[ -16.7s] Wilfred van der Donk: I'm not going to engage in this fight of chats as to which group was the best.
+[ -11.6s] Dana Mitzel: You know, there's very few changes between something like Reston and a little and a more virulent one and they've tried to make all these changes and they haven't been able to associate it with uh the differences in pathogenesis that they see.
+[ -10.8s] Wilfred van der Donk: Uh you guys were the best and we don't need anybody other people to uh to to uh to fight about that.
+[  -9.5s] William Witola: So I I would like to see if we can develop uh memetics of those molecules and then introduce them in the host and see if they can actually activate the same mechanisms that make the resistant host resist infection.
+[  -7.2s] Kristin Koutmou: Yeah, so in bacteria can as well.
+[  -6.4s] Wilfred van der Donk: So I'll see you in the main room.
+[  -6.3s] Wilfred van der Donk: We already talked about that with respect to anything uh with respect to uh epigenetics of the host uh we often don't have the data uh and and and when we do have the data uh you usually generate it yourself.
+[  -5.3s] Wilfred van der Donk: Uh
+[  -4.9s] Danae Schulz: Great, sorry.",,,,,
+2021_10_01_MZT_S11,2021_10_01_MZT_S11,995.6506329113924,"[ -19.3s] Wilfred van der Donk: What about in the viral space?
+[ -19.3s] Dana Mitzel: Um but uh kind of going off of what Joyce was saying with interventions, but you know, I'm trying to think of some, you know, different interventions, you know, more maybe some more plant based or, you know, using um just since I work in with grain people too.
+[ -18.1s] Wilfred van der Donk: And they understood the words coming out of my mouth.
+[ -16.7s] Wilfred van der Donk: Those of you that are working on on the viruses.
+[ -14.9s] Wilfred van der Donk: It was lovely.
+[ -14.0s] Wilfred van der Donk: Yeah.
+[ -10.7s] Wilfred van der Donk: Although I've learned a lot so I'm not going to complain at all.
+[ -10.2s] Wilfred van der Donk: So I understand that the databases are there, but you essentially had to mind that database for your own work.
+[ -10.1s] Dana Mitzel: I know they're working on things like that.
+[  -5.8s] Joyce Jose: So Joyce, you you mean if you use specific inhibitors for GTPases, you actually see blockage of the virus replication or
+[  -5.2s] William Witola: That's correct, yes.",,,,,
+2021_10_01_MZT_S11,2021_10_01_MZT_S11,930.0,"[ -20.0s] Wilfred van der Donk: Uh Joyce, you're next on my my going around.
+[ -16.9s] William Witola: Uh can we like just specify it as innate responses?
+[ -12.2s] Wilfred van der Donk: And then they bend them and they put them together in in in the way they have.
+[ -12.2s] William Witola: Uh because immune would be like you know, it can be vaccinated people or but here we're looking at, you know
+[ -11.2s] Wilfred van der Donk: So so coming back to my question, is there a depository?
+[  -9.6s] Joyce Jose: Um I think intervention strategies uh if you want to identify them then you need to understand the pathogen and their differences and how they they change or their mutations, how they adapt to new host or um what are the molecular mechanisms?
+[  -6.9s] Wilfred van der Donk: That doesn't mean that we need to be uh limited to that, although we do.
+[  -5.0s] William Witola: Like all pathogens that go into the cell and form a vacu around them are attacked pretty much in the same way by the host.
+[  -5.0s] Wilfred van der Donk: Is there so so you you clearly present data that is out there for parasites focusing in this case on the host to to predict susceptibility.
+[  -3.0s] Joyce Jose: and then we can see them how they go together because we have fluorescently tagged the envelope protein or replication protein and we know organel markers to and see where they go, when they stop going, when you inhibit these and we have used inhibitors to see these um in I mean, I didn't think anybody was going to talk about cell biology, but that's what we do in a regular basis and I actually can when you use inhibitors, you can see them
+[  -0.2s] Wilfred van der Donk: Kristen does have to report to the entire group about what we talked about with respect to biochemistry and genetics.",,,,,
+2021_10_01_MZT_S11,2021_10_01_MZT_S11,1047.9490968801313,"[ -19.7s] Dana Mitzel: But I will say trying to identify genetic determinants that might be important for spill overs and stuff like that, um at least with specific viruses have been very difficult to do in the past.
+[ -18.7s] Wilfred van der Donk: That's the whole point of the silos.
+[ -17.5s] Danae Schulz: Are there examples of when an RNA modification can actually change the code?
+[ -16.1s] Wilfred van der Donk: Is there anything?
+[ -15.8s] Wilfred van der Donk: Okay, we have about 30 seconds left.
+[ -14.3s] Joyce Jose: Um to actually uh we believe that if you test it in cell culture that's easier first to identify inhibitors or um specifically protease inhibitors or polymerase inhibitors etc.
+[ -13.9s] Danae Schulz: So like change the amino acid that gets placed there and so is that a mechanism by which
+[ -13.8s] Wilfred van der Donk: This was uh great guys.
+[ -13.3s] Dana Mitzel: Um Ebola is a big one.
+[ -12.2s] Wilfred van der Donk: I mean we already talked about the difficulty to mine current databases.
+[ -10.5s] Wilfred van der Donk: I'm not going to engage in this fight of chats as to which group was the best.",,,,,

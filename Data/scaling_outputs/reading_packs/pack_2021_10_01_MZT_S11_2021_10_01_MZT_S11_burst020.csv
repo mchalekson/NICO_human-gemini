@@ -1,0 +1,2 @@
+burst_id,conference,session,center_time_sec,burst_score,num_participants,nearest_speaker,nearest_sentence,nearest_time_sec,sent_time_sec,rel_sec,speaker,sentence,annotations,dialogue_act
+20,2021_10_01_MZT_S11,2021_10_01_MZT_S11,15118.0,0.1428571428571428,2,Danae Schulz,Sorry.,15118.0,15118.0,0.0,Danae Schulz,Sorry.,"{'acknowledge contribution': 'Danae apologizes, likely for the confusion caused by the prompt mix-up, acknowledging the previous turn.'}",
