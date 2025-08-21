@@ -1,0 +1,7 @@
+m_cut,eligible_centers,rows_written,decision_hits,sessions_covered,outfile
+2,97,1616,419,81,/Users/maxchalekson/Projects/NICO-Research/NICO_human-gemini/Data/scaling_outputs/summaries/decision_any_concordance_m2.csv
+3,91,1604,414,78,/Users/maxchalekson/Projects/NICO-Research/NICO_human-gemini/Data/scaling_outputs/summaries/decision_any_concordance_m3.csv
+4,83,1562,404,74,/Users/maxchalekson/Projects/NICO-Research/NICO_human-gemini/Data/scaling_outputs/summaries/decision_any_concordance_m4.csv
+5,73,1494,389,69,/Users/maxchalekson/Projects/NICO-Research/NICO_human-gemini/Data/scaling_outputs/summaries/decision_any_concordance_m5.csv
+6,61,1341,358,60,/Users/maxchalekson/Projects/NICO-Research/NICO_human-gemini/Data/scaling_outputs/summaries/decision_any_concordance_m6.csv
+7,42,1003,241,41,/Users/maxchalekson/Projects/NICO-Research/NICO_human-gemini/Data/scaling_outputs/summaries/decision_any_concordance_m7.csv
