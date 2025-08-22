@@ -1,0 +1,21 @@
+t_rel_sec,speaker,sentence,signal_tags
+-20.0,Mei Shen,"So Barbara, what do you think? Or does the rest of you think?",
+-15.0,Mei Shen,Yes. Let's let's do that. I haven't type in yet because I have been taking notes.,"DECIDE, AGREE"
+-12.0,Kai Zhang,"Oh, I will I'm going to add this volatile. I think this is absolutely important aspect. The volatile biomarker.",ASSIGN
+-12.0,Mei Shen,and enjoy the discussion. Sorry about that. I'm still doing it.,
+-5.0,Barbara Bendlin,And then so if you if you could bring it up though and maybe share your screen.,ASSIGN
+-4.0,Elizabeth Bess,"I think it's also interesting how uh some uh metabolites or proteins, they have dual effects where in some context we're like, yay, short chain fatty acids for example is one. Um and in Parkinson's disease they're triggering uh an a neuroinflammatory response in the brain. And so um it's also kind of interesting to think about like the duality of these different metabolites and how they can be beneficial in some context but not in others. And I think that kind of goes back to this idea of this it's it's not we're not looking for one thing usually, but like it's a fingerprint, it's a collection and what do all of these things mean together um rather than than than individually.",
+-3.0,Stephanie Cologna,"Yeah, I think we have to make sure we address like the diagnosis prognosis and mechanism part.",
+-2.0,Mei Shen,Can you all see my screen now?,ASSIGN
+0.0,Mei Shen,Yes.,AGREE
+0.0,Mei Shen,"Yeah, yeah.",
+0.0,Elizabeth Bess,Yes.,AGREE
+0.0,Elizabeth Bess,"Yes, yes.",AGREE
+1.0,Barbara Bendlin,Yep.,AGREE
+2.0,Amina Schartup,"I don't know. I I don't know. I don't know how my own work would tie into this. Um, I guess the way I see this is um I think that I'm interested in is in inputs versus outputs. So when you have a system that function and there are things are produced within the system, we call like kind of like gross rates, right? Things are just happening within the systems and it doesn't really affect the net output. So um you have you have your your microbiome and any other system and you're exposing it to food and environmental conditions and there are things happening within it but that necessarily doesn't affect the outside world.",
+2.0,Mei Shen,Okay.,AGREE
+4.0,Mei Shen,"Right, that's true.",
+5.0,Barbara Bendlin,"We don't see the slides yet, but that could just be a lag.",AGREE
+6.0,Mei Shen,Um like analyzing,
+8.0,Mei Shen,"Oh, can you see the slides or still not yet?",ASSIGN
+12.0,Barbara Bendlin,Oh.,

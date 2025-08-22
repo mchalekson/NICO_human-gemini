@@ -1,0 +1,9 @@
+{
+  "session": "2021_04_23_MND_S2",
+  "center_time_sec": 797.0,
+  "window_sec": 20.0,
+  "n_utts": 20,
+  "n_speakers": 6,
+  "n_decision_hits": 11,
+  "decisions_per_1000": 550.0
+}
