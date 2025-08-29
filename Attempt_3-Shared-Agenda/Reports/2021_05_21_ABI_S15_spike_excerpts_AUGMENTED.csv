@@ -1,0 +1,6 @@
+session_id,spike_sent_id,spike_novelty,spike_text,n_entails_ge_thr,n_reinforced,example_entails_ids,example_entails_texts,example_reinforced_ids,example_reinforced_texts
+2021_05_21_ABI_S15,0,1.0,Failures?,4,3,139;250;402;275,Um. || It's a thing. || So || modality and problem.,139;250;402,Um. || It's a thing. || So
+2021_05_21_ABI_S15,66,0.9991259870002978,"I also work on lensless holographic microscopy, um, but that is more for Xvivo samples or in vitro samples.",23,22,395;139;470;493;163,"Uh, that's one aspect. || Um. || Um, || Um, || It's um.",71;72;256;257;258,Yeah. || Yeah. || Yeah. || Yeah. || Yeah.
+2021_05_21_ABI_S15,138,0.9987569941440596,Adding then deep tissue on top of that seems a really difficult problem.,4,3,464;250;395;275,"That has stuff in it. || It's a thing. || Uh, that's one aspect. || modality and problem.",395;464;250,"Uh, that's one aspect. || That has stuff in it. || It's a thing."
+2021_05_21_ABI_S15,382,0.9987757592462004,And then the second aspect is how to use optics and algorithms to push it deeper.,3,2,395;464;461,"Uh, that's one aspect. || That has stuff in it. || So it may go beyond,",395;464,"Uh, that's one aspect. || That has stuff in it."
+2021_05_21_ABI_S15,456,0.9989224704913796,I would also Barbara love to talk to you more about that.,1,1,479,Yeah.,479,Yeah.
