@@ -1,0 +1,7 @@
+session_id,sent_id,nli_novelty,text,entailed_by_prior_text,example_type
+2021_06_10_SLU_S6,0,1.0,"And if by studying the one that we have in our solar system that's closer, we can make some general assumptions about that class of planet.",,new_idea
+2021_06_10_SLU_S6,333,0.999135168734938,"That doesn't mean that the other life isn't interesting or doesn't exist, but we may just have no way of probing it.","Yeah, so I I I have a slightly um different thought or maybe even taking everything one step further back because to me the only thing that in my mind I can come up with that really globally answers, you know, what what at least I could imagine.",new_idea
+2021_06_10_SLU_S6,70,0.9988873059628532,We have about 10 more minutes to chat before we kind of delve into the key points.,"Um, and then we can add to the PowerPoint, the important points, the key points that we can come up with later.",new_idea
+2021_06_10_SLU_S6,234,0.0055902600288391,"I'm just thinking like it would if you saw like a snowball Mars, it would be much more likely that it was because it was geologically dead.","I'm just thinking like it would if you saw like a snowball Mars, it would be much more likely that it was because it was geologically dead.",reinforcement
+2021_06_10_SLU_S6,416,0.0105743408203125,"Yeah, this is Morgan.","Yeah, this is Morgan.",reinforcement
+2021_06_10_SLU_S6,302,0.0119408965110778,"No, no, no.","No, no, no.",reinforcement

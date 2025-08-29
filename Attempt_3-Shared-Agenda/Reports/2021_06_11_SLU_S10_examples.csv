@@ -1,0 +1,7 @@
+session_id,sent_id,nli_novelty,text,entailed_by_prior_text,example_type
+2021_06_11_SLU_S10,0,1.0,And Simon.,,new_idea
+2021_06_11_SLU_S10,465,0.9991076805745251,"Well, usually when you're doing the haze experiments though, you're you're putting a photocathode in it, which I feel like would kill the little doodads.",See if they like it.,new_idea
+2021_06_11_SLU_S10,462,0.9990220895269886,"Well, I think one other thing that interests me a lot is also the temporal variability.",Sorry.,new_idea
+2021_06_11_SLU_S10,358,0.0057603120803833,"I I was try I was trying to click and drag a a picture of Care Bears into our zoom chat, but I don't know how to do that.","I I was try I was trying to click and drag a a picture of Care Bears into our zoom chat, but I don't know how to do that.",reinforcement
+2021_06_11_SLU_S10,165,0.0058441162109375,"Yeah, it's really complicated.","Yeah, it's really complicated.",reinforcement
+2021_06_11_SLU_S10,298,0.0060411691665649,I think there's a lot of like multi.,I think there's a lot of like multi.,reinforcement

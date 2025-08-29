@@ -1,0 +1,7 @@
+session_id,sent_id,nli_novelty,text,entailed_by_prior_text,example_type
+2021_06_11_SLU_S9,0,1.0,Because I think some of us may be talking about the metallicity of the star and some of us may be talking about the metallicity of the planet.,,new_idea
+2021_06_11_SLU_S9,190,0.9989956418285146,And they're also obscure so then you have to go and keep Fred.,Catherine.,new_idea
+2021_06_11_SLU_S9,249,0.9989045225083828,"Um, and in order to get around that it's really going to take an investment in laboratory astrophysics.","Um, so M dwarfs are much, much, much more difficult because our understanding of molecular capacities is really terrible.",new_idea
+2021_06_11_SLU_S9,298,0.0071163177490234,"Let's assume this, this is what we get.","So I think an exploration uh I'm not aware of somebody who's actually explored this different thing like agnostically saying, okay, let's assume this, this is what we get.",reinforcement
+2021_06_11_SLU_S9,465,0.0074208378791809,Yeah. can I just ask for one question?,"Get it, can I just ask for one question?",reinforcement
+2021_06_11_SLU_S9,87,0.0107560157775878,"So yeah, I mean I would generally expect like most I would expect your typical rocky planet to have volcanism at least at some point in its history.","Um, I mean I would expect most rocky planets to have volcanism at least at some point in their lifetime, um, unless they're just born with like hardly any heat producing elements and are in, you know, some orbit configuration where they get like no tidal heating.",reinforcement

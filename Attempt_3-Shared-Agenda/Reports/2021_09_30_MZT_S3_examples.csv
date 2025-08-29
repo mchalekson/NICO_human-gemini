@@ -1,0 +1,7 @@
+session_id,sent_id,nli_novelty,text,entailed_by_prior_text,example_type
+2021_09_30_MZT_S3,0,1.0,And so given that they form protein protein complexes which change their confirmations.,,new_idea
+2021_09_30_MZT_S3,231,0.9992232571239584,And I also was thinking about it when Angela was talking about uh um bacteria.,"We've talked about inhibiting enzymes, we've talked about inhibiting protein protein interactions and hence preventing the pathogen to get in.",new_idea
+2021_09_30_MZT_S3,249,0.9985267309239134,Perhaps just a matter of time and they can overcome those those hurdles.,See you in the in the main room.,new_idea
+2021_09_30_MZT_S3,197,0.0106796026229858,Uh next on the screen is uh Dr.,The next on my uh screen is uh Dr.,reinforcement
+2021_09_30_MZT_S3,290,0.0116994380950927,So that has been the challenge with vaccine development.,"Yeah, so uh that depends on what we're looking at like uh in case of parasites, you know, uh the aspect of vaccine development has been very challenging uh because parasites uh for instance uh plasmodium, the causative agent of malaria, you know, they keep on switching their antigen.",reinforcement
+2021_09_30_MZT_S3,27,0.0161027908325195,"One comment on this scaffolds that can be universal, right?","One comment on this scaffolds that can be universal, right?",reinforcement

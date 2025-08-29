@@ -1,0 +1,7 @@
+session_id,sent_id,nli_novelty,text,entailed_by_prior_text,example_type
+2021_05_21_ABI_S1,0,1.0,If you think about the computational space that the QMMM folks have dealt with this problem quite effectively.,,new_idea
+2021_05_21_ABI_S1,398,0.9991164875682444,I'm also professor at Penn State University.,"So in MRI we acquire in frequency space or K space and then we typically do a 4A transform to image space, but a lot of AI is replacing the 4A transform.",new_idea
+2021_05_21_ABI_S1,82,0.99907098087715,We have to put it in a separate Google Docs so we don't overwhelm the system right away.,"Oh, that's right.",new_idea
+2021_05_21_ABI_S1,95,0.0106743574142456,So let's just take a minute.,"Um so I can I'm going to grab the reins of power here and um suggest that we take just a minute uh for everybody to think about the topic and just kind of jot down a couple points, you know, things from your own experiences that you think would be applicable to this um or just more futuristic ideas that you think would be really good directions.",reinforcement
+2021_05_21_ABI_S1,43,0.0170060396194458,I think so.,I think we're all here.,reinforcement
+2021_05_21_ABI_S1,158,0.0217561721801757,Yep.,Yeah.,reinforcement

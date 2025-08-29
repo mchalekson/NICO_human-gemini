@@ -1,0 +1,7 @@
+session_id,sent_id,nli_novelty,text,entailed_by_prior_text,example_type
+2021_06_10_SLU_S7,0,1.0,And I'm happy to continue talking but I I also don't want to dominate the conversation in any way shape or form.,,new_idea
+2021_06_10_SLU_S7,416,0.9992487448034808,"I I could also speak a little bit about the spatial um resolution question just to in terms of feasibility, but but we I'll do that on call.","That's a it's a huge caveat for that whole discussion we just had I think, which is we we got really excited about one, but we shouldn't representative representative of all.",new_idea
+2021_06_10_SLU_S7,257,0.9991390771465376,"And I there's a few others, but go ahead, Mark.","Oh, that's okay.",new_idea
+2021_06_10_SLU_S7,265,0.0107175111770629,I think they usually have both.,Uh it's usually both.,reinforcement
+2021_06_10_SLU_S7,411,0.0157338380813598,Thank you.,Appreciate you.,reinforcement
+2021_06_10_SLU_S7,517,0.0168581008911132,They always say yes.,"Um, and when I query audiences about whether they'd be excited if we discover methane around a planet that within 90% certainty is related to biology, would they be excited and they always say yes.",reinforcement

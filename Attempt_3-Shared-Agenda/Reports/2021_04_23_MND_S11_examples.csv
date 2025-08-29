@@ -1,0 +1,7 @@
+session_id,sent_id,nli_novelty,text,entailed_by_prior_text,example_type
+2021_04_23_MND_S11,0,1.0,Also important to I mean the technique that you choose depends on the question you're asking.,,new_idea
+2021_04_23_MND_S11,1,0.9991821887088008,"So like mass spec is great for getting, you know, a big picture look at all the different molecules there in the tissue, whereas like I'm a sensors person.",Also important to I mean the technique that you choose depends on the question you're asking.,new_idea
+2021_04_23_MND_S11,182,0.9988604936515912,Um we studied most of those using using chambers and things like that.,"So if you're going to do chronic stress, you'll still get activation but it's much lower and then that's associated with immune responses, um inflammation, damage, all those things.",new_idea
+2021_04_23_MND_S11,322,0.0061514973640441,And so a student in our lab uh delivered dreads to the ENS to specifically to TH positive neurons and to chat positive neurons.,And so a student in our lab uh delivered dreads to the ENS to specifically to TH positive neurons and to chat positive neurons.,reinforcement
+2021_04_23_MND_S11,465,0.006203293800354,I'm not sure.,I'm not sure.,reinforcement
+2021_04_23_MND_S11,464,0.0068484544754028,I'm not sure.,I'm not sure of that.,reinforcement

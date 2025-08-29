@@ -1,0 +1,7 @@
+session_id,sent_id,nli_novelty,text,entailed_by_prior_text,example_type
+2021_05_21_ABI_S6,0,1.0,"Hi, my lab actually develops um nanoparticle based contrast agents.",,new_idea
+2021_05_21_ABI_S6,553,0.9990441324189304,"And in fact, we also use photoactivatable uh agents as well where we make cleave off some tail on the molecule to make it, let's say selectively activate a single synapse.",Uh logic gates was another I don't know if we want to add in logic gates and kind of multifunction together.,new_idea
+2021_05_21_ABI_S6,263,0.9989825116936116,I myself work more on um chemical entities that are like activatable fluorescent probes.,"I mean, I think the the sort of the drive of the talking points on the slide are sort of related more towards like the pushing new boundaries and new directions for generating contrast.",new_idea
+2021_05_21_ABI_S6,439,0.0134366750717163,I'm sorry.,"I'm sorry, I don't mean to.",reinforcement
+2021_05_21_ABI_S6,510,0.0202943682670593,Yes.,Yeah.,reinforcement
+2021_05_21_ABI_S6,273,0.0221933722496032,Cool.,Cool.,reinforcement

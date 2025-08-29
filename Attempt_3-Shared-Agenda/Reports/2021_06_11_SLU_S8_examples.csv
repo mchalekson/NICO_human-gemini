@@ -1,0 +1,7 @@
+session_id,sent_id,nli_novelty,text,entailed_by_prior_text,example_type
+2021_06_11_SLU_S8,0,1.0,And if I recall um methane was was quite a bit higher than his model predicted that methane was quite a bit higher than it is even now like post industrial.,,new_idea
+2021_06_11_SLU_S8,163,0.9992007793625816,"Which is great, that's the whole point to bring people together from different fields.",Um and Chris just put the notes for our discussion in the chat if you want to read along.,new_idea
+2021_06_11_SLU_S8,121,0.9990854769712314,"And then if we do, that tells us that life is even more common than we might expect if we found it on a place like Enceladus or Titan.","Just to rephrase that a bit, are you suggesting that instead of looking at places where we think that maybe life might be more detectable, we look for the places where it might be even harder to find life or maybe harder for life to exist and we check to see if we find life there.",new_idea
+2021_06_11_SLU_S8,27,0.006106674671173,Proxies for methane are that's just so tough.,Proxies for methane are that's just so tough.,reinforcement
+2021_06_11_SLU_S8,64,0.0062771439552307,"Yeah, there've been some model um reconstructions.","Yeah, there've been some model um reconstructions.",reinforcement
+2021_06_11_SLU_S8,167,0.0063409209251403,"Yeah, I I think I'm mostly asking a semantics question.","Yeah, I I think I'm mostly asking a semantics question.",reinforcement

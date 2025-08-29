@@ -1,0 +1,7 @@
+session_id,sent_id,nli_novelty,text,entailed_by_prior_text,example_type
+2021_04_23_MND_S4,0,1.0,"Because it's not really as far as I'm as far as my understanding, it's not really understood what the temporal scale of cytokine signaling is because no one can really measure it.",,new_idea
+2021_04_23_MND_S4,29,0.9991080854088068,I won't talk too long either.,I don't know what the lipstick model is.,new_idea
+2021_04_23_MND_S4,33,0.99845545203425,"Um, I'm jotting notes too, like um next to me just to Okay.",I won't talk too long either.,new_idea
+2021_04_23_MND_S4,15,0.005536139011383,"I'm not sure we got to the third point, but let me know what you want me to add or take away.","I'm not sure we got to the third point, but let me know what you want me to add or take away.",reinforcement
+2021_04_23_MND_S4,13,0.0062783360481262,I put some notes up here.,I put some notes up here.,reinforcement
+2021_04_23_MND_S4,80,0.0136196017265319,"It's inconceivable, right?","It's inconceivable, right?",reinforcement

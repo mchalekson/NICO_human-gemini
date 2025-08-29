@@ -1,0 +1,7 @@
+session_id,sent_id,nli_novelty,text,entailed_by_prior_text,example_type
+2021_10_01_MZT_S7,0,1.0,"Hi, Amy Hartman.",,new_idea
+2021_10_01_MZT_S7,67,0.9991414234391414,And then we also use a variety of pan assays to identify viruses that aren't um actually being targeted.,"Um, I really focus on using genomics to better understand RNA virus um spread over time and space.",new_idea
+2021_10_01_MZT_S7,285,0.9990513950469904,Uh but they're typically not the ones who are going out and interacting directly with stakeholders.,"I mean one way to do that is through uh people who are, you know, who work at those interfaces.",new_idea
+2021_10_01_MZT_S7,321,0.0065162777900695,I'm not going to say it's impossible.,I'm not going to say it's impossible.,reinforcement
+2021_10_01_MZT_S7,119,0.0217434167861938,I I agree.,I agree.,reinforcement
+2021_10_01_MZT_S7,99,0.0219285488128662,I'm a biochemist.,"I think a lot I mean, again, biochemist, so we do empirical testing.",reinforcement

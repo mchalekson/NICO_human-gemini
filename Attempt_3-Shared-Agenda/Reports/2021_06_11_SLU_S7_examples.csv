@@ -1,0 +1,7 @@
+session_id,sent_id,nli_novelty,text,entailed_by_prior_text,example_type
+2021_06_11_SLU_S7,0,1.0,"All right, welcome everyone.",,new_idea
+2021_06_11_SLU_S7,3,0.9992756919236854,"Um, first thing we need to do though is for someone to uh volunteer to be the recorder reporter.","Um, Sean and I are your facilitators today or this for this hour at least.",new_idea
+2021_06_11_SLU_S7,108,0.9991447560605592,"I am also uh the lead of the NASA I cars that Mary Wartech also just mentioned that explores the the connection between elemental abundance uh and the response of biology to it over geologic time and we are very interested in metals uh and we will be exploring that over the next five, six years broadly.","Um, so I have a background in biochemistry and evolutionary biology and and my group is connecting the molecular evolution um of molecules of proteins and and metabolisms to their environmental geochemistry uh by tracking their evolution over geologic time.",new_idea
+2021_06_11_SLU_S7,69,0.0078979134559631,That's great.,That's great.,reinforcement
+2021_06_11_SLU_S7,463,0.0128717422485351,I'm just acknowledging.,I thought it was great and I just want to acknowledge you're also taking notes and talking and note note taking at the same time is difficult.,reinforcement
+2021_06_11_SLU_S7,473,0.0248346924781799,"Thank you, Greg.","Thank you, Greg.",reinforcement

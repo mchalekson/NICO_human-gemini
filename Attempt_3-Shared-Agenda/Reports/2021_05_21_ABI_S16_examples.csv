@@ -1,0 +1,7 @@
+session_id,sent_id,nli_novelty,text,entailed_by_prior_text,example_type
+2021_05_21_ABI_S16,0,1.0,Hi.,,new_idea
+2021_05_21_ABI_S16,213,0.9989619879052044,I know some groups are working on that.,"If you want to target Clostridial species A, you would need some way to get the DNA just to that taxa and not to Clostridial species B.",new_idea
+2021_05_21_ABI_S16,238,0.9987823839765042,"There are lots of other things and the genetic modulation that because if you can increase the resiliency of a stress response, you can have a much easier to disrupt the signaling and vice versa.","Um,",new_idea
+2021_05_21_ABI_S16,433,0.0101778507232666,Why is it so hard to introduce genes?,"So, so since we have two minutes, may I ask, why is it so difficult to introduce genes into these uh microbiome?",reinforcement
+2021_05_21_ABI_S16,385,0.0157362818717956,Thank you.,"Okay, thank you.",reinforcement
+2021_05_21_ABI_S16,86,0.0186943411827087,All right.,"Uh, okay.",reinforcement

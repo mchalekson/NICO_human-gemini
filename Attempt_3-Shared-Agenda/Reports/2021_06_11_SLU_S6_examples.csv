@@ -1,0 +1,7 @@
+session_id,sent_id,nli_novelty,text,entailed_by_prior_text,example_type
+2021_06_11_SLU_S6,0,1.0,A few of us were thinking about that yesterday.,,new_idea
+2021_06_11_SLU_S6,129,0.999068397039082,"And after that we will proceed to identifying a scribe, a recorder who will report back to the main group and then we plunge in into the fun science discussion.","And some of you were not in the group I was there yesterday, but all the groups follow of course the same general approach.",new_idea
+2021_06_11_SLU_S6,174,0.9989753843983636,"You will have the power to translate the ideas to the main room, so that that's great.",Yes.,new_idea
+2021_06_11_SLU_S6,333,0.0073168873786926,That is so cool.,That is so cool.,reinforcement
+2021_06_11_SLU_S6,316,0.0082074403762817,I don't know.,I don't know.,reinforcement
+2021_06_11_SLU_S6,437,0.0099796056747436,"But it wouldn't kill all the rocks, right?","But it wouldn't kill all the rocks, right?",reinforcement

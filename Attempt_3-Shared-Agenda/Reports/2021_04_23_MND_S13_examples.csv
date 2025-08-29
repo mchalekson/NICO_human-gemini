@@ -1,0 +1,7 @@
+session_id,sent_id,nli_novelty,text,entailed_by_prior_text,example_type
+2021_04_23_MND_S13,0,1.0,"Hi, I'm Alexandra.",,new_idea
+2021_04_23_MND_S13,146,0.9990044654114172,"And um, some recent work in the lab has also been um looking at sex differences in uh model of autism.",I'm at Furman University in the biology department and the neuroscience program.,new_idea
+2021_04_23_MND_S13,30,0.9989992056507616,I think I see it on maybe I'm looking at the wrong spot though.,And so it would be um interesting to think about ways to be able to better measure speciation in vivo.,new_idea
+2021_04_23_MND_S13,175,0.0062169432640075,Just trying to get my notes from here onto um our actual slide here.,Just trying to get my notes from here onto um our actual slide here.,reinforcement
+2021_04_23_MND_S13,295,0.0062971711158752,I I I just want to make sure you you had an opportunity.,I I I just want to make sure you you had an opportunity.,reinforcement
+2021_04_23_MND_S13,296,0.0069344043731689,"So let us know, raise your hand.","So let us know, raise your hand.",reinforcement

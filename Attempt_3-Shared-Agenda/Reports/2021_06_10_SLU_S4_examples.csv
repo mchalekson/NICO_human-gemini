@@ -1,0 +1,7 @@
+session_id,sent_id,nli_novelty,text,entailed_by_prior_text,example_type
+2021_06_10_SLU_S4,0,1.0,"Actually a couple of colleagues um, um, trying to degrade that stuff.",,new_idea
+2021_06_10_SLU_S4,333,0.9989355682628228,"No, that's great.",Does that necessarily preclude detection of an actual bio signature?,new_idea
+2021_06_10_SLU_S4,598,0.9985501333139836,And it might it might even fold in with the whole impact scenario too because I mean there will be an overlap of those sources um at least in the early phase.,"Yeah, that sounds very interesting.",new_idea
+2021_06_10_SLU_S4,271,0.0054743289947509,"And so I don't know if I misread something, but this morning when I was going through all the the documents, I thought they said that they want proposals for relatively small teams, like two to three people.","And so I don't know if I misread something, but this morning when I was going through all the the documents, I thought they said that they want proposals for relatively small teams, like two to three people.",reinforcement
+2021_06_10_SLU_S4,313,0.0057114362716674,I can provide some clarification.,I can provide some clarification.,reinforcement
+2021_06_10_SLU_S4,272,0.0057520866394042,So I think maybe we do want to to have lots of little teams rather than like big team.,So I think maybe we do want to to have lots of little teams rather than like big team.,reinforcement

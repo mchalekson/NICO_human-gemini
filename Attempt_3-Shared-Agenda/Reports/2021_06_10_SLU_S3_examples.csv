@@ -1,0 +1,7 @@
+session_id,sent_id,nli_novelty,text,entailed_by_prior_text,example_type
+2021_06_10_SLU_S3,0,1.0,Hi everyone.,,new_idea
+2021_06_10_SLU_S3,2,0.9991439004661516,"I am an astronomer at the University of Wisconsin Madison, but I'm moving to MIT this summer.",Hi everyone.,new_idea
+2021_06_10_SLU_S3,214,0.9990910124615766,And that also is going to answer the question sample size and resolution limits.,"So I don't see, you know, I I think that there's even in the next phase beyond what's what's coming up now, uh samples are going to have to be chosen very carefully.",new_idea
+2021_06_10_SLU_S3,484,0.0069363713264465,"Yeah, and I'll just echo oh sorry.","Yeah, and I I'll just echo oh sorry.",reinforcement
+2021_06_10_SLU_S3,328,0.0082074403762817,I don't know.,I don't know.,reinforcement
+2021_06_10_SLU_S3,52,0.0114033818244934,"Go ahead, Courtney.","Go ahead, Courtney.",reinforcement

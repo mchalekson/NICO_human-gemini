@@ -1,0 +1,7 @@
+session_id,sent_id,nli_novelty,text,entailed_by_prior_text,example_type
+2021_09_30_MZT_S7,0,1.0,"Hi everybody, I'm Adela Oliva Chavez.",,new_idea
+2021_09_30_MZT_S7,971,0.999154069868382,And I'm also very interested in databases and thinking about how we can handle huge amounts of data and learn from that data.,Ah.,new_idea
+2021_09_30_MZT_S7,27,0.9991412700037472,"Of course, they're all supposed to be officially identified with RFID tags, so they're supposed to be traceable.","I guess I think of it from the end, we have this data and then if something happens, we're going to be able to use that data in a backwards like a trace back kind of fashion and say where did this occur.",new_idea
+2021_09_30_MZT_S7,414,0.0065265297889709,"Yeah, I just I've been just kind of ruminating over some of the thoughts and I wonder if we could go back to thinking about Hannah's question in the beginning uh because I thought um this is an interesting practical direction to go.","Yeah, I just I've been just kind of ruminating over some of the thoughts and I wonder if we could go back to thinking about Hannah's question in the beginning uh because I thought um this is an interesting practical direction to go.",reinforcement
+2021_09_30_MZT_S7,835,0.007525622844696,That's fair.,That's fair.,reinforcement
+2021_09_30_MZT_S7,147,0.0089578628540039,So I'm excited to be here.,So I'm excited to be here as a guest here at the SciLog to learn about the gaps in um mitigating zytic threats and how private funders would be able to help um in their capacity.,reinforcement

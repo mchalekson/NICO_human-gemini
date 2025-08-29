@@ -1,0 +1,7 @@
+session_id,sent_id,nli_novelty,text,entailed_by_prior_text,example_type
+2021_06_11_SLU_S4,0,1.0,And I went to grad school with Simon.,,new_idea
+2021_06_11_SLU_S4,466,0.9991360310814345,"a related issue is that uh in Earth's ocean, things like phosphorus and other ingredients for for life can be used thousand times or more before they're ultimately buried in in marine sediments.","Yeah, yeah, yeah.",new_idea
+2021_06_11_SLU_S4,1,0.9991005195770412,So it's fun to see him back on this chat on this call.,And I went to grad school with Simon.,new_idea
+2021_06_11_SLU_S4,398,0.0078979134559631,That's great.,That's great.,reinforcement
+2021_06_11_SLU_S4,129,0.0103082060813903,"Uh, but are we fooling ourselves?","So the way I wrote it is, uh, are we fooling ourselves?",reinforcement
+2021_06_11_SLU_S4,23,0.0119643807411193,"Yeah, that's my first guess.","Yeah, I mean, I think if you're if we're unable to make plate boundaries due to the high pressure of this volatile layer, I think that's probably my first guess is it would act like a stagnant lid like Mars and it would have a very thick cold lithosphere above the convecting mantle.",reinforcement

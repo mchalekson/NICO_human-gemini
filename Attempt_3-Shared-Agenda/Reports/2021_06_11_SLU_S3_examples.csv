@@ -1,0 +1,7 @@
+session_id,sent_id,nli_novelty,text,entailed_by_prior_text,example_type
+2021_06_11_SLU_S3,0,1.0,Can I interject?,,new_idea
+2021_06_11_SLU_S3,117,0.9991613637539558,"I should just mention there's also one layer of complexity beyond that, which is that many stars are actually born in pairs.",So I'm actually uh kind of a stellar chemist in some sense.,new_idea
+2021_06_11_SLU_S3,170,0.999089292541612,And then I'm also currently really interested in stars and stellar activity.,"Eve, you've had your hand up for a while, so.",new_idea
+2021_06_11_SLU_S3,462,0.0088856816291809,So that's a whole workshop that question.,So that's a whole workshop that question.,reinforcement
+2021_06_11_SLU_S3,580,0.0245803594589233,Yeah.,"Yeah, yeah.",reinforcement
+2021_06_11_SLU_S3,581,0.0245803594589233,Yeah.,"Yeah, yeah.",reinforcement

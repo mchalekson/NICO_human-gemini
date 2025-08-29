@@ -1,0 +1,7 @@
+session_id,sent_id,nli_novelty,text,entailed_by_prior_text,example_type
+2021_05_21_ABI_S13,0,1.0,"Are there people who so you know how there are people now who no longer have wet labs and they literally just take data sets from single cell seek and they they do reanalysis and they sort of so there are people who do this for imaging, right?",,new_idea
+2021_05_21_ABI_S13,217,0.9990609650849364,Uh and that's also because of course the patient cohorts are different.,"For example, in my field uh with the imaging technique that we use, uh the literature is completely heterogeneous.",new_idea
+2021_05_21_ABI_S13,424,0.9988998179323972,"I also um look at interventional processes such as um image guided surgery um um imaging of all sorts, okay?",I work in the area of molecular imaging uh especially in cancer imaging.,new_idea
+2021_05_21_ABI_S13,307,0.0058375000953674,I think the super resolution field is a good example of this um you know because our data actually not even intensity based.,I think the super resolution field is a good example of this um you know because our data actually not even intensity based.,reinforcement
+2021_05_21_ABI_S13,147,0.0063387155532836,I can do the report.,I can do the report.,reinforcement
+2021_05_21_ABI_S13,8,0.0072817802429199,I am.,I am.,reinforcement

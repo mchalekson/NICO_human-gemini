@@ -1,0 +1,7 @@
+session_id,sent_id,nli_novelty,text,entailed_by_prior_text,example_type
+2021_04_23_MND_S10,0,1.0,And so it would be um interesting to think about ways to be able to better measure speciation in vivo.,,new_idea
+2021_04_23_MND_S10,203,0.9991557120811194,But they could always evolve uh ways around these kill switches.,"And then there's been suggestions that that metabolic activity within the gut has led to, you know,",new_idea
+2021_04_23_MND_S10,189,0.9989841363858432,"Um, and then even targeted ways of getting that substrate to a certain area.",It looks really nice.,new_idea
+2021_04_23_MND_S10,360,0.011931836605072,I apologize.,"Yeah, sorry.",reinforcement
+2021_04_23_MND_S10,118,0.0146857500076293,Got it.,Got it.,reinforcement
+2021_04_23_MND_S10,311,0.0186321139335632,"Right, shuttles.",Right shuttles.,reinforcement

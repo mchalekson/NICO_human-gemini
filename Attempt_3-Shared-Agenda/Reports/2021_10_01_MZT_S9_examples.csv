@@ -1,0 +1,7 @@
+session_id,sent_id,nli_novelty,text,entailed_by_prior_text,example_type
+2021_10_01_MZT_S9,0,1.0,Are these localized?,,new_idea
+2021_10_01_MZT_S9,18,0.999177499616053,"Uh the other thing is that my wife is a veterinarian, um and I I talk these issues quite often with her.",So,new_idea
+2021_10_01_MZT_S9,104,0.999120585853234,"You can also use light traps, but those are mostly for host seeking mosquitoes so you're not going to get as many blood fed that way.",I'm sure you can do other things but you are very limited on the amount of blood you're working with.,new_idea
+2021_10_01_MZT_S9,254,0.0063989758491516,I'd be happy to.,"I'd be happy to do it, no worries.",reinforcement
+2021_10_01_MZT_S9,58,0.0101649165153503,"I mean just the pure volume of of information is expensive to how much less than can we building the algorithms, doing continual surveillance, not just looking retrospectively but really looking um actively watching these data points if they're is they're coming in.","I mean just the pure volume of of information is expensive to how much less than can we building the algorithms, doing continual surveillance, not just looking retrospectively but really looking um actively watching these data points if they're is they're coming in.",reinforcement
+2021_10_01_MZT_S9,346,0.0148704051971435,No.,No.,reinforcement

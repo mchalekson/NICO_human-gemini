@@ -1,0 +1,7 @@
+session_id,sent_id,nli_novelty,text,entailed_by_prior_text,example_type
+2021_05_21_ABI_S11,0,1.0,Do they have to be or can they be fluorescent probes that work and,,new_idea
+2021_05_21_ABI_S11,199,0.9989112035837024,"Um particularly when you get these fret pair systems that report back all sorts of activities and the the redder they go, the more they're going to enable this.",What integrative techniques allow wide field screening of tissue to identify region of interest which can be subsequently imaged at very high magnifications perhaps super resolution.,new_idea
+2021_05_21_ABI_S11,440,0.9988749463809654,I would also Barbara love to talk to you more about that.,"Uh, it doesn't tell you very much about, you know, not nothing about some threshold events, which is you know, everything about how neurons compute is about sub threshold very interesting biophysics and integration across the, you know, unique and neuron type specific uh dendritic trees that they used to collect information with.",new_idea
+2021_05_21_ABI_S11,85,0.0055322647094726,Now nobody's going to volunteer.,Now nobody's going to volunteer.,reinforcement
+2021_05_21_ABI_S11,81,0.0059003829956054,I can hear you.,I can hear you.,reinforcement
+2021_05_21_ABI_S11,410,0.0059003829956054,I can hear you.,I can hear you.,reinforcement

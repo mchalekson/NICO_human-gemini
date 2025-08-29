@@ -1,0 +1,7 @@
+session_id,sent_id,nli_novelty,text,entailed_by_prior_text,example_type
+2021_04_23_MND_S8,0,1.0,"But um, does it have to really fit in one year?",,new_idea
+2021_04_23_MND_S8,55,0.9990817299694754,"I also had a a very interesting point about kind of asking what what mattered and it um about you know, I don't know, certain metabolites, is it the species?",And is that something that affects the the way that our brain functions?,new_idea
+2021_04_23_MND_S8,405,0.9990640324540436,"And also if you think about the technical limitation, what kind of a sequencing technique you want to use so that you can profile the system at each level.",I agree.,new_idea
+2021_04_23_MND_S8,133,0.0055697560310363,"If like the redox is really off and there's a lot of oxygen in the environment, you don't really have to know the interspecies interactions to know something bad is probably about to happen.","If like the redox is really off and there's a lot of oxygen in the environment, you don't really have to know the interspecies interactions to know something bad is probably about to happen.",reinforcement
+2021_04_23_MND_S8,124,0.0075677633285522,If you there's no limit.,"Um, if you you have no bounds.",reinforcement
+2021_04_23_MND_S8,333,0.0078979134559631,That's great.,That's great.,reinforcement

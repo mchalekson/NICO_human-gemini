@@ -1,0 +1,7 @@
+session_id,sent_id,nli_novelty,text,entailed_by_prior_text,example_type
+2021_05_21_ABI_S8,0,1.0,So I'll just briefly say hi if that's okay just to you know who I am.,,new_idea
+2021_05_21_ABI_S8,573,0.9992410239647144,I also will probably shut my camera off and just participate as a butterfly on the wall.,I'm from the Walder Foundation based in the Chicago region um and I'm the senior program uh director for science innovation.,new_idea
+2021_05_21_ABI_S8,167,0.9992254470125772,"Although somebody commented that the mechanism of formation was different in vivo versus in the organoid, but that the function was similar.",And so what we are doing in my lab is really trying to get at the basal function of the proteins that allow these cells to undergo EMT and to migrate and differentiate and then um at least my postdoc is really interested in trying to define whether those functions um are conserved in disease states.,new_idea
+2021_05_21_ABI_S8,24,0.007352590560913,I do.,I do.,reinforcement
+2021_05_21_ABI_S8,443,0.0081427097320556,That's crazy.,That's crazy.,reinforcement
+2021_05_21_ABI_S8,444,0.0081427097320556,That's crazy.,That's crazy.,reinforcement

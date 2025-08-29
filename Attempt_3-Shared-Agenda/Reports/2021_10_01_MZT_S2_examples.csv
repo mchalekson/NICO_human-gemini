@@ -1,0 +1,7 @@
+session_id,sent_id,nli_novelty,text,entailed_by_prior_text,example_type
+2021_10_01_MZT_S2,0,1.0,All right.,,new_idea
+2021_10_01_MZT_S2,121,0.9991355272359216,And I'm also doing a doing a bit of work with rabies and raccoon as well.,I'm an assistant prof at Southern Illinois University.,new_idea
+2021_10_01_MZT_S2,212,0.9990548064233736,I'm also thinking a lot about how to optimize surveillance programs um to be able to be truly early detection and response capable.,Um and uh I'm a disease modeler.,new_idea
+2021_10_01_MZT_S2,256,0.0056798458099365,"And Daniel had had his hand up, but that's okay and that'll come to you.","And Daniel Daniel had had his hand up, but that's okay and that'll come to you.",reinforcement
+2021_10_01_MZT_S2,78,0.0060958266258239,"We need to try to predict and um, have effective surveillance, but as we saw with SARS COV2, you know, even our surveillance of human diseases is not very good and takes a long time to catch things.","We need to try to predict and um, have effective surveillance, but as we saw with SARS COV2, you know, even our surveillance of human diseases is not very good and takes a long time to catch things.",reinforcement
+2021_10_01_MZT_S2,257,0.0076352357864379,"Go ahead, Daniel, you had yeah.","Go ahead, Daniel, you had yeah.",reinforcement

@@ -1,0 +1,7 @@
+session_id,sent_id,nli_novelty,text,entailed_by_prior_text,example_type
+2021_05_21_ABI_S9,0,1.0,"Hi, I'm Alex.",,new_idea
+2021_05_21_ABI_S9,164,0.9992108375299722,I said you don't have to but most people do.,"So do we want to start one, you know, do one by one?",new_idea
+2021_05_21_ABI_S9,412,0.9989874699385836,Um we also uh work a little bit on the nano drug delivery to the targeting the indulgence beta cells.,Uh so the research work in my lab uh mainly focus on uh using imaging uh matters to track the transplanted uh human eyelid uh and also the stem cell differentiate eyelid organoids.,new_idea
+2021_05_21_ABI_S9,130,0.005648136138916,It's important to choose a pretext task that is relevant to the downstream task that we want to solve.,It's important to choose a pretext task that is relevant to the downstream task that we want to solve.,reinforcement
+2021_05_21_ABI_S9,129,0.0068564414978027,The pretext task is the task that we use to train the model on unlabeled data.,The pretext task is the task that we use to train the model on unlabeled data.,reinforcement
+2021_05_21_ABI_S9,128,0.0076712965965271,I think one of the biggest challenges is how to design the pretext task.,I think one of the biggest challenges in self-supervised learning is how to design the pretext task.,reinforcement

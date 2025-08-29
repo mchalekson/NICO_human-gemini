@@ -1,0 +1,7 @@
+session_id,sent_id,nli_novelty,text,entailed_by_prior_text,example_type
+2021_04_22_MND_S6,0,1.0,"Hi, I'm Alexandra.",,new_idea
+2021_04_22_MND_S6,442,0.9990520174615084,Maybe we should ask Andrew to make sure that it's someone that needs to be here though.,"It require it it requires a skill, you know?",new_idea
+2021_04_22_MND_S6,354,0.9990356038906612,"I also think four and seven are the same ideas, that you could probably combine those.","Um, we also develop chemical tools to look at the metabolism of the gut microbiome specifically at um bacterial enzymes that the gut microbiome expresses.",new_idea
+2021_04_22_MND_S6,317,0.0170664191246032,It's my pleasure.,I'm happy to do it.,reinforcement
+2021_04_22_MND_S6,493,0.0217561721801757,Yep.,Yeah.,reinforcement
+2021_04_22_MND_S6,72,0.0224154591560363,Thanks.,Thank you.,reinforcement

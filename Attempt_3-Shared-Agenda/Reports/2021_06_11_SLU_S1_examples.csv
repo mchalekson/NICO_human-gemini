@@ -1,0 +1,7 @@
+session_id,sent_id,nli_novelty,text,entailed_by_prior_text,example_type
+2021_06_11_SLU_S1,0,1.0,I can do it.,,new_idea
+2021_06_11_SLU_S1,111,0.9990889477776363,"And we also do mission relevant instrumentation, so looking at what what different characteristics samples would look like by the instruments that we send say on Mars Rovers.",We simulate hydrothermal events and then also study hydrothermal events in the in the field.,new_idea
+2021_06_11_SLU_S1,347,0.9988948622485624,"So mostly I leverage the transit method in studying exoplanets, uh but have worked with the Roman Space telescope and other direct imaging missions as well.","Hi, uh I'm an assistant professor at Cornell University and uh the group here mostly focuses on characterization of exoplanet atmospheres, although we dabble in the solar system and icy moons.",new_idea
+2021_06_11_SLU_S1,27,0.0067928433418273,"Uh, okay, so so is is the first point that we we we talked about agnostic signatures for.","Uh, okay, so so is is the first point that we we we talked about agnostic signatures for.",reinforcement
+2021_06_11_SLU_S1,370,0.0081449747085571,Do you feel comfortable creating a a bullet point or do should.,Do you feel comfortable creating a a bullet point or do should.,reinforcement
+2021_06_11_SLU_S1,306,0.0108303427696228,"Sorry, I suppose.","Sorry, I suppose.",reinforcement

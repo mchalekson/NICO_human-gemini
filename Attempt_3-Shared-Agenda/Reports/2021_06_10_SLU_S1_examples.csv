@@ -1,0 +1,7 @@
+session_id,sent_id,nli_novelty,text,entailed_by_prior_text,example_type
+2021_06_10_SLU_S1,0,1.0,"And group 1.5, if you can get your materials into slide 28, that would be appreciated.",,new_idea
+2021_06_10_SLU_S1,25,0.9989859281340614,Um and of course that impacts primary productivity which complex ecosystems need in order to just to to grow.,Um and Noah mentioned how there's how there's possibility for so lower levels of phosphorus uh in early earth.,new_idea
+2021_06_10_SLU_S1,132,0.9989812232088298,I do a lot of isotope work on carbon and sulfur.,"Yeah, hi.",new_idea
+2021_06_10_SLU_S1,157,0.011798083782196,"Great, thank you.","Great, thank you.",reinforcement
+2021_06_10_SLU_S1,158,0.011798083782196,"Great, thank you.","Great, thank you.",reinforcement
+2021_06_10_SLU_S1,159,0.011798083782196,"Great, thank you.","Great, thank you.",reinforcement

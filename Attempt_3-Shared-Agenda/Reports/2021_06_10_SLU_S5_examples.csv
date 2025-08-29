@@ -1,0 +1,7 @@
+session_id,sent_id,nli_novelty,text,entailed_by_prior_text,example_type
+2021_06_10_SLU_S5,0,1.0,"10 minutes, okay.",,new_idea
+2021_06_10_SLU_S5,195,0.999107880576048,And of course then there is the connection to the geo uh which uh a lot of you are very interested in.,Um there is a lot to unpack there.,new_idea
+2021_06_10_SLU_S5,326,0.99897534691263,"This is true for like the NASA RCNs, exobiology and everything else.","So we always want to know what conditions do you do it under because it has to be really controlled and specific, otherwise none of your results could be real.",new_idea
+2021_06_10_SLU_S5,14,0.007544994354248,I agree.,I agree.,reinforcement
+2021_06_10_SLU_S5,67,0.0150119662284851,So that's kind of how we think about it.,So it um that's just kind of what we think about as UV is generally chewing this stuff up and it can cause photochemical reactions that we don't want.,reinforcement
+2021_06_10_SLU_S5,374,0.0171783566474914,I I mean the global scale.,"But if you check the global, I mean global scale temperature, that's other problem.",reinforcement

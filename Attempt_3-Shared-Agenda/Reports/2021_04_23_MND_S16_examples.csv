@@ -1,0 +1,7 @@
+session_id,sent_id,nli_novelty,text,entailed_by_prior_text,example_type
+2021_04_23_MND_S16,0,1.0,"Hi, I'm Anne Hultgren.",,new_idea
+2021_04_23_MND_S16,159,0.9989689942449332,And then we make aliquats for each.,"We have one tube that's coming from the ethanol containing vial, the other comes from a non-ethanol containing sort of a dry vial.",new_idea
+2021_04_23_MND_S16,85,0.9989336729049684,I am from Emory University.,"Um, I'm a bioanalytical chemist and my primary um research areas are in uh analyzing breath metabolomes for uh developing breath based diagnostics.",new_idea
+2021_04_23_MND_S16,56,0.018433928489685,Hi.,Hello everyone.,reinforcement
+2021_04_23_MND_S16,24,0.0204978585243225,"Thank you, Irene.","Thanks, Irene.",reinforcement
+2021_04_23_MND_S16,137,0.0230369567871093,Absolutely.,Absolutely.,reinforcement

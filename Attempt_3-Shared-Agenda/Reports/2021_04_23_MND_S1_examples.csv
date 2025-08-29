@@ -1,0 +1,7 @@
+session_id,sent_id,nli_novelty,text,entailed_by_prior_text,example_type
+2021_04_23_MND_S1,0,1.0,"How do you then, and this is way out of my wheelhouse, but how do you understand how that individual's lifestyle, their environment outside of their body, just where they live, what they do, their interactions with their everyday life.",,new_idea
+2021_04_23_MND_S1,123,0.9990604845806956,"But then when we want to validate some of the key functions or pathways, that's where we really go with the more complex models because they are not as scalable.","Yeah, so when you start with primary tissue, it's not easy to capture the neurons because they're very diluted in the tissue.",new_idea
+2021_04_23_MND_S1,55,0.9990218413295224,"Um I guess another important point was the medications and how they um get affected by the microbiome and then vice versa, how like management of these patients affects the motility and the composition of the microbes.",So these are around maybe 500 or 600 just small molecules that affect different neurotransmitter receptors.,new_idea
+2021_04_23_MND_S1,343,0.0056203007698059,I don't know about all of those.,I don't know about all of those.,reinforcement
+2021_04_23_MND_S1,192,0.0057740807533264,I guess we have many more questions than answers.,I guess we have many more questions than answers.,reinforcement
+2021_04_23_MND_S1,356,0.0058404207229614,Sensing and regulation is a big part of the plan here.,Sensing and regulation is a big part of the plan here.,reinforcement

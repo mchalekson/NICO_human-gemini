@@ -1,0 +1,7 @@
+session_id,sent_id,nli_novelty,text,entailed_by_prior_text,example_type
+2021_04_23_MND_S7,0,1.0,Agreed.,,new_idea
+2021_04_23_MND_S7,479,0.9990992562379688,"We're also the fourth group, so it's okay.","Yeah, uh, so I'm Wang and I was trained as a chemical biologist and also protein engineer.",new_idea
+2021_04_23_MND_S7,303,0.9990684628137388,"But then how do they truly impact what we would be studying here, the gut brain axis and do they really remain important when the ecosystem becomes more saturated?",These may be more easily detected in simpler systems that once we initially propose will be important.,new_idea
+2021_04_23_MND_S7,119,0.0059114694595336,"No, we had it.","No, we had it.",reinforcement
+2021_04_23_MND_S7,176,0.0154535174369812,is a great team.,"is a great team from competition computational scientist to microbiologist, immunologist, early life uh biologist and engineers.",reinforcement
+2021_04_23_MND_S7,74,0.0158867239952087,"Yeah, sure.","Yeah, please.",reinforcement

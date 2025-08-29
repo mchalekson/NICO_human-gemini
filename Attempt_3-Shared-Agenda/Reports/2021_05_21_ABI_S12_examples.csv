@@ -1,0 +1,7 @@
+session_id,sent_id,nli_novelty,text,entailed_by_prior_text,example_type
+2021_05_21_ABI_S12,0,1.0,That's okay.,,new_idea
+2021_05_21_ABI_S12,211,0.999137512058951,It's also in the Google Docs that yeah.,So like I know CT denoising is done by deep learning.,new_idea
+2021_05_21_ABI_S12,314,0.9990091804647818,It could also be a little bit at a higher scale like what cells are present in that tissue.,I I can talk I I'm typing so I I can also talk.,new_idea
+2021_05_21_ABI_S12,169,0.011603832244873,It's gonna be beautiful.,You're gonna it's gonna be beautiful.,reinforcement
+2021_05_21_ABI_S12,63,0.0133813023567199,How do you connect those two things?,So how do you relate those two imaging modalities to get the maximum value from an a a research and analytical modality and a more clinically accessible or clinically relevant modality.,reinforcement
+2021_05_21_ABI_S12,420,0.0199173092842102,Yeah.,Yep.,reinforcement

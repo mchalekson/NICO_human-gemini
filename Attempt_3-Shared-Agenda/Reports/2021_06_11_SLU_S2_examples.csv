@@ -1,0 +1,7 @@
+session_id,sent_id,nli_novelty,text,entailed_by_prior_text,example_type
+2021_06_11_SLU_S2,0,1.0,Am I making any sense?,,new_idea
+2021_06_11_SLU_S2,17,0.9989243615418671,Uh we've also got a cell counter.,"Um, so uh I'm technically an analytical chemist.",new_idea
+2021_06_11_SLU_S2,296,0.9987874728394672,I'm a geobiologist at Northwestern.,"But principally, I'm here as a former uh director at RCSA, um, and very um interested in in in the Silog programs and and how they're developing.",new_idea
+2021_06_11_SLU_S2,178,0.0058934688568115,"Yeah, the in the radio the signal's going to be just just just way too tiny.","Um, yeah, the in the radio the signal's going to be just just just way too tiny.",reinforcement
+2021_06_11_SLU_S2,507,0.0063968300819396,"I mean also Andro certainly has a a background in sort of astromaterials but it's it's it's less from the um uh sort of astrophysical observation side and more from the, you know, the the chemist meteoritic chemistry and that kind of thing.","I mean also Andro certainly has a a background in sort of astromaterials but it's it's it's less from the um uh sort of astrophysical observation side and more from the you know, the the chemist meteoritic chemistry and that kind of thing.",reinforcement
+2021_06_11_SLU_S2,506,0.0065381526947021,"Um, I don't know that we do.","Um, I don't know that we do.",reinforcement

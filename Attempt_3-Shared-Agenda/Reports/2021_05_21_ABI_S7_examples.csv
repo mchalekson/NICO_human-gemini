@@ -1,0 +1,7 @@
+session_id,sent_id,nli_novelty,text,entailed_by_prior_text,example_type
+2021_05_21_ABI_S7,0,1.0,Can I ask a question about the the transport phenomenon that you're interested in looking at inside the cilia?,,new_idea
+2021_05_21_ABI_S7,367,0.9991102372878232,But the issue is then it's really computationally expensive to deconvolve into an image and resolution is only so so.,"Uh, could I ask Kristen, as we're getting uh close to finishing up, how do I put this into that the slide deck?",new_idea
+2021_05_21_ABI_S7,160,0.9990165787748992,"You can also do a port a less sophisticated version where you literally just use a couple cameras and displace where the image is being formed out of each of them, but this has some aberration cost.",There's there's multiple approaches.,new_idea
+2021_05_21_ABI_S7,401,0.0080593228340148,100 hertz um is not out of reach of an SCM.,100 hertz um is not out of reach of an SCM.,reinforcement
+2021_05_21_ABI_S7,400,0.0098599791526794,"So I mean with today's cameras like you know scientific cameras those frame rates are not out of reach, right?","So I mean with today's cameras like you know scientific cameras those frame rates are not out of reach, right?",reinforcement
+2021_05_21_ABI_S7,251,0.011798083782196,"Great, thank you.","Great, thank you.",reinforcement

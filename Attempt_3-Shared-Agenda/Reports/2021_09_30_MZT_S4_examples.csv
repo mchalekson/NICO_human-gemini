@@ -1,0 +1,7 @@
+session_id,sent_id,nli_novelty,text,entailed_by_prior_text,example_type
+2021_09_30_MZT_S4,0,1.0,"And secondly, whether there is a human resources.",,new_idea
+2021_09_30_MZT_S4,282,0.9991811294457876,"And I think I figured out the challenges with food also, so that will be wrapping it up that one way to solve it something universal which is mass producible.",So that's what I am up to.,new_idea
+2021_09_30_MZT_S4,148,0.9988902087789028,"Um we also there was a lot of discussion about let me put down the big topics, remote sensing.",Does that kind of work where you were?,new_idea
+2021_09_30_MZT_S4,188,0.0076401829719543,"Yeah, so um so what I was going to say is at this point we're not actually on a single slide and I don't know what the I see someone is shrinking the text, which is helpful.","Yeah, so um so what I was going to say is at this point we're not actually on a single slide and I don't know what the I see someone is shrinking the text, which is helpful.",reinforcement
+2021_09_30_MZT_S4,173,0.018843650817871,A genome bank.,Um also under surveillance I I thought the idea of of um of a genome bank is an interesting I mean that it's a it's a good idea.,reinforcement
+2021_09_30_MZT_S4,268,0.0202943682670593,Yes.,Yeah.,reinforcement

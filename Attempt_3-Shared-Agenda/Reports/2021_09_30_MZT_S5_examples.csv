@@ -1,0 +1,7 @@
+session_id,sent_id,nli_novelty,text,entailed_by_prior_text,example_type
+2021_09_30_MZT_S5,0,1.0,"Agreed, it's just seasonality uh and understanding perhaps more layers of, you know, seasonality for the host might not be the same as the seasonality for for the vector and also trying to understand those timings and how you can disrupt them for instance, uh which which is an area that's been kind of explored a lot uh for mosquito born and now it's becoming a thing for uh tick born as well, trying to understand uh coinfection because of those seasonalities and lags and understanding how it's the best way to disrupt some of those cycles precisely um understanding those lags uh and so on.",,new_idea
+2021_09_30_MZT_S5,162,0.9990123502211644,It was also enhanced by the socio economic conditions.,"And from one year to the next, people will move.",new_idea
+2021_09_30_MZT_S5,47,0.9989824806107208,"Due to the movement of animals, you've really got to be quick on the turnaround of that though. especially production animals.",Can we come up with something that is sort of a proxy sample that helps us understand these kind of wave fronts and transmissions and helps us get in front of that and then and then have this intervention moment early on.,new_idea
+2021_09_30_MZT_S5,36,0.0111178755760192,"Yeah, I agree.","Yeah, I agree with that.",reinforcement
+2021_09_30_MZT_S5,272,0.0217561721801757,Yep.,Yeah.,reinforcement
+2021_09_30_MZT_S5,220,0.0228265523910522,Let's circle back.,I want to circle back.,reinforcement

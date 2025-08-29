@@ -1,0 +1,7 @@
+session_id,sent_id,nli_novelty,text,entailed_by_prior_text,example_type
+2021_10_01_MZT_S8,0,1.0,"Hi everybody, I'm Adela Oliva Chavez Chavez, I'm an assistant professor at uh the Department of Tropical Medicine at Tulane University.",,new_idea
+2021_10_01_MZT_S8,199,0.9990058740368112,That's why they try to get the three most likely strains.,I don't I'm glad you were able to make it.,new_idea
+2021_10_01_MZT_S8,275,0.998985162936151,"One is the Moderna, the other is Fider.","And the another question maybe related to just like the covid covid vaccine, we have two popular cans here.",new_idea
+2021_10_01_MZT_S8,119,0.0089049339294433,That would be great.,"Thanks, that would be great.",reinforcement
+2021_10_01_MZT_S8,310,0.0221933722496032,Cool.,Cool.,reinforcement
+2021_10_01_MZT_S8,179,0.0256363153457641,All right.,All right.,reinforcement

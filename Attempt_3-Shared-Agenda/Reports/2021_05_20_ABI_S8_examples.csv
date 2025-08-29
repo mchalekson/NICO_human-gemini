@@ -1,0 +1,7 @@
+session_id,sent_id,nli_novelty,text,entailed_by_prior_text,example_type
+2021_05_20_ABI_S8,0,1.0,"I was just thought about doing not imaging them but doing mass spec on them, but I guess that's just a mess, right?",,new_idea
+2021_05_20_ABI_S8,492,0.998960596160032,Then from there I moved to biophotonics and imaging during my post doctoral work.,"Yeah, I think we saw that.",new_idea
+2021_05_20_ABI_S8,289,0.9988242329563946,So I'll hopefully go next year.,"Yeah, yeah, yeah.",new_idea
+2021_05_20_ABI_S8,4,0.0057424306869506,Anybody can type.,Anybody can type.,reinforcement
+2021_05_20_ABI_S8,337,0.0119075775146484,I see.,I see.,reinforcement
+2021_05_20_ABI_S8,338,0.0119075775146484,I see.,I see.,reinforcement

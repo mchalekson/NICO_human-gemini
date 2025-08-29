@@ -1,0 +1,7 @@
+session_id,sent_id,nli_novelty,text,entailed_by_prior_text,example_type
+2021_04_23_MND_S6,0,1.0,I can go next.,,new_idea
+2021_04_23_MND_S6,62,0.9991916788276284,We can see it in real time though on if we all have the Google Drive open in another browser tab.,"I look at that in maternal populations, so the association between, um, periodontal disease and pre-term birth, and I've also looked at it in older adults, um, association between periodontal disease again and, uh, mild cognitive impairment.",new_idea
+2021_04_23_MND_S6,301,0.9991409566719084,"And there's also some really interesting um uh reverse projections from the NTS that go to the efferent arm of the Vegas too, which is another conversation for maybe later or or what have you.",I'm fairly familiar with it because it's a research project I'm involved with.,new_idea
+2021_04_23_MND_S6,393,0.0056211352348327,I don't know if you can account for that in many of these situations.,I don't know if you can account for that in many of these situations.,reinforcement
+2021_04_23_MND_S6,101,0.0057302713394165,Um I'm sorry if you hear hear some crying in the background.,Um I'm sorry if you hear hear some crying in the background.,reinforcement
+2021_04_23_MND_S6,100,0.0058868527412414,We we could both I think contribute.,We we could both I think contribute.,reinforcement

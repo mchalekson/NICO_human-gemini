@@ -1,0 +1,7 @@
+session_id,sent_id,nli_novelty,text,entailed_by_prior_text,example_type
+2021_05_20_ABI_S3,0,1.0,"Dylan, your task is to have the right quarter cell at the right time.",,new_idea
+2021_05_20_ABI_S3,189,0.9986986046424136,We could talk about different um advances to the implementation and then um I was also I was glad to see that there were people from MRI in here that if we could um get some information from other fields in imaging that might influence our approaches.,Um so that would be one thought.,new_idea
+2021_05_20_ABI_S3,112,0.9986889688298106,Like all the we had we talked quite a bit about how to deal with the data too.,"So this conversation that Stefan's point that he just brought up about thinking about how do we, you know, maybe something that separated these individual things don't scatter light well, but then due to some kind of biological or chemical change within the organism, they come together and then oops, now they're it's I mean, in some sense it's kind of like, you know, G camp or any other kind of reporter.",new_idea
+2021_05_20_ABI_S3,431,0.0092275142669677,So that's one thing I was thinking about.,So there is something um I was thinking about.,reinforcement
+2021_05_20_ABI_S3,138,0.011798083782196,"Great, thank you.","Great, thank you.",reinforcement
+2021_05_20_ABI_S3,141,0.011798083782196,"Great, thank you.","Great, thank you.",reinforcement

@@ -1,0 +1,7 @@
+session_id,sent_id,nli_novelty,text,entailed_by_prior_text,example_type
+2021_05_21_ABI_S15,0,1.0,Failures?,,new_idea
+2021_05_21_ABI_S15,66,0.9991259870002978,"I also work on lensless holographic microscopy, um, but that is more for Xvivo samples or in vitro samples.",I work on two different things.,new_idea
+2021_05_21_ABI_S15,456,0.9989224704913796,I would also Barbara love to talk to you more about that.,"But,",new_idea
+2021_05_21_ABI_S15,71,0.0271682143211364,Yeah.,Yeah.,reinforcement
+2021_05_21_ABI_S15,72,0.0271682143211364,Yeah.,Yeah.,reinforcement
+2021_05_21_ABI_S15,256,0.0271682143211364,Yeah.,Yeah.,reinforcement

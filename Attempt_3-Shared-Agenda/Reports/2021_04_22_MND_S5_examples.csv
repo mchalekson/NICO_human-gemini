@@ -1,0 +1,7 @@
+session_id,sent_id,nli_novelty,text,entailed_by_prior_text,example_type
+2021_04_22_MND_S5,0,1.0,Sure.,,new_idea
+2021_04_22_MND_S5,238,0.999036232358776,"I also really appreciated the discussion about the um, blood brain barrier being something um, that we have an incomplete understanding of and that textbook definition being being outdated.","If I can make a small plug, I I wrote a cute little tutorial uh mini review last year on machine learning for precision medicine, which is like um an easy digestible kind of review.",new_idea
+2021_04_22_MND_S5,406,0.9989032910671084,"Also, I think in patients with autism in my experience, they often have a very restricted diet.",So it's hard to validate uh those sort of studies.,new_idea
+2021_04_22_MND_S5,139,0.0055555701255798,So that there is just a note from uh Andrew that we should try to kind of summarize our key things.,So that there is just a note from uh Andrew that we should try to kind of summarize our key things and I think our aim is to eventually have like one slide that summarizes like essential ideas.,reinforcement
+2021_04_22_MND_S5,527,0.005763292312622,"So some of these questions relate though to like uh, more basic science.","So some of these questions relate though to like uh, more basic science, right?",reinforcement
+2021_04_22_MND_S5,534,0.0093205571174621,"Yeah, that's a really good point.","Yeah, that's a great point.",reinforcement

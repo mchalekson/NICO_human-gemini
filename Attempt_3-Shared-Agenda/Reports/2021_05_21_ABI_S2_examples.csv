@@ -1,0 +1,7 @@
+session_id,sent_id,nli_novelty,text,entailed_by_prior_text,example_type
+2021_05_21_ABI_S2,0,1.0,"Hey everyone, my name is Arnold Hayer.",,new_idea
+2021_05_21_ABI_S2,104,0.99917263048701,The the problem we run into there again is we just started with an overwhelming amount of data.,So one of them is optical methods development.,new_idea
+2021_05_21_ABI_S2,126,0.9990116195986048,So this can be pretty low though for certain techniques and so the frame rate can still get pretty high.,So you need to look at the image somehow in with multiple views.,new_idea
+2021_05_21_ABI_S2,247,0.0099366307258605,I think either of you might be able to contribute um some ideas here.,"Um, I do think that both Joyoni and Mimi might have some um input on this kind of multimodal approach because you're working generally at larger scales and especially Mimi with um doing kind of like the I think you do microCT with then the spatial trans trans transcriptomics.",reinforcement
+2021_05_21_ABI_S2,236,0.011798083782196,"Great, thank you.","Great, thank you.",reinforcement
+2021_05_21_ABI_S2,255,0.011798083782196,"Great, thank you.","Great, thank you.",reinforcement

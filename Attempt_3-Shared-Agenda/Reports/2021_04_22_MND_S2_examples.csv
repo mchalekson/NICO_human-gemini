@@ -1,0 +1,3 @@
+session_id,sent_id,nli_novelty,text,entailed_by_prior_text,example_type
+2021_04_22_MND_S2,0,1.0,"So basically, we've just our software um modifies the existing implantable.",,new_idea
+2021_04_22_MND_S2,0,1.0,"So basically, we've just our software um modifies the existing implantable.",,reinforcement

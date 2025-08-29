@@ -1,0 +1,7 @@
+session_id,sent_id,nli_novelty,text,entailed_by_prior_text,example_type
+2021_04_22_MND_S1,0,1.0,"I think they are all important, no?",,new_idea
+2021_04_22_MND_S1,294,0.999210651498288,I like Flavio's idea though.,I'm more of a clinical translational person.,new_idea
+2021_04_22_MND_S1,469,0.998982077697292,But there are so many other things.,"Yeah, there are definitely established pipelines for example to annotate certain fatty fatty acid producing genes, right?",new_idea
+2021_04_22_MND_S1,136,0.0084515213966369,"Um, well, I have one project in my lab that we're in collaboration with people that do aptamer based sensors, um using an aptamer based sensor to detect neuropeptide Y.","Um, well, I have one project in my lab that we're in collaboration with people that do aptamer based sensors, um using an aptamer based sensor to detect neuropeptide Y.",reinforcement
+2021_04_22_MND_S1,184,0.0096468329429626,"Okay, great.","Okay, fantastic.",reinforcement
+2021_04_22_MND_S1,110,0.0101340413093566,"There is communication, there is.",There is definitely communication.,reinforcement

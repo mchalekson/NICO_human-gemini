@@ -1,0 +1,7 @@
+session_id,sent_id,nli_novelty,text,entailed_by_prior_text,example_type
+2021_04_23_MND_S5,0,1.0,Hi.,,new_idea
+2021_04_23_MND_S5,99,0.999009505729191,"We don't see the slides yet, but that that just be a lag.",This kind of gets to this idea of models or do you start with the microbes or the bacteria themselves?,new_idea
+2021_04_23_MND_S5,373,0.99896373716183,"I mean that's I guess what I used to do in grad school, right?","And I think, I mean that's what like the basic science mind thinks about.",new_idea
+2021_04_23_MND_S5,72,0.0085957050323486,If you want to just um take a minute we're reflecting on using microbial biomarkers and how they could be applied to disease and so if you just want to write down a few thoughts in the next minute or so and then we'll get started into the discussion.,If you want to just um take a minute we're reflecting on using microbial biomarkers and how they could be applied to disease and so if you just want to write down a few thoughts in the next minute or so and then we'll get started into the discussion.,reinforcement
+2021_04_23_MND_S5,9,0.0181048512458801,I I don't know.,I don't know.,reinforcement
+2021_04_23_MND_S5,264,0.0217561721801757,Yep.,Yeah.,reinforcement

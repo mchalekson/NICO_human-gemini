@@ -1,0 +1,7 @@
+session_id,sent_id,nli_novelty,text,entailed_by_prior_text,example_type
+2021_10_01_MZT_S11,0,1.0,I guess I I was just talking with Kristoff yesterday who was saying that,,new_idea
+2021_10_01_MZT_S11,292,0.9990330559085124,I have a feeling that in the next year we're going to find out a lot of uh data that hasn't been accumulated in the past year and that people are now looking at from actually infection with with COVID.,"Yeah, I I don't know of any programs like that too.",new_idea
+2021_10_01_MZT_S11,277,0.998896331526339,"This is just to remind you, it's probably also in the in the brochure that is on the Google link.","And so what I will quickly do is I will quickly share the prompts that the entire group, both fellows and and facilitators put together for this particular session.",new_idea
+2021_10_01_MZT_S11,126,0.0093147158622741,So we do live cell imaging using fluorescent viruses.,So in my lab we actually use live cell imaging to study these um specifically antivirals and seeing virus replication using fluorescent viruses.,reinforcement
+2021_10_01_MZT_S11,256,0.0145022869110107,Why don't you go ahead?,"Okay, why don't you go ahead?",reinforcement
+2021_10_01_MZT_S11,80,0.0202944874763488,Yes.,Yeah.,reinforcement

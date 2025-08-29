@@ -1,0 +1,7 @@
+session_id,sent_id,nli_novelty,text,entailed_by_prior_text,example_type
+2021_05_21_ABI_S14,0,1.0,Right.,,new_idea
+2021_05_21_ABI_S14,196,0.998982525896281,But usually it takes the conventional method usually takes too long and uh maybe a few hours so that the patient will be under anesthesia for a few hours waiting for the results.,"And uh um I think we perhaps can add a bio marker into this uh tool for diagnostic uh purpose because uh for example the amyloid beta protein it has a very specific peak in Raman region, Raman bands.",new_idea
+2021_05_21_ABI_S14,211,0.9988227250287308,And another layer is the Raman label free approach that we can visualize those lipids and protein information inside the animals and tissues.,"One is the label free including the fluorescence multifoton fluorescence for example, we look at the NADH or flavor molecules in the living organism.",new_idea
+2021_05_21_ABI_S14,283,0.0075377225875854,Let's let's go to Kevin.,"Okay, let's go to Kevin.",reinforcement
+2021_05_21_ABI_S14,185,0.0095621943473815,"Sure, I can do that.","Sure, I can do it.",reinforcement
+2021_05_21_ABI_S14,110,0.0229184031486511,Sorry.,"Right, sorry.",reinforcement

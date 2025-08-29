@@ -1,0 +1,7 @@
+session_id,sent_id,nli_novelty,text,entailed_by_prior_text,example_type
+2021_05_20_ABI_S6,0,1.0,"Hi, I'm Jazz.",,new_idea
+2021_05_20_ABI_S6,1,0.9990638671442866,I'm a new assistant professor at UC San Diego and I'm interested in uh visualizing chemicals.,"Hi, I'm Jazz.",new_idea
+2021_05_20_ABI_S6,328,0.9990521105355584,"And actually this has turned out to meet a lot of headlong resistance across different groups of, oh, well, we just need all of it.","So I mean this information idea, I think, you know, from us, which again is more of like a cell and like I mean one thing we've been really pushing everyone to think about is if you do have a model or you do have something you think is true, you know, can you do a bit more like truly quantitative experimental design for which is like what axes do you need to expand the information that you're collecting more statistics along to test something, right?",new_idea
+2021_05_20_ABI_S6,440,0.0055993199348449,I think uh David brought up a really important point of using registration to bridge multiple types of microscopy or types of scales.,I think uh David brought up a really important point of using registration to bridge multiple types of microscopy or types of scales.,reinforcement
+2021_05_20_ABI_S6,219,0.0062680840492248,That's not easy.,That is a challenge.,reinforcement
+2021_05_20_ABI_S6,387,0.0068860650062561,"Yeah, I think that looks good.","Yeah, I think it looks good.",reinforcement

@@ -1,0 +1,7 @@
+session_id,sent_id,nli_novelty,text,entailed_by_prior_text,example_type
+2021_05_20_ABI_S7,0,1.0,"Dylan, your task is to have the right quarter cell at the right time to capture what it is you want to see.",,new_idea
+2021_05_20_ABI_S7,270,0.9992608434404248,"Um, although I will be an associate as of July 1st, so I'm kind of in the intermediate space of still feeling new.","Back to something that's maybe hopefully happening in a dynamic setting, we can understand like how things are are altering with time.",new_idea
+2021_05_20_ABI_S7,418,0.9988943906500936,So that's um orders of magnitude difference to to what you would have with the commercial floor so this may also be uh helpful in the end.,So for this super resolution information is is really the key to understand those transport pathways.,new_idea
+2021_05_20_ABI_S7,194,0.0056932568550109,So you collect light from everywhere and then usually you do um there's an algorithm that automatically calculates where that light is coming from and it removes that scattering light.,So you collect light from everywhere and then usually you do um there's an algorithm that automatically calculates where that light is coming from and it removes that scattering light.,reinforcement
+2021_05_20_ABI_S7,186,0.0059552788734436,So I can jump in if needed.,So I can jump in if needed.,reinforcement
+2021_05_20_ABI_S7,50,0.0059992671012878,I'm I'm a practical guy.,I'm I'm a practical guy.,reinforcement

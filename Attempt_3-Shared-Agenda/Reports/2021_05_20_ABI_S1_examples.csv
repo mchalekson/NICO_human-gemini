@@ -1,0 +1,7 @@
+session_id,sent_id,nli_novelty,text,entailed_by_prior_text,example_type
+2021_05_20_ABI_S1,0,1.0,"Tracking, you know, you don't want to weigh that down with a a big brick, right?",,new_idea
+2021_05_20_ABI_S1,80,0.9988940666662528,We'll see you at the um in the main meeting room.,Great.,new_idea
+2021_05_20_ABI_S1,240,0.9988046786747872,"And it also may allow if you're able, it may solve some of Catherine's problems, I think, because if you are able to identify interesting interactions efficiently using some kind of uh you know, less perturbative imaging modalities that do not bleed bleach your let's say fluorescent based probes, then you're able to kind of zoom in and track those specific things, you know, with your higher power applications.","very dense network of of objects that we've detected and be able to assign, you know, the trajectories for merges or splits and things like that.",new_idea
+2021_05_20_ABI_S1,223,0.0167441368103027,Just just curious.,"Uh just out of curiosity, how many of us are in the label free camp versus the label camp?",reinforcement
+2021_05_20_ABI_S1,94,0.0174051523208618,We have two people.,Um you you're going to do so um so we have a recording recorder and a reporter.,reinforcement
+2021_05_20_ABI_S1,126,0.0202943682670593,Yes.,Yeah.,reinforcement

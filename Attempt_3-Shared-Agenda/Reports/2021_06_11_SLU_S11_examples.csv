@@ -1,0 +1,7 @@
+session_id,sent_id,nli_novelty,text,entailed_by_prior_text,example_type
+2021_06_11_SLU_S11,0,1.0,All right.,,new_idea
+2021_06_11_SLU_S11,325,0.9989156735828146,And then why don't we also go around the room and and do some introductions.,"And also, um, if you want, you can feel free to write down those questions in the Google Doc and um, I'll go ahead and paste the link.",new_idea
+2021_06_11_SLU_S11,462,0.9988326418679208,I'm especially interested in Titan because its sediments are so uniquely bizarre and studying um how they form in the atmosphere and then what happens to them on Titan's surface might help us understand the kinds of uh weird things chemistry is doing before biology takes over.,"Hi, I'm Shannon McKenzie.",new_idea
+2021_06_11_SLU_S11,322,0.0054269433021545,"And if you want, you can feel free to write down those questions in the Google Doc and um, I'll go ahead and paste the link.","And also, um, if you want, you can feel free to write down those questions in the Google Doc and um, I'll go ahead and paste the link.",reinforcement
+2021_06_11_SLU_S11,324,0.0110387206077575,I'm just going to paste the link here.,"And also, um, if you want, you can feel free to write down those questions in the Google Doc and um, I'll go ahead and paste the link.",reinforcement
+2021_06_11_SLU_S11,330,0.011798083782196,"Great, thank you.","Great, thank you.",reinforcement

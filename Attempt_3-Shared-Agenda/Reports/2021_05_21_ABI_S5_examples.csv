@@ -1,0 +1,7 @@
+session_id,sent_id,nli_novelty,text,entailed_by_prior_text,example_type
+2021_05_21_ABI_S5,0,1.0,I I'm a guest.,,new_idea
+2021_05_21_ABI_S5,84,0.9991281981929204,But still you would have to figure out how to how to reduce the parameter space to predict the microscopic level somehow.,But what I mean is on MRI we get one single number per scan for that voxel cube and then we are we know that on the microscopic level we have so much data.,new_idea
+2021_05_21_ABI_S5,368,0.9989895890466868,We also uh do um some work for the nano drug delivery uh targeting uh endogenous beta cells.,"Hi, um everyone.",new_idea
+2021_05_21_ABI_S5,462,0.0063848495483398,"Yeah, I think that actually item like combination of the tree it could like solve what I I was getting at.","Yeah, I think that actually item like combination of the tree it could like solve what I I was getting at.",reinforcement
+2021_05_21_ABI_S5,206,0.0064829587936401,"I think it was Anna Karin talked about that was that Ellen, someone.","I think it was Anna Karin talked about that was that Ellen, someone.",reinforcement
+2021_05_21_ABI_S5,463,0.0070321559906005,"It's just like I was thinking that how we are able to have access, you know, to that data set to be able to do like item two, but yeah.","It's just like I was thinking that how we are able to have access, you know, to that data set to be able to do like item two, but yeah.",reinforcement

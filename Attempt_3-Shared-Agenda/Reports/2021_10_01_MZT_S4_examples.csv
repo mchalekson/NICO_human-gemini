@@ -1,0 +1,7 @@
+session_id,sent_id,nli_novelty,text,entailed_by_prior_text,example_type
+2021_10_01_MZT_S4,0,1.0,"Hi, uh so I think it's actually pretty interesting that some of the topics that we talk about uh kind of uh agree or like are similar to what Sarah was describing from um the group number one.",,new_idea
+2021_10_01_MZT_S4,390,0.9992678635171616,takes a lot of willpower not to press that button though.,It's not just susceptibility.,new_idea
+2021_10_01_MZT_S4,1,0.9990014202194288,Uh so a lot of the questions that came at the discussion that came uh in when we were talking about the spillover uh is what are the drivers?,"Hi, uh so I think it's actually pretty interesting that some of the topics that we talk about uh kind of uh agree or like are similar to what Sarah was describing from um the group number one.",new_idea
+2021_10_01_MZT_S4,217,0.0133280158042907,I think it's not feasible.,"Yeah, I agree with Rebecca that it's not practical or feasible to say I want to sequence every wildlife out there and catalog everything.",reinforcement
+2021_10_01_MZT_S4,275,0.0188736319541931,"Yeah, different outcomes, yeah.","different outcomes too, right?",reinforcement
+2021_10_01_MZT_S4,326,0.024461030960083,There there's so many factors here that we can't control for.,"But I'm wondering if there's actually a way to develop a lab model system where you had, you know, because a lot of these things like in the environment, this is so complex, there's so many factors that we simply can't control.",reinforcement

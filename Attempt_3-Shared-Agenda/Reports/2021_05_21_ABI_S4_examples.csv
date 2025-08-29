@@ -1,0 +1,7 @@
+session_id,sent_id,nli_novelty,text,entailed_by_prior_text,example_type
+2021_05_21_ABI_S4,0,1.0,I'll just briefly say hi if that's okay just to you know who I am.,,new_idea
+2021_05_21_ABI_S4,561,0.9992410239647144,I also will probably shut my camera off and just participate as a butterfly on the wall.,I'm from the Walder Foundation based in the Chicago region um and I'm the senior program uh director for science innovation.,new_idea
+2021_05_21_ABI_S4,592,0.9991764978622086,I just started uh this March.,Yes.,new_idea
+2021_05_21_ABI_S4,83,0.0058510303497314,We've said that a number of times.,We've said that a number of times.,reinforcement
+2021_05_21_ABI_S4,54,0.0059733390808105,Or it needs to be uh an engineered cell that uh is detectable and then can change its its signal or shape.,Or it needs to be uh an engineered cell that uh is detectable and then can change its its signal or shape.,reinforcement
+2021_05_21_ABI_S4,82,0.0060889720916748,We bring up theranostic a lot.,We bring up theranostic a lot.,reinforcement

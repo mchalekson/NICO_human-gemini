@@ -1,0 +1,7 @@
+session_id,sent_id,nli_novelty,text,entailed_by_prior_text,example_type
+2021_09_30_MZT_S6,0,1.0,And I'm trying to understand I guess susceptibility because that also comes into uh into the equation obviously I'm I'm kind of outing myself as a modeler.,,new_idea
+2021_09_30_MZT_S6,26,0.998643770813942,"Um, most people will get a chance to do this in the coming couple days.",Cool.,new_idea
+2021_09_30_MZT_S6,35,0.9978613688144832,I I've been there as well.,I'm jealous of that.,new_idea
+2021_09_30_MZT_S6,7,0.0064926147460937,I do computer so I can do it.,I do computer so I can do it.,reinforcement
+2021_09_30_MZT_S6,29,0.0528265237808227,Volunteers?,Does anyone want to just volunteer out of the gate to do this and basically you'll make some notes using that slide template that Andrew showed and then you'll you'll share when we get into larger group you'll share those notes within a couple minutes.,reinforcement
+2021_09_30_MZT_S6,9,0.0860759615898132,Sure.,Okay.,reinforcement

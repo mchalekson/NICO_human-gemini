@@ -1,0 +1,7 @@
+session_id,sent_id,nli_novelty,text,entailed_by_prior_text,example_type
+2021_04_23_MND_S3,0,1.0,"Oh, okay.",,new_idea
+2021_04_23_MND_S3,306,0.9991683164262212,We can see it in real time though on if we all have the Google Drive open in another browser tab so so we can watch it.,"Uh, yeah, yes.",new_idea
+2021_04_23_MND_S3,135,0.9991181907244028,"And there's also some really interesting um uh reverse projections from the NTS that go to the efferent arm of the Vegas too, which is another conversation for maybe later or or what have you.",There's there's a cool there's a great amount of projection actually I I'm fairly familiar with it because it's a research project I'm involved with.,new_idea
+2021_04_23_MND_S3,146,0.0064750909805297,That's a great question.,"Uh, so that's a good question.",reinforcement
+2021_04_23_MND_S3,21,0.0271682143211364,Yeah.,Yeah.,reinforcement
+2021_04_23_MND_S3,75,0.0271682143211364,Yeah.,Yeah.,reinforcement

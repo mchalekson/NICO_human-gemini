@@ -1,0 +1,7 @@
+session_id,sent_id,nli_novelty,text,entailed_by_prior_text,example_type
+2021_06_11_SLU_S13,0,1.0,"And I guess kind of coming at it from the opposite direction from Chris's point, thinking about the origins aspect of it, the other paper that came to mind during this discussion that I just pasted here and I'll also put on the slack is a paper from Ron Breaker's lab where they were looking for uh ribozyme uh hammerhead ribozyme in different domains of life and they found um a hammerhead ribozyme from uh some halophilic archaea that um it actually only worked um in high salt.",,new_idea
+2021_06_11_SLU_S13,364,0.9993612056714484,"Maggie, I'll also tell you that your audio is much better with your video off.","Um, so I see one being relevant to origins of life and building more complex molecules and the range of possible reactions that are polymerizing and otherwise.",new_idea
+2021_06_11_SLU_S13,45,0.999092536745593,And it's also giving our instruments total trying to find anything.,"And I guess for me as a a chemist, particularly an organic chemist, anytime that the environment becomes to the point where you could not get stable organic chemistry at all, that's like, okay, uh I don't see how we could have carbon based life in that environment necessarily.",new_idea
+2021_06_11_SLU_S13,2,0.0188527107238769,Go ahead.,Go ahead.,reinforcement
+2021_06_11_SLU_S13,420,0.02351975440979,Yes.,Yes.,reinforcement
+2021_06_11_SLU_S13,345,0.0267213582992553,Great.,Great.,reinforcement

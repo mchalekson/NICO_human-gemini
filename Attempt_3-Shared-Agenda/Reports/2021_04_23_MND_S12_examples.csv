@@ -1,0 +1,7 @@
+session_id,sent_id,nli_novelty,text,entailed_by_prior_text,example_type
+2021_04_23_MND_S12,0,1.0,3.3 is slide 55.,,new_idea
+2021_04_23_MND_S12,9,0.9991482726763934,And then I'm also interested in things like iodine transformation in soil systems.,I'm an associate professor of biology at Howard University in Washington DC.,new_idea
+2021_04_23_MND_S12,481,0.9991207620478236,Would you not also want to at the same time sample the lumen of the intestine to see what's being produced compared to what's in the circulation and then what's happening in the brain.,"Yeah, I like that idea a lot. the thing that always troubles me about metabolites and things in the systemic circulation.",new_idea
+2021_04_23_MND_S12,432,0.0057008266448974,You have a lot of really great points.,You have a lot of really great points.,reinforcement
+2021_04_23_MND_S12,115,0.0057546496391296,You kind of get the idea.,You kind of get the idea.,reinforcement
+2021_04_23_MND_S12,452,0.0084348917007446,"that's but even that is a little tough for me because at least from what I've read the estimates for, you know, the extra energy we get from harvesting um, you know, undigestible fibers for example is about 10%.","that's but even that is a little tough for me because at least from what I've read the estimates for, you know, the extra energy we get from harvesting um, you know, undigestible fibers for example is about 10%.",reinforcement

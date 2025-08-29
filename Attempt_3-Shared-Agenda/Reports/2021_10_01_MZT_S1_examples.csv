@@ -1,0 +1,7 @@
+session_id,sent_id,nli_novelty,text,entailed_by_prior_text,example_type
+2021_10_01_MZT_S1,0,1.0,"All right, thank you all.",,new_idea
+2021_10_01_MZT_S1,116,0.999233073904179,"I also want to mention that I am not feeling well at all, so I don't know how long I'll be able to stay on the session.",My name is Heather Walden.,new_idea
+2021_10_01_MZT_S1,396,0.998757938737981,Then other markers will come in at a later stage.,"Then once you do that, then you have to proceed to the next stage, you get into the car, start it and you know.",new_idea
+2021_10_01_MZT_S1,43,0.0082629323005676,I know.,I know.,reinforcement
+2021_10_01_MZT_S1,46,0.0148704051971435,No.,No.,reinforcement
+2021_10_01_MZT_S1,47,0.0148704051971435,No.,No.,reinforcement

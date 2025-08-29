@@ -1,0 +1,7 @@
+session_id,sent_id,nli_novelty,text,entailed_by_prior_text,example_type
+2021_04_22_MND_S7,0,1.0,"And as you mentioned, like what is the definition of it, right?",,new_idea
+2021_04_22_MND_S7,322,0.9990378826623784,"But also then if inflammation is playing such a big role, then maybe the microbiome we can bypass it if we can, we don't need to necessarily modulate the microbiome if we can modulate inflammation, which there's a lot of really good pharmaceuticals that can do.","Um, but there's you know, these cell dependent effects where peripheral immune cells are getting are being trained in the gut or getting signals directly from the gut and then crossing to the brain.",new_idea
+2021_04_22_MND_S7,197,0.9988611513981596,And so you might even have to hit the host and the the microbiome simultaneously.,Um it's a like a super interesting challenge.,new_idea
+2021_04_22_MND_S7,140,0.0055539608001708,"Actually, it's my wife's birthday today and so I don't think I get to hang out as long in the afternoon.","Actually, it's my wife's birthday today and so I don't think I get to hang out as long in the afternoon.",reinforcement
+2021_04_22_MND_S7,48,0.0101534724235534,"Yeah, that's true.","Yeah, that's true.",reinforcement
+2021_04_22_MND_S7,324,0.0107374787330627,It doesn't taste very good.,"Yeah, butyrate just isn't very palatable.",reinforcement

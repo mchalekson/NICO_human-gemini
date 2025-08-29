@@ -1,0 +1,7 @@
+session_id,sent_id,nli_novelty,text,entailed_by_prior_text,example_type
+2021_04_23_MND_S2,0,1.0,But then you have a set of outputs that are the ones that you're actually looking at as your biomarkers that will potentially impact something else in the organism.,,new_idea
+2021_04_23_MND_S2,486,0.9991338941617868,"My other comment is is I hear a lot about metabolites, but what about other molecules?",Um I'm at the University of Illinois in Chicago.,new_idea
+2021_04_23_MND_S2,95,0.9990971935912968,"If others want to jump on and add a few more words, that's fine too.",May.,new_idea
+2021_04_23_MND_S2,265,0.0056962370872497,It seems like somehow our food changed our brain.,It seems like somehow our food changed our brain.,reinforcement
+2021_04_23_MND_S2,57,0.0061680078506469,I think this actually looks good.,I think this actually looks good.,reinforcement
+2021_04_23_MND_S2,266,0.0068925023078918,But then other times maybe the brain is changing with changing the response of the microbiome.,But then other times maybe the brain is changing with changing the response of the microbiome.,reinforcement

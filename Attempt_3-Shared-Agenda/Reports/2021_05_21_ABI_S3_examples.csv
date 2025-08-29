@@ -1,0 +1,7 @@
+session_id,sent_id,nli_novelty,text,entailed_by_prior_text,example_type
+2021_05_21_ABI_S3,0,1.0,"41, yeah.",,new_idea
+2021_05_21_ABI_S3,105,0.999174454016611,I'm also an assistant professor at Caltech.,"Exactly, right?",new_idea
+2021_05_21_ABI_S3,17,0.9991217657807284,And other things like NADH and FAD.,"Yeah, it would be cool to talk to you about that.",new_idea
+2021_05_21_ABI_S3,32,0.0170242190361022,Can you get dynamics?,And can you get so you can get uh dynamics?,reinforcement
+2021_05_21_ABI_S3,512,0.0202943682670593,Yes.,Yeah.,reinforcement
+2021_05_21_ABI_S3,66,0.0215508937835693,I apologize.,Sorry that was maybe really long.,reinforcement

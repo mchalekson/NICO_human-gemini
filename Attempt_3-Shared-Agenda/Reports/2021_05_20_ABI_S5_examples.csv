@@ -1,0 +1,7 @@
+session_id,sent_id,nli_novelty,text,entailed_by_prior_text,example_type
+2021_05_20_ABI_S5,0,1.0,Exactly.,,new_idea
+2021_05_20_ABI_S5,332,0.9990604287595488,Then from there I moved to biophotonics and imaging during my postdoctoral work.,"Yes, hi.",new_idea
+2021_05_20_ABI_S5,167,0.9990158654982224,"And of course, we're also interested in the other wearable stretchable imaging systems.",So one side is to apply the formable structure of sensors on body for the long term and continuous monitoring.,new_idea
+2021_05_20_ABI_S5,154,0.0054698586463928,So the nano material is the most boring possible nano material.,So the nano material is the most boring possible nano material.,reinforcement
+2021_05_20_ABI_S5,49,0.0055100917816162,But I think the other ideas are the biology you know the biological questions which I don't have much biology background so I can't say too well but yes.,But I think the other ideas are the biology you know the biological questions which I don't have much biology background so I can't say too well but yes.,reinforcement
+2021_05_20_ABI_S5,120,0.0058591961860656,"That is not portable, but we have a portable neutron generator here again of those kinds of energies.","That is not portable, but we have a portable neutron generator here again of those kinds of energies.",reinforcement
