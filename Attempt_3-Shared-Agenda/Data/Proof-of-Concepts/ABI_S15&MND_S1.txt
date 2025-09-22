@@ -1,0 +1,35 @@
+
+
+===== CONVERGING SESSION =====
+=== PROOF-OF-CONCEPT EXCERPT ===
+Session: 2021_05_21_ABI_S15
+Seed idea @ 0 (nov=1.000)
+Text   : Failures?
+
+--- Echoes ---
+- 26 | Andrew Feig (nov=0.09): So you're 3.3.
+- 41 | Aniruddha Ray (nov=0.11): Hey Danny.
+- 54 | Aniruddha Ray (nov=0.03): Uh sure, I can do it.
+- 70 | Aniruddha Ray (nov=0.10): Yeah.
+- 71 | Aniruddha Ray (nov=0.03): Yeah.
+- 72 | Aniruddha Ray (nov=0.03): Yeah.
+- 83 | Barbara Smith (nov=0.07): So you can use a molecule that's not very good um at a at being fluorescent, you can still use it for fluorescence but it's not so good um but you can also generate a photoacoustic effect from it.
+- 85 | Barbara Smith (nov=0.15): In in full person.
+- 101 | Barbara Smith (nov=0.12): Yeah.
+- 108 | Barbara Smith (nov=0.25): Um
+- 115 | Barbara Smith (nov=0.07): So uh a microscope on the outside.
+
+
+===== FRAGMENTED SESSION =====
+=== PROOF-OF-CONCEPT EXCERPT ===
+Session: 2021_04_23_MND_S1
+Seed idea @ 0 (nov=1.000)
+Text   : How do you then, and this is way out of my wheelhouse, but how do you understand how that individual's lifestyle, their environment outside of their body, just where they live, what they do, their interactions with their everyday life.
+
+--- Echoes ---
+- 7 | Camille Nebeker (nov=0.05): This is super interesting for me.
+- 27 | Emily Balskus (nov=0.15): Okay.
+- 39 | Emily Balskus (nov=0.08): Yeah.
+- 87 | Faranak Fattahi (nov=0.01): It's circular, and then it affects motility again.
+- 107 | Faranak Fattahi (nov=0.06): So, you know, motility is blocked.
+- 116 | Faranak Fattahi (nov=0.10): So

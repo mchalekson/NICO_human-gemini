@@ -1,0 +1,231 @@
+=== SESSION: 2021_05_21_ABI_S15 ===
+[curve] /Users/maxchalekson/Projects/NICO-Research/NICO_human-gemini/Attempt_3-Shared-Agenda/Reports/2021_05_21_ABI_S15_novelty_full.png
+[tail_mean_novelty_last40] 0.859
+
+=== PROOF-OF-CONCEPT EXCERPT ===
+Seed @ 0 (nov=1.000)
+Speaker: Alexandra Dickinson
+Text   : Failures?
+
+→    0 | Alexandra Dickinson | nov=1.000 | Failures?
+     1 | Alexandra Dickinson | nov=0.997 | Hi.
+     2 | Alexandra Dickinson | nov=0.764 | I have a question about it kind of ties into something we were talking about in our last breakout session, so not most of you weren't there, but um, we were talking about how fluorescence is very, very specific to certain molecules, a single molecule and how some of the other really cool imaging techniques that have are have a lot of use are not as specific.
+
+--- Echoes (≤ 0.25 novelty in next 120 sents) ---
+    71 | Aniruddha Ray | nov=0.027 | Yeah.
+    72 | Aniruddha Ray | nov=0.027 | Yeah.
+    54 | Aniruddha Ray | nov=0.029 | Uh sure, I can do it.
+    83 | Barbara Smith | nov=0.072 | So you can use a molecule that's not very good um at a at being fluorescent, you can still use it for fluorescence but it's not so good um but you can also generate a photoacoustic effect from it.
+   115 | Barbara Smith | nov=0.074 | So uh a microscope on the outside.
+    26 | Andrew Feig | nov=0.086 | So you're 3.3.
+    70 | Aniruddha Ray | nov=0.099 | Yeah.
+    41 | Aniruddha Ray | nov=0.114 | Hey Danny.
+   101 | Barbara Smith | nov=0.125 | Yeah.
+    85 | Barbara Smith | nov=0.151 | In in full person.
+
+=== PROOF-OF-CONCEPT EXCERPT ===
+Seed @ 66 (nov=0.999)
+Speaker: Aniruddha Ray
+Text   : I also work on lensless holographic microscopy, um, but that is more for Xvivo samples or in
+vitro samples.
+
+    64 | Aniruddha Ray | nov=0.969 | So I work on nanotechnology aided optical imaging, which involves fluorescence as well as photoacoustics.
+    65 | Aniruddha Ray | nov=0.986 | And that's what is my interest in deep tissue imaging.
+→   66 | Aniruddha Ray | nov=0.999 | I also work on lensless holographic microscopy, um, but that is more for Xvivo samples or in vitro samples.
+    67 | Aniruddha Ray | nov=0.985 | So we basically develop different types of nanoparticles, um, metallic quantum dots, um, um, polymeric nanoparticles for biomedical imaging, sensing, as well as for therapy, uh, chemotherapy, photodynamic therapy.
+    68 | Aniruddha Ray | nov=0.996 | And we monitor them using fluorescence and photoacoustics, as well as some scattering and other things.
+
+--- Echoes (≤ 0.25 novelty in next 120 sents) ---
+    71 | Aniruddha Ray | nov=0.027 | Yeah.
+    72 | Aniruddha Ray | nov=0.027 | Yeah.
+   177 | Brad Smith | nov=0.031 | Okay.
+   183 | Brad Smith | nov=0.033 | Right.
+   184 | Brad Smith | nov=0.033 | Right.
+    83 | Barbara Smith | nov=0.072 | So you can use a molecule that's not very good um at a at being fluorescent, you can still use it for fluorescence but it's not so good um but you can also generate a photoacoustic effect from it.
+   115 | Barbara Smith | nov=0.074 | So uh a microscope on the outside.
+    70 | Aniruddha Ray | nov=0.099 | Yeah.
+   101 | Barbara Smith | nov=0.125 | Yeah.
+   176 | Brad Smith | nov=0.126 | Okay.
+
+=== PROOF-OF-CONCEPT EXCERPT ===
+Seed @ 138 (nov=0.999)
+Speaker: Brad Smith
+Text   : Adding then deep tissue on top of that seems a really difficult problem.
+
+   136 | Barbara Smith | nov=0.972 | Hope that made sense.
+   137 | Barbara Smith | nov=0.996 | You're not going to get rich that way, Brad.
+→  138 | Brad Smith | nov=0.999 | Adding then deep tissue on top of that seems a really difficult problem.
+   139 | Brad Smith | nov=0.167 | Um.
+   140 | Brad Smith | nov=0.992 | Also bio responsive.
+
+--- Echoes (≤ 0.25 novelty in next 120 sents) ---
+   256 | Brad Smith | nov=0.027 | Yeah.
+   257 | Brad Smith | nov=0.027 | Yeah.
+   258 | Brad Smith | nov=0.027 | Yeah.
+   177 | Brad Smith | nov=0.031 | Okay.
+   183 | Brad Smith | nov=0.033 | Right.
+   184 | Brad Smith | nov=0.033 | Right.
+   255 | Brad Smith | nov=0.047 | Yeah.
+   219 | Brad Smith | nov=0.057 | I've got a dice here which I also do as well.
+   254 | Brad Smith | nov=0.096 | Yeah, yeah, please.
+   176 | Brad Smith | nov=0.126 | Okay.
+
+=== PROOF-OF-CONCEPT EXCERPT ===
+Seed @ 382 (nov=0.999)
+Speaker: Sixian You
+Text   : And then the second aspect is how to use optics and algorithms to push it deeper.
+
+   380 | Sixian You | nov=0.988 | Uh another way to think about this um I have been really interested in this is how can we use the contrast from optical imaging.
+   381 | Sixian You | nov=0.829 | We have fluorescence, we have phase contrast from optics.
+→  382 | Sixian You | nov=0.999 | And then the second aspect is how to use optics and algorithms to push it deeper.
+   383 | Sixian You | nov=0.961 | So instead of avoid uh multiple scattering photons just getting ballistic photons, how can we use multiple scattering?
+   384 | Sixian You | nov=0.940 | How can we use deterministic models of multiple scattering to get deeper into the tissue.
+
+--- Echoes (≤ 0.25 novelty in next 120 sents) ---
+   422 | Sixian You | nov=0.027 | Yeah.
+   423 | Sixian You | nov=0.027 | Yeah.
+   424 | Sixian You | nov=0.027 | Yeah.
+   395 | Sixian You | nov=0.030 | Uh, that's one aspect.
+   450 | Yevgenia Kozorovitskiy | nov=0.062 | And that's where I think there's a lot of
+   421 | Sixian You | nov=0.064 | Yeah.
+   451 | Yevgenia Kozorovitskiy | nov=0.068 | But,
+   434 | Sixian You | nov=0.068 | Uh, it sounds really fascinating.
+   479 | Yevgenia Kozorovitskiy | nov=0.089 | Yeah.
+   464 | Yevgenia Kozorovitskiy | nov=0.095 | That has stuff in it.
+
+=== PROOF-OF-CONCEPT EXCERPT ===
+Seed @ 456 (nov=0.999)
+Speaker: Yevgenia Kozorovitskiy
+Text   : I would also Barbara love to talk to you more about that.
+
+   454 | Yevgenia Kozorovitskiy | nov=0.974 | None of them are perfect.
+   455 | Yevgenia Kozorovitskiy | nov=0.989 | Many of them are inverted, uh, meaning that, uh,
+→  456 | Yevgenia Kozorovitskiy | nov=0.999 | I would also Barbara love to talk to you more about that.
+   457 | Yevgenia Kozorovitskiy | nov=0.927 | We do some micro LED based wireless uh tech for sensing and control.
+   458 | Yevgenia Kozorovitskiy | nov=0.884 | Uh, so I would I would love to learn more about your wave guide.
+
+--- Echoes (≤ 0.25 novelty in next 120 sents) ---
+   479 | Yevgenia Kozorovitskiy | nov=0.089 | Yeah.
+   464 | Yevgenia Kozorovitskiy | nov=0.095 | That has stuff in it.
+   470 | Yevgenia Kozorovitskiy | nov=0.186 | Um,
+
+
+
+=== SESSION: 2021_04_23_MND_S1 ===
+[curve] /Users/maxchalekson/Projects/NICO-Research/NICO_human-gemini/Attempt_3-Shared-Agenda/Reports/2021_04_23_MND_S1_novelty_full.png
+[tail_mean_novelty_last40] 0.592
+
+=== PROOF-OF-CONCEPT EXCERPT ===
+Seed @ 0 (nov=1.000)
+Speaker: Camille Nebeker
+Text   : How do you then, and this is way out of my wheelhouse, but how do you understand how that
+individual's lifestyle, their environment outside of their body, just where they live, what they
+do, their interactions with their everyday life.
+
+→    0 | Camille Nebeker | nov=1.000 | How do you then, and this is way out of my wheelhouse, but how do you understand how that individual's lifestyle, their environment outside of their body, just where they live, what they do, their interactions with their everyday life.
+     1 | Camille Nebeker | nov=0.858 | How do you factor those into this model?
+     2 | Camille Nebeker | nov=0.993 | Is there any way to not dismiss a mouse model, but I'm really curious if we could use artificial intelligence and existing data samples that might be in an, you know, in the health system.
+
+--- Echoes (≤ 0.25 novelty in next 120 sents) ---
+    87 | Faranak Fattahi | nov=0.006 | It's circular, and then it affects motility again.
+     7 | Camille Nebeker | nov=0.055 | This is super interesting for me.
+   107 | Faranak Fattahi | nov=0.058 | So, you know, motility is blocked.
+    39 | Emily Balskus | nov=0.080 | Yeah.
+   116 | Faranak Fattahi | nov=0.102 | So
+    27 | Emily Balskus | nov=0.147 | Okay.
+
+=== PROOF-OF-CONCEPT EXCERPT ===
+Seed @ 55 (nov=0.999)
+Speaker: Faranak Fattahi
+Text   : Um I guess another important point was the medications and how they um get affected by the
+microbiome and then vice versa, how like management of these patients affects the motility and
+the composition of the microbes.
+
+    53 | Faranak Fattahi | nov=0.998 | And many of them could be influenced by microbial products.
+    54 | Faranak Fattahi | nov=0.999 | And then we want to know if um we can build models to then get at the mechanistic steps where basically these um these products then you know, induce all these changes in the body that then translate into effects on the disease.
+→   55 | Faranak Fattahi | nov=0.999 | Um I guess another important point was the medications and how they um get affected by the microbiome and then vice versa, how like management of these patients affects the motility and the composition of the microbes.
+    56 | Faranak Fattahi | nov=0.961 | So yeah, I guess Jay's back so.
+    57 | Faranak Fattahi | nov=0.747 | And then with respect to what's there in the neuronal cultures, there are basically a number of different neurons intermixed.
+
+--- Echoes (≤ 0.25 novelty in next 120 sents) ---
+    87 | Faranak Fattahi | nov=0.006 | It's circular, and then it affects motility again.
+   138 | George Weinstock | nov=0.012 | So you have this wide range of things.
+   162 | Jaeyun Sung | nov=0.039 | That's been shown.
+   107 | Faranak Fattahi | nov=0.058 | So, you know, motility is blocked.
+   145 | George Weinstock | nov=0.100 | So it's definitely getting out.
+   116 | Faranak Fattahi | nov=0.102 | So
+   137 | George Weinstock | nov=0.197 | And there's a whole gamish of things that are being produced in those.
+   168 | Jaeyun Sung | nov=0.216 | But what do we know?
+
+=== PROOF-OF-CONCEPT EXCERPT ===
+Seed @ 123 (nov=0.999)
+Speaker: Faranak Fattahi
+Text   : But then when we want to validate some of the key functions or pathways, that's where we really
+go with the more complex models because they are not as scalable.
+
+   121 | Faranak Fattahi | nov=0.918 | So we make neurons, then we make intestinal epithelial cells or smooth muscle, and then we assemble them into co-cultures.
+   122 | Faranak Fattahi | nov=0.559 | So a lot of what we do initiates with just the one cell type, either just the neurons or just the epithelia.
+→  123 | Faranak Fattahi | nov=0.999 | But then when we want to validate some of the key functions or pathways, that's where we really go with the more complex models because they are not as scalable.
+   124 | Faranak Fattahi | nov=0.258 | Yeah.
+   125 | Faranak Fattahi | nov=0.998 | So the other issue with ICing them from primary tissue is their, the fully differentiated neurons don't survive the processing.
+
+--- Echoes (≤ 0.25 novelty in next 120 sents) ---
+   192 | Jaeyun Sung | nov=0.006 | I guess we have many more questions than answers.
+   193 | Jaeyun Sung | nov=0.006 | That's because that's how science works.
+   138 | George Weinstock | nov=0.012 | So you have this wide range of things.
+   194 | Jaeyun Sung | nov=0.013 | Very interesting.
+   200 | Jaeyun Sung | nov=0.029 | Okay.
+   162 | Jaeyun Sung | nov=0.039 | That's been shown.
+   205 | Jaeyun Sung | nov=0.046 | Sure.
+   240 | Kaixiong Ye | nov=0.071 | I have two comments.
+   235 | Kaixiong Ye | nov=0.081 | An example?
+   145 | George Weinstock | nov=0.100 | So it's definitely getting out.
+
+=== PROOF-OF-CONCEPT EXCERPT ===
+Seed @ 204 (nov=0.999)
+Speaker: Jaeyun Sung
+Text   : And after that, I'll probably have to summarize all this, so I'll probably need some quiet time.
+
+   202 | Jaeyun Sung | nov=0.897 | So I literally you give me anything, I can tie it back to the microbiome.
+   203 | Jaeyun Sung | nov=0.861 | Sure, Tom.
+→  204 | Jaeyun Sung | nov=0.999 | And after that, I'll probably have to summarize all this, so I'll probably need some quiet time.
+   205 | Jaeyun Sung | nov=0.046 | Sure.
+   206 | Jaeyun Sung | nov=0.990 | This is very stressful.
+
+--- Echoes (≤ 0.25 novelty in next 120 sents) ---
+   205 | Jaeyun Sung | nov=0.046 | Sure.
+   317 | Robin Michelle Voigt | nov=0.056 | Yeah.
+   261 | Kaixiong Ye | nov=0.060 | I want to prioritize some of them.
+   240 | Kaixiong Ye | nov=0.071 | I have two comments.
+   310 | Robin Michelle Voigt | nov=0.074 | So that's one way that it can be affecting neurodegeneration or other things in the brain.
+   235 | Kaixiong Ye | nov=0.081 | An example?
+   222 | Jaeyun Sung | nov=0.173 | Yeah.
+   239 | Kaixiong Ye | nov=0.185 | I
+   283 | Robin Michelle Voigt | nov=0.206 | I don't.
+
+=== PROOF-OF-CONCEPT EXCERPT ===
+Seed @ 272 (nov=0.999)
+Speaker: Robin Michelle Voigt
+Text   : Also on that same line, short chain fatty acids stimulate the production of GLP1, which has been
+shown to be protective, I think for Parkinson's disease.
+
+   270 | Robin Michelle | nov=0.679 | I was wondering if you could elaborate a little bit more on these enteric organoids.
+   271 | Robin Michelle | nov=0.989 | We do just like the colonic and small intestine and also some pancreatic, but I didn't even know that you could do it with other, I guess, parts of the intestine.
+→  272 | Robin Michelle Voigt | nov=0.999 | Also on that same line, short chain fatty acids stimulate the production of GLP1, which has been shown to be protective, I think for Parkinson's disease.
+   273 | Robin Michelle Voigt | nov=0.367 | I don't know about other diseases as well.
+   274 | Robin Michelle Voigt | nov=0.891 | So yeah, this endocrine connection is really interesting.
+
+--- Echoes (≤ 0.25 novelty in next 120 sents) ---
+   343 | Thomas Mansell | nov=0.006 | I don't know about all of those.
+   356 | Thomas Mansell | nov=0.006 | Sensing and regulation is a big part of the plan here.
+   344 | Thomas Mansell | nov=0.006 | But you know, if it's short chain fatty acids, I think that that's a great idea.
+   326 | Tanya Nguyen | nov=0.006 | I think that would be a really cool idea, no idea how to get there, but happy to talk about it further and develop that.
+   357 | Thomas Mansell | nov=0.006 | But for now, we're in the very preliminary stages of that.
+   347 | Thomas Mansell | nov=0.006 | Right now, I think, in general, the approaches, well, let's just make more, make more given prebiotics, given probiotics that we think are going to make butyrate.
+   386 | Thomas Mansell | nov=0.006 | I'm just babbling, yeah.
+   375 | Thomas Mansell | nov=0.006 | Yeah, no, that's a good idea.
+   342 | Thomas Mansell | nov=0.006 | I think you could do it with one molecule.
+   384 | Thomas Mansell | nov=0.007 | You can blame it on behavior a little bit, but you can also, there's probably genetic factors too, right?
+
+
+

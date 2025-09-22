@@ -1,0 +1,6 @@
+seed_sent_id,seed_novelty,seed_text,echo_sent_ids,echo_novelties
+0,1.0,Failures?,71;72;54;83;115;26;70;41;101;85,0.027;0.027;0.029;0.072;0.074;0.086;0.099;0.114;0.125;0.151
+66,0.9991259870002978,"I also work on lensless holographic microscopy, um, but that is more for Xvivo samples or in vitro samples.",71;72;177;183;184;83;115;70;101;176,0.027;0.027;0.031;0.033;0.033;0.072;0.074;0.099;0.125;0.126
+138,0.9987569941440596,Adding then deep tissue on top of that seems a really difficult problem.,256;257;258;177;183;184;255;219;254;176,0.027;0.027;0.027;0.031;0.033;0.033;0.047;0.057;0.096;0.126
+382,0.9987757592462004,And then the second aspect is how to use optics and algorithms to push it deeper.,422;423;424;395;450;421;451;434;479;464,0.027;0.027;0.027;0.030;0.062;0.064;0.068;0.068;0.089;0.095
+456,0.9989224704913796,I would also Barbara love to talk to you more about that.,479;464;470,0.089;0.095;0.186
