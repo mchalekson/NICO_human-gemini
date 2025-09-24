@@ -20,3 +20,9 @@ teams_unfunded,Number of unfunded teams this person belonged to during the confe
 team_ids,Comma-separated list of team IDs the person belonged to in this conference-year (string).
 teams_total,Total number of teams the person belonged to in this conference-year (integer).
 p_overlaps,Average number of overlapping speech events made by the person per session (float).
+role_facilitator,"Binary flag (1 if facilitator, else 0)."
+role_nonfacilitator,"Binary flag (1 if non-facilitator, else 0)."
+role_on_team,"Binary flag (1 if the person is on at least one team in this conference-year, else 0)."
+role_in_funded,"Binary flag (1 if the person is in at least one funded team in this conference-year, else 0)."
+role_member,"Binary flag (1 if the person’s primary role is member, else 0)."
+role_participant,"Binary flag (1 if the person’s primary role is participant, else 0)."
