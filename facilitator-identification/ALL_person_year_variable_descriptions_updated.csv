@@ -1,0 +1,55 @@
+variable,type,aggregation,description
+person_name,string,,Full name of the individual.
+conference,string,,"Conference identifier (e.g., MZT, SLU)."
+year,int,,Year of the conference.
+facilitator,int,count,Number of sessions the person was facilitator in this conference-year.
+member,int,count,Number of sessions the person was a team member.
+participant,int,count,Number of sessions the person spoke but was not facilitator or member.
+unknown,int,count,Number of sessions where the person’s role was not identified.
+sessions_total,int,count,"Total sessions in this conference-year (sum of facilitator, member, participant, unknown)."
+role_primary,string,,Primary role for this conference-year (priority: facilitator > member > participant > unknown).
+p_speaking_duration_sec,numeric,mean across sessions,Speaking time (seconds) per session; averaged across sessions.
+p_turns,numeric,mean across sessions,Number of speaking turns per session; averaged across sessions.
+p_smile_self_total,numeric,mean across sessions,Smiles by the speaker while talking; averaged across sessions.
+p_smile_other_total,numeric,mean across sessions,Smiles from others while this person spoke; averaged.
+p_nods_received,numeric,mean across sessions,Nods received from others per session; averaged.
+p_interruptions_made,numeric,mean across sessions,Interruptions made per session; averaged.
+p_screenshare_segments,numeric,mean across sessions,Number of times the person shared screen; averaged.
+p_overlaps,numeric,mean across sessions,Overlapping speech events per session; averaged.
+ann_knowledge_sharing_count,numeric,mean of per-session counts,Number of utterances tagged with 'Knowledge Sharing' per session; averaged.
+ann_knowledge_sharing_sum_score,numeric,mean of per-session sums,Sum of annotation scores for 'Knowledge Sharing' per session; averaged.
+ann_knowledge_sharing_mean_score,numeric,mean of per-session means,Mean annotation score for 'Knowledge Sharing' per session; averaged.
+ann_evaluation_practices_count,numeric,mean of per-session counts,Number of utterances tagged with 'Evaluation Practices' per session; averaged.
+ann_evaluation_practices_sum_score,numeric,mean of per-session sums,Sum of annotation scores for 'Evaluation Practices' per session; averaged.
+ann_evaluation_practices_mean_score,numeric,mean of per-session means,Mean annotation score for 'Evaluation Practices' per session; averaged.
+ann_idea_management_count,numeric,mean of per-session counts,Number of utterances tagged with 'Idea Management' per session; averaged.
+ann_idea_management_sum_score,numeric,mean of per-session sums,Sum of annotation scores for 'Idea Management' per session; averaged.
+ann_idea_management_mean_score,numeric,mean of per-session means,Mean annotation score for 'Idea Management' per session; averaged.
+ann_coordination_and_decision_practices_count,numeric,mean of per-session counts,Number of utterances tagged with 'Coordination And Decision Practices' per session; averaged.
+ann_coordination_and_decision_practices_sum_score,numeric,mean of per-session sums,Sum of annotation scores for 'Coordination And Decision Practices' per session; averaged.
+ann_coordination_and_decision_practices_mean_score,numeric,mean of per-session means,Mean annotation score for 'Coordination And Decision Practices' per session; averaged.
+ann_information_seeking_count,numeric,mean of per-session counts,Number of utterances tagged with 'Information Seeking' per session; averaged.
+ann_information_seeking_sum_score,numeric,mean of per-session sums,Sum of annotation scores for 'Information Seeking' per session; averaged.
+ann_information_seeking_mean_score,numeric,mean of per-session means,Mean annotation score for 'Information Seeking' per session; averaged.
+ann_relational_climate_count,numeric,mean of per-session counts,Number of utterances tagged with 'Relational Climate' per session; averaged.
+ann_relational_climate_sum_score,numeric,mean of per-session sums,Sum of annotation scores for 'Relational Climate' per session; averaged.
+ann_relational_climate_mean_score,numeric,mean of per-session means,Mean annotation score for 'Relational Climate' per session; averaged.
+ann_integration_practices_count,numeric,mean of per-session counts,Number of utterances tagged with 'Integration Practices' per session; averaged.
+ann_integration_practices_sum_score,numeric,mean of per-session sums,Sum of annotation scores for 'Integration Practices' per session; averaged.
+ann_integration_practices_mean_score,numeric,mean of per-session means,Mean annotation score for 'Integration Practices' per session; averaged.
+ann_participation_dynamics_count,numeric,mean of per-session counts,Number of utterances tagged with 'Participation Dynamics' per session; averaged.
+ann_participation_dynamics_sum_score,numeric,mean of per-session sums,Sum of annotation scores for 'Participation Dynamics' per session; averaged.
+ann_participation_dynamics_mean_score,numeric,mean of per-session means,Mean annotation score for 'Participation Dynamics' per session; averaged.
+ann_none_count,numeric,mean of per-session counts,Number of utterances tagged with 'None' per session; averaged.
+ann_none_sum_score,numeric,mean of per-session sums,Sum of annotation scores for 'None' per session; averaged.
+ann_none_mean_score,numeric,mean of per-session means,Mean annotation score for 'None' per session; averaged.
+teams_funded,int,count,Number of funded teams associated with this person.
+teams_unfunded,int,count,Number of unfunded teams associated with this person.
+teams_total,int,count,Total teams (funded + unfunded) the person is part of.
+team_ids,string,,Comma-separated team IDs associated with the person.
+role_facilitator,binary,,1 if role_primary = facilitator.
+role_nonfacilitator,binary,,1 if role_primary ≠ facilitator.
+role_on_team,binary,,1 if teams_total > 0.
+role_in_funded,binary,,1 if teams_funded > 0.
+role_member,binary,,1 if role_primary = member.
+role_participant,binary,,1 if role_primary = participant.

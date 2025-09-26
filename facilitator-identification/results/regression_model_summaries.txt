@@ -1,0 +1,2173 @@
+=== role_facilitator :: p_speaking_duration_sec ===
+                               OLS Regression Results                              
+===================================================================================
+Dep. Variable:     p_speaking_duration_sec   R-squared:                       0.275
+Model:                                 OLS   Adj. R-squared:                  0.273
+Method:                      Least Squares   F-statistic:                     64.16
+Date:                     Fri, 26 Sep 2025   Prob (F-statistic):           1.54e-26
+Time:                             09:08:28   Log-Likelihood:                -5168.3
+No. Observations:                      790   AIC:                         1.034e+04
+Df Residuals:                          787   BIC:                         1.036e+04
+Df Model:                                2                                         
+Covariance Type:                       HC3                                         
+====================================================================================
+                       coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------------
+Intercept          101.4865     11.960      8.486      0.000      78.010     124.963
+role_facilitator   296.1212     40.044      7.395      0.000     217.515     374.727
+sessions_total      31.1502      4.686      6.647      0.000      21.952      40.349
+==============================================================================
+Omnibus:                      252.151   Durbin-Watson:                   1.743
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             1009.614
+Skew:                           1.451   Prob(JB):                    5.82e-220
+Kurtosis:                       7.718   Cond. No.                         11.9
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_facilitator :: p_turns ===
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                p_turns   R-squared:                       0.412
+Model:                            OLS   Adj. R-squared:                  0.410
+Method:                 Least Squares   F-statistic:                     88.26
+Date:                Fri, 26 Sep 2025   Prob (F-statistic):           2.60e-35
+Time:                        09:08:28   Log-Likelihood:                -2969.9
+No. Observations:                 790   AIC:                             5946.
+Df Residuals:                     787   BIC:                             5960.
+Df Model:                           2                                         
+Covariance Type:                  HC3                                         
+====================================================================================
+                       coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------------
+Intercept            6.4936      0.622     10.432      0.000       5.272       7.715
+role_facilitator    29.1113      2.789     10.439      0.000      23.637      34.585
+sessions_total       1.3606      0.229      5.932      0.000       0.910       1.811
+==============================================================================
+Omnibus:                      351.377   Durbin-Watson:                   1.820
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             3164.852
+Skew:                           1.779   Prob(JB):                         0.00
+Kurtosis:                      12.137   Cond. No.                         11.9
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_facilitator :: p_smile_self_total ===
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:     p_smile_self_total   R-squared:                       0.101
+Model:                            OLS   Adj. R-squared:                  0.099
+Method:                 Least Squares   F-statistic:                     15.41
+Date:                Fri, 26 Sep 2025   Prob (F-statistic):           2.74e-07
+Time:                        09:08:28   Log-Likelihood:                -5001.6
+No. Observations:                 790   AIC:                         1.001e+04
+Df Residuals:                     787   BIC:                         1.002e+04
+Df Model:                           2                                         
+Covariance Type:                  HC3                                         
+====================================================================================
+                       coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------------
+Intercept           18.4809      7.020      2.633      0.009       4.701      32.261
+role_facilitator   132.0503     36.065      3.661      0.000      61.255     202.846
+sessions_total      13.3017      3.064      4.342      0.000       7.288      19.316
+==============================================================================
+Omnibus:                      608.265   Durbin-Watson:                   1.869
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):            11340.707
+Skew:                           3.379   Prob(JB):                         0.00
+Kurtosis:                      20.287   Cond. No.                         11.9
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_facilitator :: p_smile_other_total ===
+                             OLS Regression Results                            
+===============================================================================
+Dep. Variable:     p_smile_other_total   R-squared:                       0.065
+Model:                             OLS   Adj. R-squared:                  0.063
+Method:                  Least Squares   F-statistic:                     16.24
+Date:                 Fri, 26 Sep 2025   Prob (F-statistic):           1.23e-07
+Time:                         09:08:28   Log-Likelihood:                -4786.7
+No. Observations:                  790   AIC:                             9579.
+Df Residuals:                      787   BIC:                             9593.
+Df Model:                            2                                         
+Covariance Type:                   HC3                                         
+====================================================================================
+                       coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------------
+Intercept            6.2595      4.480      1.397      0.163      -2.534      15.053
+role_facilitator    81.4779     24.148      3.374      0.001      34.076     128.880
+sessions_total       7.4072      1.789      4.141      0.000       3.896      10.918
+==============================================================================
+Omnibus:                     1066.949   Durbin-Watson:                   1.935
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):           176568.057
+Skew:                           7.216   Prob(JB):                         0.00
+Kurtosis:                      74.804   Cond. No.                         11.9
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_facilitator :: p_nods_received ===
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:        p_nods_received   R-squared:                       0.032
+Model:                            OLS   Adj. R-squared:                  0.030
+Method:                 Least Squares   F-statistic:                     12.32
+Date:                Fri, 26 Sep 2025   Prob (F-statistic):           5.41e-06
+Time:                        09:08:28   Log-Likelihood:                -964.51
+No. Observations:                 790   AIC:                             1935.
+Df Residuals:                     787   BIC:                             1949.
+Df Model:                           2                                         
+Covariance Type:                  HC3                                         
+====================================================================================
+                       coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------------
+Intercept            0.1632      0.046      3.581      0.000       0.074       0.253
+role_facilitator     0.3421      0.141      2.429      0.015       0.066       0.619
+sessions_total       0.0624      0.016      3.870      0.000       0.031       0.094
+==============================================================================
+Omnibus:                      551.365   Durbin-Watson:                   2.001
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             5847.134
+Skew:                           3.175   Prob(JB):                         0.00
+Kurtosis:                      14.718   Cond. No.                         11.9
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_facilitator :: p_interruptions_made ===
+                             OLS Regression Results                             
+================================================================================
+Dep. Variable:     p_interruptions_made   R-squared:                       0.078
+Model:                              OLS   Adj. R-squared:                  0.074
+Method:                   Least Squares   F-statistic:                     10.36
+Date:                  Fri, 26 Sep 2025   Prob (F-statistic):           4.15e-05
+Time:                          09:08:28   Log-Likelihood:                -836.00
+No. Observations:                   391   AIC:                             1678.
+Df Residuals:                       388   BIC:                             1690.
+Df Model:                             2                                         
+Covariance Type:                    HC3                                         
+====================================================================================
+                       coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------------
+Intercept            1.7496      0.177      9.907      0.000       1.402       2.097
+role_facilitator     1.7174      0.454      3.782      0.000       0.824       2.610
+sessions_total       0.0580      0.055      1.054      0.293      -0.050       0.166
+==============================================================================
+Omnibus:                      387.644   Durbin-Watson:                   1.870
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):            16718.923
+Skew:                           4.189   Prob(JB):                         0.00
+Kurtosis:                      33.920   Cond. No.                         11.2
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_facilitator :: p_screenshare_segments ===
+                              OLS Regression Results                              
+==================================================================================
+Dep. Variable:     p_screenshare_segments   R-squared:                       0.073
+Model:                                OLS   Adj. R-squared:                  0.069
+Method:                     Least Squares   F-statistic:                     10.86
+Date:                    Fri, 26 Sep 2025   Prob (F-statistic):           2.41e-05
+Time:                            09:08:28   Log-Likelihood:                -1646.2
+No. Observations:                     519   AIC:                             3298.
+Df Residuals:                         516   BIC:                             3311.
+Df Model:                               2                                         
+Covariance Type:                      HC3                                         
+====================================================================================
+                       coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------------
+Intercept            4.8980      0.538      9.104      0.000       3.841       5.955
+role_facilitator     4.8657      1.114      4.368      0.000       2.677       7.054
+sessions_total       0.0932      0.144      0.648      0.517      -0.189       0.376
+==============================================================================
+Omnibus:                      288.711   Durbin-Watson:                   1.801
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             1952.097
+Skew:                           2.419   Prob(JB):                         0.00
+Kurtosis:                      11.177   Cond. No.                         11.2
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_facilitator :: p_overlaps ===
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:             p_overlaps   R-squared:                       0.017
+Model:                            OLS   Adj. R-squared:                  0.007
+Method:                 Least Squares   F-statistic:                     3.836
+Date:                Fri, 26 Sep 2025   Prob (F-statistic):             0.0231
+Time:                        09:08:28   Log-Likelihood:                -329.49
+No. Observations:                 213   AIC:                             665.0
+Df Residuals:                     210   BIC:                             675.1
+Df Model:                           2                                         
+Covariance Type:                  HC3                                         
+====================================================================================
+                       coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------------
+Intercept            1.3879      0.125     11.061      0.000       1.141       1.635
+role_facilitator     0.3127      0.182      1.720      0.087      -0.046       0.671
+sessions_total       0.0644      0.043      1.489      0.138      -0.021       0.150
+==============================================================================
+Omnibus:                      288.902   Durbin-Watson:                   2.166
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):            27111.448
+Skew:                           5.842   Prob(JB):                         0.00
+Kurtosis:                      57.021   Cond. No.                         10.5
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_facilitator :: ann_knowledge_sharing_count ===
+                                 OLS Regression Results                                
+=======================================================================================
+Dep. Variable:     ann_knowledge_sharing_count   R-squared:                       0.146
+Model:                                     OLS   Adj. R-squared:                  0.143
+Method:                          Least Squares   F-statistic:                     30.18
+Date:                         Fri, 26 Sep 2025   Prob (F-statistic):           2.65e-13
+Time:                                 09:08:28   Log-Likelihood:                -2086.7
+No. Observations:                          711   AIC:                             4179.
+Df Residuals:                              708   BIC:                             4193.
+Df Model:                                    2                                         
+Covariance Type:                           HC3                                         
+====================================================================================
+                       coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------------
+Intercept            3.5488      0.314     11.290      0.000       2.932       4.166
+role_facilitator     5.1901      1.069      4.853      0.000       3.091       7.290
+sessions_total       0.5736      0.112      5.137      0.000       0.354       0.793
+==============================================================================
+Omnibus:                      395.615   Durbin-Watson:                   1.876
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             4056.364
+Skew:                           2.306   Prob(JB):                         0.00
+Kurtosis:                      13.754   Cond. No.                         11.7
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_facilitator :: ann_evaluation_practices_count ===
+                                  OLS Regression Results                                  
+==========================================================================================
+Dep. Variable:     ann_evaluation_practices_count   R-squared:                       0.106
+Model:                                        OLS   Adj. R-squared:                  0.102
+Method:                             Least Squares   F-statistic:                     16.08
+Date:                            Fri, 26 Sep 2025   Prob (F-statistic):           1.65e-07
+Time:                                    09:08:28   Log-Likelihood:                -1069.6
+No. Observations:                             544   AIC:                             2145.
+Df Residuals:                                 541   BIC:                             2158.
+Df Model:                                       2                                         
+Covariance Type:                              HC3                                         
+====================================================================================
+                       coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------------
+Intercept            2.1892      0.150     14.561      0.000       1.894       2.484
+role_facilitator     1.7572      0.372      4.729      0.000       1.027       2.487
+sessions_total       0.0894      0.044      2.031      0.043       0.003       0.176
+==============================================================================
+Omnibus:                      167.354   Durbin-Watson:                   1.951
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              462.027
+Skew:                           1.512   Prob(JB):                    4.70e-101
+Kurtosis:                       6.353   Cond. No.                         11.2
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_facilitator :: ann_idea_management_count ===
+                                OLS Regression Results                               
+=====================================================================================
+Dep. Variable:     ann_idea_management_count   R-squared:                       0.180
+Model:                                   OLS   Adj. R-squared:                  0.177
+Method:                        Least Squares   F-statistic:                     34.83
+Date:                       Fri, 26 Sep 2025   Prob (F-statistic):           4.69e-15
+Time:                               09:08:28   Log-Likelihood:                -1441.4
+No. Observations:                        618   AIC:                             2889.
+Df Residuals:                            615   BIC:                             2902.
+Df Model:                                  2                                         
+Covariance Type:                         HC3                                         
+====================================================================================
+                       coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------------
+Intercept            2.7483      0.193     14.204      0.000       2.368       3.128
+role_facilitator     3.4435      0.592      5.812      0.000       2.280       4.607
+sessions_total       0.2498      0.062      4.049      0.000       0.129       0.371
+==============================================================================
+Omnibus:                      243.409   Durbin-Watson:                   1.895
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             1253.492
+Skew:                           1.698   Prob(JB):                    6.42e-273
+Kurtosis:                       9.095   Cond. No.                         11.4
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_facilitator :: ann_coordination_and_decision_practices_count ===
+                                          OLS Regression Results                                         
+=========================================================================================================
+Dep. Variable:     ann_coordination_and_decision_practices_count   R-squared:                       0.539
+Model:                                                       OLS   Adj. R-squared:                  0.537
+Method:                                            Least Squares   F-statistic:                     72.77
+Date:                                           Fri, 26 Sep 2025   Prob (F-statistic):           1.46e-28
+Time:                                                   09:08:28   Log-Likelihood:                -1337.2
+No. Observations:                                            518   AIC:                             2680.
+Df Residuals:                                                515   BIC:                             2693.
+Df Model:                                                      2                                         
+Covariance Type:                                             HC3                                         
+====================================================================================
+                       coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------------
+Intercept            2.4374      0.263      9.278      0.000       1.921       2.953
+role_facilitator    10.3638      0.891     11.631      0.000       8.613      12.114
+sessions_total       0.0965      0.080      1.212      0.226      -0.060       0.253
+==============================================================================
+Omnibus:                      238.389   Durbin-Watson:                   1.972
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             2526.509
+Skew:                           1.727   Prob(JB):                         0.00
+Kurtosis:                      13.254   Cond. No.                         11.0
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_facilitator :: ann_information_seeking_count ===
+                                  OLS Regression Results                                 
+=========================================================================================
+Dep. Variable:     ann_information_seeking_count   R-squared:                       0.299
+Model:                                       OLS   Adj. R-squared:                  0.297
+Method:                            Least Squares   F-statistic:                     47.17
+Date:                           Fri, 26 Sep 2025   Prob (F-statistic):           9.43e-20
+Time:                                   09:08:28   Log-Likelihood:                -1390.7
+No. Observations:                            602   AIC:                             2787.
+Df Residuals:                                599   BIC:                             2801.
+Df Model:                                      2                                         
+Covariance Type:                             HC3                                         
+====================================================================================
+                       coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------------
+Intercept            2.5924      0.189     13.680      0.000       2.220       2.965
+role_facilitator     5.0032      0.575      8.700      0.000       3.874       6.133
+sessions_total       0.1237      0.056      2.217      0.027       0.014       0.233
+==============================================================================
+Omnibus:                      241.299   Durbin-Watson:                   1.836
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             1404.600
+Skew:                           1.681   Prob(JB):                    9.88e-306
+Kurtosis:                       9.686   Cond. No.                         11.4
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_facilitator :: ann_relational_climate_count ===
+                                 OLS Regression Results                                 
+========================================================================================
+Dep. Variable:     ann_relational_climate_count   R-squared:                       0.430
+Model:                                      OLS   Adj. R-squared:                  0.428
+Method:                           Least Squares   F-statistic:                     71.07
+Date:                          Fri, 26 Sep 2025   Prob (F-statistic):           9.85e-29
+Time:                                  09:08:28   Log-Likelihood:                -1909.4
+No. Observations:                           677   AIC:                             3825.
+Df Residuals:                               674   BIC:                             3838.
+Df Model:                                     2                                         
+Covariance Type:                            HC3                                         
+====================================================================================
+                       coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------------
+Intercept            3.1047      0.334      9.283      0.000       2.448       3.761
+role_facilitator    11.8998      1.033     11.523      0.000       9.872      13.928
+sessions_total       0.1479      0.094      1.575      0.116      -0.036       0.332
+==============================================================================
+Omnibus:                      526.150   Durbin-Watson:                   1.926
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):            16065.844
+Skew:                           3.164   Prob(JB):                         0.00
+Kurtosis:                      26.011   Cond. No.                         11.8
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_facilitator :: ann_integration_practices_count ===
+                                   OLS Regression Results                                  
+===========================================================================================
+Dep. Variable:     ann_integration_practices_count   R-squared:                       0.127
+Model:                                         OLS   Adj. R-squared:                  0.123
+Method:                              Least Squares   F-statistic:                     15.84
+Date:                             Fri, 26 Sep 2025   Prob (F-statistic):           2.46e-07
+Time:                                     09:08:28   Log-Likelihood:                -575.08
+No. Observations:                              385   AIC:                             1156.
+Df Residuals:                                  382   BIC:                             1168.
+Df Model:                                        2                                         
+Covariance Type:                               HC3                                         
+====================================================================================
+                       coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------------
+Intercept            1.4853      0.142     10.489      0.000       1.207       1.764
+role_facilitator     1.0821      0.196      5.508      0.000       0.696       1.468
+sessions_total       0.0481      0.039      1.241      0.215      -0.028       0.124
+==============================================================================
+Omnibus:                      158.637   Durbin-Watson:                   2.076
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              572.545
+Skew:                           1.865   Prob(JB):                    4.71e-125
+Kurtosis:                       7.666   Cond. No.                         10.5
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_facilitator :: ann_participation_dynamics_count ===
+                                   OLS Regression Results                                   
+============================================================================================
+Dep. Variable:     ann_participation_dynamics_count   R-squared:                       0.590
+Model:                                          OLS   Adj. R-squared:                  0.588
+Method:                               Least Squares   F-statistic:                     57.79
+Date:                              Fri, 26 Sep 2025   Prob (F-statistic):           4.47e-23
+Time:                                      09:08:28   Log-Likelihood:                -1134.1
+No. Observations:                               455   AIC:                             2274.
+Df Residuals:                                   452   BIC:                             2287.
+Df Model:                                         2                                         
+Covariance Type:                                HC3                                         
+====================================================================================
+                       coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------------
+Intercept            1.2955      0.261      4.965      0.000       0.783       1.808
+role_facilitator    10.0921      0.941     10.730      0.000       8.244      11.940
+sessions_total       0.1195      0.079      1.510      0.132      -0.036       0.275
+==============================================================================
+Omnibus:                      362.683   Durbin-Watson:                   2.027
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):            15164.383
+Skew:                           3.004   Prob(JB):                         0.00
+Kurtosis:                      30.637   Cond. No.                         10.8
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_facilitator :: ann_none_count ===
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:         ann_none_count   R-squared:                       0.012
+Model:                            OLS   Adj. R-squared:                  0.007
+Method:                 Least Squares   F-statistic:                     5.069
+Date:                Fri, 26 Sep 2025   Prob (F-statistic):            0.00666
+Time:                        09:08:28   Log-Likelihood:                -996.49
+No. Observations:                 447   AIC:                             1999.
+Df Residuals:                     444   BIC:                             2011.
+Df Model:                           2                                         
+Covariance Type:                  HC3                                         
+====================================================================================
+                       coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------------
+Intercept            1.9179      0.194      9.899      0.000       1.537       2.299
+role_facilitator     0.5318      0.239      2.224      0.027       0.062       1.002
+sessions_total       0.0898      0.055      1.630      0.104      -0.019       0.198
+==============================================================================
+Omnibus:                      475.683   Durbin-Watson:                   1.973
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):            22254.895
+Skew:                           4.802   Prob(JB):                         0.00
+Kurtosis:                      36.206   Cond. No.                         10.9
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_facilitator :: ann_knowledge_sharing_mean_score ===
+                                   OLS Regression Results                                   
+============================================================================================
+Dep. Variable:     ann_knowledge_sharing_mean_score   R-squared:                       0.002
+Model:                                          OLS   Adj. R-squared:                 -0.000
+Method:                               Least Squares   F-statistic:                     2.311
+Date:                              Fri, 26 Sep 2025   Prob (F-statistic):             0.0999
+Time:                                      09:08:28   Log-Likelihood:                 5.8355
+No. Observations:                               711   AIC:                            -5.671
+Df Residuals:                                   708   BIC:                             8.029
+Df Model:                                         2                                         
+Covariance Type:                                HC3                                         
+====================================================================================
+                       coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------------
+Intercept            1.7743      0.023     75.773      0.000       1.728       1.820
+role_facilitator    -0.0408      0.019     -2.142      0.032      -0.078      -0.003
+sessions_total       0.0020      0.006      0.318      0.750      -0.010       0.014
+==============================================================================
+Omnibus:                      229.921   Durbin-Watson:                   1.958
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              585.305
+Skew:                          -1.681   Prob(JB):                    7.99e-128
+Kurtosis:                       5.907   Cond. No.                         11.7
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_facilitator :: ann_evaluation_practices_mean_score ===
+                                     OLS Regression Results                                    
+===============================================================================================
+Dep. Variable:     ann_evaluation_practices_mean_score   R-squared:                       0.027
+Model:                                             OLS   Adj. R-squared:                  0.023
+Method:                                  Least Squares   F-statistic:                     8.392
+Date:                                 Fri, 26 Sep 2025   Prob (F-statistic):           0.000259
+Time:                                         09:08:28   Log-Likelihood:                -213.12
+No. Observations:                                  527   AIC:                             432.2
+Df Residuals:                                      524   BIC:                             445.0
+Df Model:                                            2                                         
+Covariance Type:                                   HC3                                         
+====================================================================================
+                       coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------------
+Intercept            1.5732      0.044     35.433      0.000       1.486       1.660
+role_facilitator    -0.1816      0.046     -3.975      0.000      -0.271      -0.092
+sessions_total      -0.0057      0.012     -0.473      0.636      -0.029       0.018
+==============================================================================
+Omnibus:                       29.184   Durbin-Watson:                   1.895
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               25.523
+Skew:                          -0.468   Prob(JB):                     2.87e-06
+Kurtosis:                       2.464   Cond. No.                         11.2
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_facilitator :: ann_idea_management_mean_score ===
+                                  OLS Regression Results                                  
+==========================================================================================
+Dep. Variable:     ann_idea_management_mean_score   R-squared:                       0.022
+Model:                                        OLS   Adj. R-squared:                  0.019
+Method:                             Least Squares   F-statistic:                     10.03
+Date:                            Fri, 26 Sep 2025   Prob (F-statistic):           5.19e-05
+Time:                                    09:08:28   Log-Likelihood:                -43.791
+No. Observations:                             617   AIC:                             93.58
+Df Residuals:                                 614   BIC:                             106.9
+Df Model:                                       2                                         
+Covariance Type:                              HC3                                         
+====================================================================================
+                       coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------------
+Intercept            1.7721      0.029     60.216      0.000       1.714       1.830
+role_facilitator    -0.1135      0.028     -4.072      0.000      -0.168      -0.059
+sessions_total      -0.0086      0.008     -1.021      0.308      -0.025       0.008
+==============================================================================
+Omnibus:                      147.525   Durbin-Watson:                   1.936
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              283.909
+Skew:                          -1.362   Prob(JB):                     2.24e-62
+Kurtosis:                       4.902   Cond. No.                         11.4
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_facilitator :: ann_coordination_and_decision_practices_mean_score ===
+                                            OLS Regression Results                                            
+==============================================================================================================
+Dep. Variable:     ann_coordination_and_decision_practices_mean_score   R-squared:                       0.007
+Model:                                                            OLS   Adj. R-squared:                  0.003
+Method:                                                 Least Squares   F-statistic:                     5.288
+Date:                                                Fri, 26 Sep 2025   Prob (F-statistic):            0.00533
+Time:                                                        09:08:28   Log-Likelihood:                -99.437
+No. Observations:                                                 510   AIC:                             204.9
+Df Residuals:                                                     507   BIC:                             217.6
+Df Model:                                                           2                                         
+Covariance Type:                                                  HC3                                         
+====================================================================================
+                       coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------------
+Intercept            1.2447      0.030     41.728      0.000       1.186       1.303
+role_facilitator     0.0699      0.022      3.167      0.002       0.027       0.113
+sessions_total      -0.0077      0.008     -1.015      0.311      -0.023       0.007
+==============================================================================
+Omnibus:                       79.028   Durbin-Watson:                   1.794
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              114.749
+Skew:                           1.052   Prob(JB):                     1.21e-25
+Kurtosis:                       3.985   Cond. No.                         11.0
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_facilitator :: ann_information_seeking_mean_score ===
+                                    OLS Regression Results                                    
+==============================================================================================
+Dep. Variable:     ann_information_seeking_mean_score   R-squared:                       0.008
+Model:                                            OLS   Adj. R-squared:                  0.005
+Method:                                 Least Squares   F-statistic:                     3.123
+Date:                                Fri, 26 Sep 2025   Prob (F-statistic):             0.0448
+Time:                                        09:08:28   Log-Likelihood:                -51.096
+No. Observations:                                 602   AIC:                             108.2
+Df Residuals:                                     599   BIC:                             121.4
+Df Model:                                           2                                         
+Covariance Type:                                  HC3                                         
+====================================================================================
+                       coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------------
+Intercept            1.8092      0.029     61.855      0.000       1.752       1.867
+role_facilitator    -0.0542      0.027     -1.994      0.047      -0.108      -0.001
+sessions_total      -0.0093      0.008     -1.138      0.256      -0.025       0.007
+==============================================================================
+Omnibus:                      169.524   Durbin-Watson:                   1.912
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              351.077
+Skew:                          -1.567   Prob(JB):                     5.81e-77
+Kurtosis:                       5.045   Cond. No.                         11.4
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_facilitator :: ann_relational_climate_mean_score ===
+                                    OLS Regression Results                                   
+=============================================================================================
+Dep. Variable:     ann_relational_climate_mean_score   R-squared:                       0.005
+Model:                                           OLS   Adj. R-squared:                  0.002
+Method:                                Least Squares   F-statistic:                     2.346
+Date:                               Fri, 26 Sep 2025   Prob (F-statistic):             0.0966
+Time:                                       09:08:28   Log-Likelihood:                -212.76
+No. Observations:                                640   AIC:                             431.5
+Df Residuals:                                    637   BIC:                             444.9
+Df Model:                                          2                                         
+Covariance Type:                                 HC3                                         
+====================================================================================
+                       coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------------
+Intercept            1.0464      0.033     31.669      0.000       0.982       1.111
+role_facilitator     0.0429      0.028      1.512      0.131      -0.013       0.099
+sessions_total      -0.0135      0.009     -1.585      0.113      -0.030       0.003
+==============================================================================
+Omnibus:                       79.681   Durbin-Watson:                   2.009
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              131.855
+Skew:                           0.801   Prob(JB):                     2.33e-29
+Kurtosis:                       4.541   Cond. No.                         11.7
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_facilitator :: ann_integration_practices_mean_score ===
+                                     OLS Regression Results                                     
+================================================================================================
+Dep. Variable:     ann_integration_practices_mean_score   R-squared:                       0.006
+Model:                                              OLS   Adj. R-squared:                  0.001
+Method:                                   Least Squares   F-statistic:                     2.046
+Date:                                  Fri, 26 Sep 2025   Prob (F-statistic):              0.131
+Time:                                          09:08:28   Log-Likelihood:                -169.83
+No. Observations:                                   381   AIC:                             345.7
+Df Residuals:                                       378   BIC:                             357.5
+Df Model:                                             2                                         
+Covariance Type:                                    HC3                                         
+====================================================================================
+                       coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------------
+Intercept            1.4685      0.054     27.383      0.000       1.363       1.574
+role_facilitator    -0.0828      0.041     -2.022      0.044      -0.163      -0.002
+sessions_total       0.0026      0.014      0.184      0.854      -0.025       0.031
+==============================================================================
+Omnibus:                      926.989   Durbin-Watson:                   2.132
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               28.967
+Skew:                           0.029   Prob(JB):                     5.13e-07
+Kurtosis:                       1.650   Cond. No.                         10.4
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_facilitator :: ann_participation_dynamics_mean_score ===
+                                      OLS Regression Results                                     
+=================================================================================================
+Dep. Variable:     ann_participation_dynamics_mean_score   R-squared:                       0.003
+Model:                                               OLS   Adj. R-squared:                 -0.001
+Method:                                    Least Squares   F-statistic:                    0.6771
+Date:                                   Fri, 26 Sep 2025   Prob (F-statistic):              0.509
+Time:                                           09:08:28   Log-Likelihood:                -143.33
+No. Observations:                                    436   AIC:                             292.7
+Df Residuals:                                        433   BIC:                             304.9
+Df Model:                                              2                                         
+Covariance Type:                                     HC3                                         
+====================================================================================
+                       coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------------
+Intercept            1.2326      0.042     29.069      0.000       1.149       1.316
+role_facilitator    -0.0021      0.033     -0.063      0.950      -0.068       0.064
+sessions_total      -0.0126      0.011     -1.140      0.255      -0.034       0.009
+==============================================================================
+Omnibus:                       66.848   Durbin-Watson:                   2.145
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               93.905
+Skew:                           1.093   Prob(JB):                     4.06e-21
+Kurtosis:                       3.628   Cond. No.                         10.7
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_on_team :: p_speaking_duration_sec ===
+                               OLS Regression Results                              
+===================================================================================
+Dep. Variable:     p_speaking_duration_sec   R-squared:                       0.130
+Model:                                 OLS   Adj. R-squared:                  0.128
+Method:                      Least Squares   F-statistic:                     81.23
+Date:                     Fri, 26 Sep 2025   Prob (F-statistic):           8.51e-33
+Time:                             09:08:28   Log-Likelihood:                -5240.3
+No. Observations:                      790   AIC:                         1.049e+04
+Df Residuals:                          787   BIC:                         1.050e+04
+Df Model:                                2                                         
+Covariance Type:                       HC3                                         
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+Intercept         94.3809     11.624      8.120      0.000      71.563     117.198
+role_on_team      60.2540     17.355      3.472      0.001      26.186      94.322
+sessions_total    33.4350      5.990      5.582      0.000      21.677      45.193
+==============================================================================
+Omnibus:                      416.824   Durbin-Watson:                   1.813
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             3313.080
+Skew:                           2.271   Prob(JB):                         0.00
+Kurtosis:                      11.946   Cond. No.                         7.27
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_on_team :: p_turns ===
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                p_turns   R-squared:                       0.076
+Model:                            OLS   Adj. R-squared:                  0.073
+Method:                 Least Squares   F-statistic:                     34.85
+Date:                Fri, 26 Sep 2025   Prob (F-statistic):           3.14e-15
+Time:                        09:08:28   Log-Likelihood:                -3148.3
+No. Observations:                 790   AIC:                             6303.
+Df Residuals:                     787   BIC:                             6317.
+Df Model:                           2                                         
+Covariance Type:                  HC3                                         
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+Intercept          6.4974      0.755      8.602      0.000       5.015       7.980
+role_on_team      -0.7373      1.213     -0.608      0.543      -3.118       1.644
+sessions_total     2.3907      0.406      5.885      0.000       1.593       3.188
+==============================================================================
+Omnibus:                      483.951   Durbin-Watson:                   1.854
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             5265.672
+Skew:                           2.627   Prob(JB):                         0.00
+Kurtosis:                      14.505   Cond. No.                         7.27
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_on_team :: p_smile_self_total ===
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:     p_smile_self_total   R-squared:                       0.039
+Model:                            OLS   Adj. R-squared:                  0.037
+Method:                 Least Squares   F-statistic:                     16.83
+Date:                Fri, 26 Sep 2025   Prob (F-statistic):           6.98e-08
+Time:                        09:08:28   Log-Likelihood:                -5027.7
+No. Observations:                 790   AIC:                         1.006e+04
+Df Residuals:                     787   BIC:                         1.008e+04
+Df Model:                           2                                         
+Covariance Type:                  HC3                                         
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+Intercept         17.5227      6.842      2.561      0.011       4.091      30.954
+role_on_team       5.9052     13.616      0.434      0.665     -20.823      32.634
+sessions_total    16.8559      4.526      3.724      0.000       7.971      25.741
+==============================================================================
+Omnibus:                      661.941   Durbin-Watson:                   1.886
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):            14463.385
+Skew:                           3.774   Prob(JB):                         0.00
+Kurtosis:                      22.555   Cond. No.                         7.27
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_on_team :: p_smile_other_total ===
+                             OLS Regression Results                            
+===============================================================================
+Dep. Variable:     p_smile_other_total   R-squared:                       0.024
+Model:                             OLS   Adj. R-squared:                  0.022
+Method:                  Least Squares   F-statistic:                     17.37
+Date:                 Fri, 26 Sep 2025   Prob (F-statistic):           4.14e-08
+Time:                         09:08:28   Log-Likelihood:                -4803.6
+No. Observations:                  790   AIC:                             9613.
+Df Residuals:                      787   BIC:                             9627.
+Df Model:                            2                                         
+Covariance Type:                   HC3                                         
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+Intercept          5.2096      4.174      1.248      0.212      -2.984      13.403
+role_on_team       7.9930      9.944      0.804      0.422     -11.527      27.513
+sessions_total     9.0742      2.540      3.572      0.000       4.088      14.061
+==============================================================================
+Omnibus:                     1057.723   Durbin-Watson:                   1.965
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):           156068.338
+Skew:                           7.155   Prob(JB):                         0.00
+Kurtosis:                      70.354   Cond. No.                         7.27
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_on_team :: p_nods_received ===
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:        p_nods_received   R-squared:                       0.024
+Model:                            OLS   Adj. R-squared:                  0.021
+Method:                 Least Squares   F-statistic:                     14.80
+Date:                Fri, 26 Sep 2025   Prob (F-statistic):           4.89e-07
+Time:                        09:08:28   Log-Likelihood:                -968.11
+No. Observations:                 790   AIC:                             1942.
+Df Residuals:                     787   BIC:                             1956.
+Df Model:                           2                                         
+Covariance Type:                  HC3                                         
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+Intercept          0.1511      0.043      3.488      0.001       0.066       0.236
+role_on_team       0.1070      0.075      1.425      0.155      -0.040       0.254
+sessions_total     0.0605      0.020      2.978      0.003       0.021       0.100
+==============================================================================
+Omnibus:                      550.644   Durbin-Watson:                   2.009
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             5673.977
+Skew:                           3.184   Prob(JB):                         0.00
+Kurtosis:                      14.481   Cond. No.                         7.27
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_on_team :: p_interruptions_made ===
+                             OLS Regression Results                             
+================================================================================
+Dep. Variable:     p_interruptions_made   R-squared:                       0.006
+Model:                              OLS   Adj. R-squared:                  0.001
+Method:                   Least Squares   F-statistic:                     1.755
+Date:                  Fri, 26 Sep 2025   Prob (F-statistic):              0.174
+Time:                          09:08:28   Log-Likelihood:                -850.86
+No. Observations:                   391   AIC:                             1708.
+Df Residuals:                       388   BIC:                             1720.
+Df Model:                             2                                         
+Covariance Type:                    HC3                                         
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+Intercept          1.8924      0.245      7.728      0.000       1.411       2.374
+role_on_team      -0.1181      0.221     -0.535      0.593      -0.552       0.316
+sessions_total     0.1043      0.058      1.793      0.074      -0.010       0.219
+==============================================================================
+Omnibus:                      378.828   Durbin-Watson:                   1.846
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):            13170.528
+Skew:                           4.132   Prob(JB):                         0.00
+Kurtosis:                      30.205   Cond. No.                         10.8
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_on_team :: p_screenshare_segments ===
+                              OLS Regression Results                              
+==================================================================================
+Dep. Variable:     p_screenshare_segments   R-squared:                       0.003
+Model:                                OLS   Adj. R-squared:                 -0.001
+Method:                     Least Squares   F-statistic:                     1.190
+Date:                    Fri, 26 Sep 2025   Prob (F-statistic):              0.305
+Time:                            09:08:28   Log-Likelihood:                -1664.9
+No. Observations:                     519   AIC:                             3336.
+Df Residuals:                         516   BIC:                             3349.
+Df Model:                               2                                         
+Covariance Type:                      HC3                                         
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+Intercept          5.1117      0.552      9.266      0.000       4.028       6.195
+role_on_team      -0.0069      0.578     -0.012      0.990      -1.143       1.129
+sessions_total     0.2158      0.159      1.355      0.176      -0.097       0.529
+==============================================================================
+Omnibus:                      297.859   Durbin-Watson:                   1.822
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             1973.840
+Skew:                           2.532   Prob(JB):                         0.00
+Kurtosis:                      11.101   Cond. No.                         9.07
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_on_team :: p_overlaps ===
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:             p_overlaps   R-squared:                       0.008
+Model:                            OLS   Adj. R-squared:                 -0.002
+Method:                 Least Squares   F-statistic:                     1.612
+Date:                Fri, 26 Sep 2025   Prob (F-statistic):              0.202
+Time:                        09:08:28   Log-Likelihood:                -330.47
+No. Observations:                 213   AIC:                             666.9
+Df Residuals:                     210   BIC:                             677.0
+Df Model:                           2                                         
+Covariance Type:                  HC3                                         
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+Intercept          1.4051      0.132     10.644      0.000       1.145       1.665
+role_on_team      -0.0108      0.151     -0.072      0.943      -0.308       0.287
+sessions_total     0.0750      0.042      1.783      0.076      -0.008       0.158
+==============================================================================
+Omnibus:                      284.436   Durbin-Watson:                   2.174
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):            25228.110
+Skew:                           5.702   Prob(JB):                         0.00
+Kurtosis:                      55.082   Cond. No.                         10.4
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_on_team :: ann_knowledge_sharing_count ===
+                                 OLS Regression Results                                
+=======================================================================================
+Dep. Variable:     ann_knowledge_sharing_count   R-squared:                       0.071
+Model:                                     OLS   Adj. R-squared:                  0.068
+Method:                          Least Squares   F-statistic:                     38.83
+Date:                         Fri, 26 Sep 2025   Prob (F-statistic):           9.98e-17
+Time:                                 09:08:28   Log-Likelihood:                -2116.6
+No. Observations:                          711   AIC:                             4239.
+Df Residuals:                              708   BIC:                             4253.
+Df Model:                                    2                                         
+Covariance Type:                           HC3                                         
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+Intercept          3.3682      0.306     11.001      0.000       2.767       3.969
+role_on_team       1.2725      0.433      2.937      0.003       0.422       2.123
+sessions_total     0.5955      0.135      4.413      0.000       0.331       0.860
+==============================================================================
+Omnibus:                      475.534   Durbin-Watson:                   1.919
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             6848.352
+Skew:                           2.819   Prob(JB):                         0.00
+Kurtosis:                      17.120   Cond. No.                         7.64
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_on_team :: ann_evaluation_practices_count ===
+                                  OLS Regression Results                                  
+==========================================================================================
+Dep. Variable:     ann_evaluation_practices_count   R-squared:                       0.013
+Model:                                        OLS   Adj. R-squared:                  0.010
+Method:                             Least Squares   F-statistic:                     4.701
+Date:                            Fri, 26 Sep 2025   Prob (F-statistic):            0.00946
+Time:                                    09:08:28   Log-Likelihood:                -1096.4
+No. Observations:                             544   AIC:                             2199.
+Df Residuals:                                 541   BIC:                             2212.
+Df Model:                                       2                                         
+Covariance Type:                              HC3                                         
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+Intercept          2.2521      0.171     13.192      0.000       1.917       2.587
+role_on_team      -0.0887      0.178     -0.498      0.618      -0.438       0.261
+sessions_total     0.1508      0.051      2.942      0.003       0.050       0.252
+==============================================================================
+Omnibus:                      218.230   Durbin-Watson:                   1.958
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              822.608
+Skew:                           1.855   Prob(JB):                    2.36e-179
+Kurtosis:                       7.747   Cond. No.                         9.50
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_on_team :: ann_idea_management_count ===
+                                OLS Regression Results                               
+=====================================================================================
+Dep. Variable:     ann_idea_management_count   R-squared:                       0.040
+Model:                                   OLS   Adj. R-squared:                  0.036
+Method:                        Least Squares   F-statistic:                     18.90
+Date:                       Fri, 26 Sep 2025   Prob (F-statistic):           1.09e-08
+Time:                               09:08:28   Log-Likelihood:                -1490.1
+No. Observations:                        618   AIC:                             2986.
+Df Residuals:                            615   BIC:                             3000.
+Df Model:                                  2                                         
+Covariance Type:                         HC3                                         
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+Intercept          2.7202      0.214     12.715      0.000       2.300       3.140
+role_on_team       0.2186      0.251      0.870      0.385      -0.275       0.712
+sessions_total     0.3403      0.072      4.713      0.000       0.198       0.482
+==============================================================================
+Omnibus:                      338.874   Durbin-Watson:                   1.949
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             2994.609
+Skew:                           2.294   Prob(JB):                         0.00
+Kurtosis:                      12.759   Cond. No.                         8.53
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_on_team :: ann_coordination_and_decision_practices_count ===
+                                          OLS Regression Results                                         
+=========================================================================================================
+Dep. Variable:     ann_coordination_and_decision_practices_count   R-squared:                       0.111
+Model:                                                       OLS   Adj. R-squared:                  0.108
+Method:                                            Least Squares   F-statistic:                     21.32
+Date:                                           Fri, 26 Sep 2025   Prob (F-statistic):           1.27e-09
+Time:                                                   09:08:28   Log-Likelihood:                -1507.2
+No. Observations:                                            518   AIC:                             3020.
+Df Residuals:                                                515   BIC:                             3033.
+Df Model:                                                      2                                         
+Covariance Type:                                             HC3                                         
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+Intercept          3.6389      0.396      9.178      0.000       2.860       4.418
+role_on_team      -3.0160      0.462     -6.529      0.000      -3.923      -2.108
+sessions_total     0.6158      0.145      4.243      0.000       0.331       0.901
+==============================================================================
+Omnibus:                      302.600   Durbin-Watson:                   1.898
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             2533.466
+Skew:                           2.477   Prob(JB):                         0.00
+Kurtosis:                      12.635   Cond. No.                         8.73
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_on_team :: ann_information_seeking_count ===
+                                  OLS Regression Results                                 
+=========================================================================================
+Dep. Variable:     ann_information_seeking_count   R-squared:                       0.030
+Model:                                       OLS   Adj. R-squared:                  0.026
+Method:                            Least Squares   F-statistic:                     7.457
+Date:                           Fri, 26 Sep 2025   Prob (F-statistic):           0.000633
+Time:                                   09:08:28   Log-Likelihood:                -1488.5
+No. Observations:                            602   AIC:                             2983.
+Df Residuals:                                599   BIC:                             2996.
+Df Model:                                      2                                         
+Covariance Type:                             HC3                                         
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+Intercept          2.8280      0.244     11.606      0.000       2.349       3.307
+role_on_team      -0.5737      0.276     -2.078      0.038      -1.116      -0.032
+sessions_total     0.3269      0.085      3.860      0.000       0.161       0.493
+==============================================================================
+Omnibus:                      309.182   Durbin-Watson:                   1.870
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             2040.458
+Skew:                           2.223   Prob(JB):                         0.00
+Kurtosis:                      10.847   Cond. No.                         8.56
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_on_team :: ann_relational_climate_count ===
+                                 OLS Regression Results                                 
+========================================================================================
+Dep. Variable:     ann_relational_climate_count   R-squared:                       0.052
+Model:                                      OLS   Adj. R-squared:                  0.050
+Method:                           Least Squares   F-statistic:                     12.49
+Date:                          Fri, 26 Sep 2025   Prob (F-statistic):           4.70e-06
+Time:                                  09:08:28   Log-Likelihood:                -2081.5
+No. Observations:                           677   AIC:                             4169.
+Df Residuals:                               674   BIC:                             4183.
+Df Model:                                     2                                         
+Covariance Type:                            HC3                                         
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+Intercept          3.5789      0.417      8.585      0.000       2.760       4.397
+role_on_team      -1.9883      0.469     -4.240      0.000      -2.909      -1.067
+sessions_total     0.7083      0.152      4.670      0.000       0.411       1.006
+==============================================================================
+Omnibus:                      464.463   Durbin-Watson:                   1.882
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             5588.925
+Skew:                           2.995   Prob(JB):                         0.00
+Kurtosis:                      15.738   Cond. No.                         7.85
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_on_team :: ann_integration_practices_count ===
+                                   OLS Regression Results                                  
+===========================================================================================
+Dep. Variable:     ann_integration_practices_count   R-squared:                       0.041
+Model:                                         OLS   Adj. R-squared:                  0.036
+Method:                              Least Squares   F-statistic:                     5.349
+Date:                             Fri, 26 Sep 2025   Prob (F-statistic):            0.00512
+Time:                                     09:08:28   Log-Likelihood:                -593.31
+No. Observations:                              385   AIC:                             1193.
+Df Residuals:                                  382   BIC:                             1204.
+Df Model:                                        2                                         
+Covariance Type:                               HC3                                         
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+Intercept          1.7168      0.161     10.656      0.000       1.400       2.034
+role_on_team      -0.4209      0.134     -3.147      0.002      -0.684      -0.158
+sessions_total     0.1047      0.049      2.117      0.035       0.007       0.202
+==============================================================================
+Omnibus:                      155.600   Durbin-Watson:                   2.069
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              522.875
+Skew:                           1.862   Prob(JB):                    2.88e-114
+Kurtosis:                       7.327   Cond. No.                         10.4
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_on_team :: ann_participation_dynamics_count ===
+                                   OLS Regression Results                                   
+============================================================================================
+Dep. Variable:     ann_participation_dynamics_count   R-squared:                       0.160
+Model:                                          OLS   Adj. R-squared:                  0.157
+Method:                               Least Squares   F-statistic:                     27.46
+Date:                              Fri, 26 Sep 2025   Prob (F-statistic):           5.55e-12
+Time:                                      09:08:28   Log-Likelihood:                -1297.3
+No. Observations:                               455   AIC:                             2601.
+Df Residuals:                                   452   BIC:                             2613.
+Df Model:                                         2                                         
+Covariance Type:                                HC3                                         
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+Intercept          2.8449      0.452      6.297      0.000       1.957       3.733
+role_on_team      -3.5839      0.499     -7.175      0.000      -4.565      -2.602
+sessions_total     0.6566      0.178      3.693      0.000       0.307       1.006
+==============================================================================
+Omnibus:                      355.899   Durbin-Watson:                   1.840
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             6404.422
+Skew:                           3.273   Prob(JB):                         0.00
+Kurtosis:                      20.174   Cond. No.                         9.44
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_on_team :: ann_none_count ===
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:         ann_none_count   R-squared:                       0.005
+Model:                            OLS   Adj. R-squared:                  0.001
+Method:                 Least Squares   F-statistic:                     1.786
+Date:                Fri, 26 Sep 2025   Prob (F-statistic):              0.169
+Time:                        09:08:28   Log-Likelihood:                -997.92
+No. Observations:                 447   AIC:                             2002.
+Df Residuals:                     444   BIC:                             2014.
+Df Model:                           2                                         
+Covariance Type:                  HC3                                         
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+Intercept          1.9774      0.206      9.600      0.000       1.573       2.382
+role_on_team      -0.0792      0.228     -0.347      0.729      -0.527       0.369
+sessions_total     0.1078      0.058      1.863      0.063      -0.006       0.222
+==============================================================================
+Omnibus:                      468.430   Durbin-Watson:                   1.989
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):            20856.586
+Skew:                           4.700   Prob(JB):                         0.00
+Kurtosis:                      35.117   Cond. No.                         9.77
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_on_team :: ann_knowledge_sharing_mean_score ===
+                                   OLS Regression Results                                   
+============================================================================================
+Dep. Variable:     ann_knowledge_sharing_mean_score   R-squared:                       0.017
+Model:                                          OLS   Adj. R-squared:                  0.014
+Method:                               Least Squares   F-statistic:                     8.688
+Date:                              Fri, 26 Sep 2025   Prob (F-statistic):           0.000187
+Time:                                      09:08:28   Log-Likelihood:                 10.964
+No. Observations:                               711   AIC:                            -15.93
+Df Residuals:                                   708   BIC:                            -2.227
+Df Model:                                         2                                         
+Covariance Type:                                HC3                                         
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+Intercept          1.7633      0.024     73.771      0.000       1.716       1.810
+role_on_team       0.0662      0.016      4.052      0.000       0.034       0.098
+sessions_total    -0.0065      0.006     -1.146      0.252      -0.018       0.005
+==============================================================================
+Omnibus:                      205.985   Durbin-Watson:                   1.985
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              476.373
+Skew:                          -1.548   Prob(JB):                    3.60e-104
+Kurtosis:                       5.549   Cond. No.                         7.64
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_on_team :: ann_evaluation_practices_mean_score ===
+                                     OLS Regression Results                                    
+===============================================================================================
+Dep. Variable:     ann_evaluation_practices_mean_score   R-squared:                       0.021
+Model:                                             OLS   Adj. R-squared:                  0.017
+Method:                                  Least Squares   F-statistic:                     5.351
+Date:                                 Fri, 26 Sep 2025   Prob (F-statistic):            0.00501
+Time:                                         09:08:28   Log-Likelihood:                -214.79
+No. Observations:                                  527   AIC:                             435.6
+Df Residuals:                                      524   BIC:                             448.4
+Df Model:                                            2                                         
+Covariance Type:                                   HC3                                         
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+Intercept          1.5348      0.047     32.918      0.000       1.443       1.626
+role_on_team       0.1055      0.034      3.111      0.002       0.039       0.172
+sessions_total    -0.0199      0.012     -1.613      0.107      -0.044       0.004
+==============================================================================
+Omnibus:                       24.850   Durbin-Watson:                   1.932
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               20.941
+Skew:                          -0.411   Prob(JB):                     2.84e-05
+Kurtosis:                       2.473   Cond. No.                         9.76
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_on_team :: ann_idea_management_mean_score ===
+                                  OLS Regression Results                                  
+==========================================================================================
+Dep. Variable:     ann_idea_management_mean_score   R-squared:                       0.022
+Model:                                        OLS   Adj. R-squared:                  0.019
+Method:                             Least Squares   F-statistic:                     6.376
+Date:                            Fri, 26 Sep 2025   Prob (F-statistic):            0.00182
+Time:                                    09:08:28   Log-Likelihood:                -43.765
+No. Observations:                             617   AIC:                             93.53
+Df Residuals:                                 614   BIC:                             106.8
+Df Model:                                       2                                         
+Covariance Type:                              HC3                                         
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+Intercept          1.7551      0.030     57.819      0.000       1.695       1.815
+role_on_team       0.0723      0.022      3.230      0.001       0.028       0.116
+sessions_total    -0.0199      0.009     -2.328      0.020      -0.037      -0.003
+==============================================================================
+Omnibus:                      122.707   Durbin-Watson:                   1.988
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              208.811
+Skew:                          -1.212   Prob(JB):                     4.54e-46
+Kurtosis:                       4.499   Cond. No.                         8.53
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_on_team :: ann_coordination_and_decision_practices_mean_score ===
+                                            OLS Regression Results                                            
+==============================================================================================================
+Dep. Variable:     ann_coordination_and_decision_practices_mean_score   R-squared:                       0.013
+Model:                                                            OLS   Adj. R-squared:                  0.009
+Method:                                                 Least Squares   F-statistic:                     3.617
+Date:                                                Fri, 26 Sep 2025   Prob (F-statistic):             0.0276
+Time:                                                        09:08:28   Log-Likelihood:                -97.867
+No. Observations:                                                 510   AIC:                             201.7
+Df Residuals:                                                     507   BIC:                             214.4
+Df Model:                                                           2                                         
+Covariance Type:                                                  HC3                                         
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+Intercept          1.2647      0.031     41.053      0.000       1.204       1.325
+role_on_team      -0.0677      0.025     -2.689      0.007      -0.117      -0.018
+sessions_total    -0.0004      0.007     -0.057      0.955      -0.014       0.013
+==============================================================================
+Omnibus:                       78.634   Durbin-Watson:                   1.791
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              114.166
+Skew:                           1.046   Prob(JB):                     1.62e-25
+Kurtosis:                       3.996   Cond. No.                         8.77
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_on_team :: ann_information_seeking_mean_score ===
+                                    OLS Regression Results                                    
+==============================================================================================
+Dep. Variable:     ann_information_seeking_mean_score   R-squared:                       0.015
+Model:                                            OLS   Adj. R-squared:                  0.012
+Method:                                 Least Squares   F-statistic:                     5.079
+Date:                                Fri, 26 Sep 2025   Prob (F-statistic):            0.00650
+Time:                                        09:08:28   Log-Likelihood:                -48.977
+No. Observations:                                 602   AIC:                             104.0
+Df Residuals:                                     599   BIC:                             117.2
+Df Model:                                           2                                         
+Covariance Type:                                  HC3                                         
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+Intercept          1.7942      0.030     59.567      0.000       1.735       1.853
+role_on_team       0.0580      0.022      2.657      0.008       0.015       0.101
+sessions_total    -0.0165      0.008     -2.121      0.034      -0.032      -0.001
+==============================================================================
+Omnibus:                      155.236   Durbin-Watson:                   1.939
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              299.440
+Skew:                          -1.480   Prob(JB):                     9.49e-66
+Kurtosis:                       4.783   Cond. No.                         8.56
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_on_team :: ann_relational_climate_mean_score ===
+                                    OLS Regression Results                                   
+=============================================================================================
+Dep. Variable:     ann_relational_climate_mean_score   R-squared:                       0.013
+Model:                                           OLS   Adj. R-squared:                  0.010
+Method:                                Least Squares   F-statistic:                     4.069
+Date:                               Fri, 26 Sep 2025   Prob (F-statistic):             0.0175
+Time:                                       09:08:28   Log-Likelihood:                -210.03
+No. Observations:                                640   AIC:                             426.1
+Df Residuals:                                    637   BIC:                             439.4
+Df Model:                                          2                                         
+Covariance Type:                                 HC3                                         
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+Intercept          1.0625      0.034     31.044      0.000       0.995       1.130
+role_on_team      -0.0706      0.026     -2.677      0.008      -0.122      -0.019
+sessions_total    -0.0056      0.008     -0.669      0.504      -0.022       0.011
+==============================================================================
+Omnibus:                       75.722   Durbin-Watson:                   2.006
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              124.738
+Skew:                           0.769   Prob(JB):                     8.19e-28
+Kurtosis:                       4.520   Cond. No.                         8.25
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_on_team :: ann_integration_practices_mean_score ===
+                                     OLS Regression Results                                     
+================================================================================================
+Dep. Variable:     ann_integration_practices_mean_score   R-squared:                       0.000
+Model:                                              OLS   Adj. R-squared:                 -0.005
+Method:                                   Least Squares   F-statistic:                   0.04900
+Date:                                  Fri, 26 Sep 2025   Prob (F-statistic):              0.952
+Time:                                          09:08:28   Log-Likelihood:                -171.01
+No. Observations:                                   381   AIC:                             348.0
+Df Residuals:                                       378   BIC:                             359.8
+Df Model:                                             2                                         
+Covariance Type:                                    HC3                                         
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+Intercept          1.4666      0.055     26.490      0.000       1.358       1.575
+role_on_team      -0.0125      0.040     -0.310      0.757      -0.091       0.067
+sessions_total     0.0014      0.014      0.095      0.924      -0.027       0.029
+==============================================================================
+Omnibus:                      835.045   Durbin-Watson:                   2.147
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               29.038
+Skew:                           0.082   Prob(JB):                     4.95e-07
+Kurtosis:                       1.657   Cond. No.                         10.5
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_on_team :: ann_participation_dynamics_mean_score ===
+                                      OLS Regression Results                                     
+=================================================================================================
+Dep. Variable:     ann_participation_dynamics_mean_score   R-squared:                       0.003
+Model:                                               OLS   Adj. R-squared:                 -0.001
+Method:                                    Least Squares   F-statistic:                    0.6701
+Date:                                   Fri, 26 Sep 2025   Prob (F-statistic):              0.512
+Time:                                           09:08:28   Log-Likelihood:                -143.33
+No. Observations:                                    436   AIC:                             292.7
+Df Residuals:                                        433   BIC:                             304.9
+Df Model:                                              2                                         
+Covariance Type:                                     HC3                                         
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+Intercept          1.2332      0.044     27.740      0.000       1.146       1.321
+role_on_team      -0.0025      0.032     -0.079      0.937      -0.065       0.060
+sessions_total    -0.0125      0.011     -1.150      0.251      -0.034       0.009
+==============================================================================
+Omnibus:                       67.036   Durbin-Watson:                   2.146
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               94.263
+Skew:                           1.094   Prob(JB):                     3.40e-21
+Kurtosis:                       3.631   Cond. No.                         9.60
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_in_funded :: p_speaking_duration_sec ===
+                               OLS Regression Results                              
+===================================================================================
+Dep. Variable:     p_speaking_duration_sec   R-squared:                       0.124
+Model:                                 OLS   Adj. R-squared:                  0.121
+Method:                      Least Squares   F-statistic:                     58.04
+Date:                     Fri, 26 Sep 2025   Prob (F-statistic):           3.09e-24
+Time:                             09:08:28   Log-Likelihood:                -5243.3
+No. Observations:                      790   AIC:                         1.049e+04
+Df Residuals:                          787   BIC:                         1.051e+04
+Df Model:                                2                                         
+Covariance Type:                       HC3                                         
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+Intercept         98.9831     12.606      7.852      0.000      74.238     123.728
+role_in_funded    58.9813     17.607      3.350      0.001      24.420      93.543
+sessions_total    37.2637      5.417      6.878      0.000      26.629      47.898
+==============================================================================
+Omnibus:                      389.295   Durbin-Watson:                   1.776
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             2822.870
+Skew:                           2.116   Prob(JB):                         0.00
+Kurtosis:                      11.237   Cond. No.                         8.56
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_in_funded :: p_turns ===
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                p_turns   R-squared:                       0.076
+Model:                            OLS   Adj. R-squared:                  0.073
+Method:                 Least Squares   F-statistic:                     35.77
+Date:                Fri, 26 Sep 2025   Prob (F-statistic):           1.35e-15
+Time:                        09:08:28   Log-Likelihood:                -3148.4
+No. Observations:                 790   AIC:                             6303.
+Df Residuals:                     787   BIC:                             6317.
+Df Model:                           2                                         
+Covariance Type:                  HC3                                         
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+Intercept          6.3995      0.749      8.546      0.000       4.930       7.869
+role_in_funded     0.6794      1.114      0.610      0.542      -1.507       2.865
+sessions_total     2.2617      0.329      6.874      0.000       1.616       2.908
+==============================================================================
+Omnibus:                      493.721   Durbin-Watson:                   1.862
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             5528.849
+Skew:                           2.688   Prob(JB):                         0.00
+Kurtosis:                      14.793   Cond. No.                         8.56
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_in_funded :: p_smile_self_total ===
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:     p_smile_self_total   R-squared:                       0.039
+Model:                            OLS   Adj. R-squared:                  0.037
+Method:                 Least Squares   F-statistic:                     13.73
+Date:                Fri, 26 Sep 2025   Prob (F-statistic):           1.37e-06
+Time:                        09:08:28   Log-Likelihood:                -5027.7
+No. Observations:                 790   AIC:                         1.006e+04
+Df Residuals:                     787   BIC:                         1.008e+04
+Df Model:                           2                                         
+Covariance Type:                  HC3                                         
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+Intercept         17.9308      7.250      2.473      0.014       3.700      32.162
+role_in_funded     7.2269     16.044      0.450      0.653     -24.268      38.721
+sessions_total    17.1463      3.882      4.417      0.000       9.526      24.767
+==============================================================================
+Omnibus:                      660.098   Durbin-Watson:                   1.883
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):            14295.295
+Skew:                           3.762   Prob(JB):                         0.00
+Kurtosis:                      22.434   Cond. No.                         8.56
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_in_funded :: p_smile_other_total ===
+                             OLS Regression Results                            
+===============================================================================
+Dep. Variable:     p_smile_other_total   R-squared:                       0.023
+Model:                             OLS   Adj. R-squared:                  0.021
+Method:                  Least Squares   F-statistic:                     13.50
+Date:                 Fri, 26 Sep 2025   Prob (F-statistic):           1.72e-06
+Time:                         09:08:28   Log-Likelihood:                -4804.0
+No. Observations:                  790   AIC:                             9614.
+Df Residuals:                      787   BIC:                             9628.
+Df Model:                            2                                         
+Covariance Type:                   HC3                                         
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+Intercept          5.9477      4.628      1.285      0.199      -3.137      15.033
+role_in_funded     3.5256     11.181      0.315      0.753     -18.423      25.474
+sessions_total     9.8341      2.022      4.863      0.000       5.865      13.804
+==============================================================================
+Omnibus:                     1058.107   Durbin-Watson:                   1.960
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):           157069.377
+Skew:                           7.157   Prob(JB):                         0.00
+Kurtosis:                      70.578   Cond. No.                         8.56
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_in_funded :: p_nods_received ===
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:        p_nods_received   R-squared:                       0.020
+Model:                            OLS   Adj. R-squared:                  0.018
+Method:                 Least Squares   F-statistic:                     10.99
+Date:                Fri, 26 Sep 2025   Prob (F-statistic):           1.96e-05
+Time:                        09:08:28   Log-Likelihood:                -969.40
+No. Observations:                 790   AIC:                             1945.
+Df Residuals:                     787   BIC:                             1959.
+Df Model:                           2                                         
+Covariance Type:                  HC3                                         
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+Intercept          0.1615      0.046      3.533      0.000       0.072       0.251
+role_in_funded     0.0300      0.087      0.345      0.730      -0.141       0.201
+sessions_total     0.0717      0.018      3.945      0.000       0.036       0.107
+==============================================================================
+Omnibus:                      550.250   Durbin-Watson:                   2.008
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             5661.812
+Skew:                           3.182   Prob(JB):                         0.00
+Kurtosis:                      14.468   Cond. No.                         8.56
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_in_funded :: p_interruptions_made ===
+                             OLS Regression Results                             
+================================================================================
+Dep. Variable:     p_interruptions_made   R-squared:                       0.009
+Model:                              OLS   Adj. R-squared:                  0.004
+Method:                   Least Squares   F-statistic:                     2.317
+Date:                  Fri, 26 Sep 2025   Prob (F-statistic):             0.0999
+Time:                          09:08:28   Log-Likelihood:                -850.21
+No. Observations:                   391   AIC:                             1706.
+Df Residuals:                       388   BIC:                             1718.
+Df Model:                             2                                         
+Covariance Type:                    HC3                                         
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+Intercept          1.8945      0.214      8.852      0.000       1.474       2.315
+role_in_funded    -0.3052      0.200     -1.522      0.129      -0.699       0.089
+sessions_total     0.1083      0.060      1.806      0.072      -0.010       0.226
+==============================================================================
+Omnibus:                      375.822   Durbin-Watson:                   1.850
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):            12731.455
+Skew:                           4.090   Prob(JB):                         0.00
+Kurtosis:                      29.731   Cond. No.                         9.92
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_in_funded :: p_screenshare_segments ===
+                              OLS Regression Results                              
+==================================================================================
+Dep. Variable:     p_screenshare_segments   R-squared:                       0.005
+Model:                                OLS   Adj. R-squared:                  0.002
+Method:                     Least Squares   F-statistic:                     1.865
+Date:                    Fri, 26 Sep 2025   Prob (F-statistic):              0.156
+Time:                            09:08:28   Log-Likelihood:                -1664.3
+No. Observations:                     519   AIC:                             3335.
+Df Residuals:                         516   BIC:                             3347.
+Df Model:                               2                                         
+Covariance Type:                      HC3                                         
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+Intercept          5.0309      0.546      9.220      0.000       3.959       6.103
+role_in_funded     0.6605      0.689      0.959      0.338      -0.693       2.014
+sessions_total     0.1935      0.148      1.304      0.193      -0.098       0.485
+==============================================================================
+Omnibus:                      297.105   Durbin-Watson:                   1.820
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             1959.220
+Skew:                           2.526   Prob(JB):                         0.00
+Kurtosis:                      11.067   Cond. No.                         9.05
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_in_funded :: p_overlaps ===
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:             p_overlaps   R-squared:                       0.009
+Model:                            OLS   Adj. R-squared:                 -0.001
+Method:                 Least Squares   F-statistic:                     1.528
+Date:                Fri, 26 Sep 2025   Prob (F-statistic):              0.219
+Time:                        09:08:28   Log-Likelihood:                -330.37
+No. Observations:                 213   AIC:                             666.7
+Df Residuals:                     210   BIC:                             676.8
+Df Model:                           2                                         
+Covariance Type:                  HC3                                         
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+Intercept          1.4117      0.128     11.046      0.000       1.160       1.664
+role_in_funded    -0.0842      0.153     -0.552      0.582      -0.385       0.217
+sessions_total     0.0776      0.045      1.737      0.084      -0.010       0.166
+==============================================================================
+Omnibus:                      283.450   Durbin-Watson:                   2.176
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):            24847.711
+Skew:                           5.671   Prob(JB):                         0.00
+Kurtosis:                      54.683   Cond. No.                         10.0
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_in_funded :: ann_knowledge_sharing_count ===
+                                 OLS Regression Results                                
+=======================================================================================
+Dep. Variable:     ann_knowledge_sharing_count   R-squared:                       0.078
+Model:                                     OLS   Adj. R-squared:                  0.075
+Method:                          Least Squares   F-statistic:                     33.76
+Date:                         Fri, 26 Sep 2025   Prob (F-statistic):           9.89e-15
+Time:                                 09:08:28   Log-Likelihood:                -2113.9
+No. Observations:                          711   AIC:                             4234.
+Df Residuals:                              708   BIC:                             4248.
+Df Model:                                    2                                         
+Covariance Type:                           HC3                                         
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+Intercept          3.4759      0.317     10.971      0.000       2.854       4.098
+role_in_funded     1.8349      0.499      3.680      0.000       0.856       2.814
+sessions_total     0.6358      0.121      5.245      0.000       0.398       0.874
+==============================================================================
+Omnibus:                      463.412   Durbin-Watson:                   1.898
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             6379.775
+Skew:                           2.735   Prob(JB):                         0.00
+Kurtosis:                      16.617   Cond. No.                         8.51
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_in_funded :: ann_evaluation_practices_count ===
+                                  OLS Regression Results                                  
+==========================================================================================
+Dep. Variable:     ann_evaluation_practices_count   R-squared:                       0.014
+Model:                                        OLS   Adj. R-squared:                  0.010
+Method:                             Least Squares   F-statistic:                     5.668
+Date:                            Fri, 26 Sep 2025   Prob (F-statistic):            0.00366
+Time:                                    09:08:28   Log-Likelihood:                -1096.2
+No. Observations:                             544   AIC:                             2198.
+Df Residuals:                                 541   BIC:                             2211.
+Df Model:                                       2                                         
+Covariance Type:                              HC3                                         
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+Intercept          2.2103      0.158     13.989      0.000       1.900       2.521
+role_in_funded     0.1384      0.182      0.762      0.447      -0.219       0.495
+sessions_total     0.1363      0.047      2.882      0.004       0.043       0.229
+==============================================================================
+Omnibus:                      221.996   Durbin-Watson:                   1.952
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              859.017
+Skew:                           1.879   Prob(JB):                    2.93e-187
+Kurtosis:                       7.876   Cond. No.                         9.01
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_in_funded :: ann_idea_management_count ===
+                                OLS Regression Results                               
+=====================================================================================
+Dep. Variable:     ann_idea_management_count   R-squared:                       0.042
+Model:                                   OLS   Adj. R-squared:                  0.039
+Method:                        Least Squares   F-statistic:                     19.62
+Date:                       Fri, 26 Sep 2025   Prob (F-statistic):           5.50e-09
+Time:                               09:08:28   Log-Likelihood:                -1489.3
+No. Observations:                        618   AIC:                             2985.
+Df Residuals:                            615   BIC:                             2998.
+Df Model:                                  2                                         
+Covariance Type:                         HC3                                         
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+Intercept          2.7418      0.206     13.319      0.000       2.338       3.146
+role_in_funded     0.4235      0.248      1.706      0.088      -0.064       0.911
+sessions_total     0.3394      0.065      5.217      0.000       0.212       0.467
+==============================================================================
+Omnibus:                      338.292   Durbin-Watson:                   1.938
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             2989.603
+Skew:                           2.289   Prob(JB):                         0.00
+Kurtosis:                      12.754   Cond. No.                         8.43
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_in_funded :: ann_coordination_and_decision_practices_count ===
+                                          OLS Regression Results                                         
+=========================================================================================================
+Dep. Variable:     ann_coordination_and_decision_practices_count   R-squared:                       0.049
+Model:                                                       OLS   Adj. R-squared:                  0.045
+Method:                                            Least Squares   F-statistic:                     19.61
+Date:                                           Fri, 26 Sep 2025   Prob (F-statistic):           6.22e-09
+Time:                                                   09:08:28   Log-Likelihood:                -1524.7
+No. Observations:                                            518   AIC:                             3055.
+Df Residuals:                                                515   BIC:                             3068.
+Df Model:                                                      2                                         
+Covariance Type:                                             HC3                                         
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+Intercept          3.1185      0.351      8.895      0.000       2.430       3.807
+role_in_funded    -2.0753      0.336     -6.185      0.000      -2.735      -1.416
+sessions_total     0.4456      0.118      3.791      0.000       0.215       0.676
+==============================================================================
+Omnibus:                      327.445   Durbin-Watson:                   1.988
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             2914.304
+Skew:                           2.730   Prob(JB):                         0.00
+Kurtosis:                      13.257   Cond. No.                         8.99
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_in_funded :: ann_information_seeking_count ===
+                                  OLS Regression Results                                 
+=========================================================================================
+Dep. Variable:     ann_information_seeking_count   R-squared:                       0.021
+Model:                                       OLS   Adj. R-squared:                  0.018
+Method:                            Least Squares   F-statistic:                     8.076
+Date:                           Fri, 26 Sep 2025   Prob (F-statistic):           0.000346
+Time:                                   09:08:28   Log-Likelihood:                -1491.2
+No. Observations:                            602   AIC:                             2988.
+Df Residuals:                                599   BIC:                             3002.
+Df Model:                                      2                                         
+Covariance Type:                             HC3                                         
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+Intercept          2.6943      0.226     11.931      0.000       2.251       3.138
+role_in_funded    -0.0547      0.234     -0.234      0.815      -0.514       0.405
+sessions_total     0.2745      0.071      3.872      0.000       0.135       0.414
+==============================================================================
+Omnibus:                      323.059   Durbin-Watson:                   1.884
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             2261.115
+Skew:                           2.326   Prob(JB):                         0.00
+Kurtosis:                      11.276   Cond. No.                         8.57
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_in_funded :: ann_relational_climate_count ===
+                                 OLS Regression Results                                 
+========================================================================================
+Dep. Variable:     ann_relational_climate_count   R-squared:                       0.030
+Model:                                      OLS   Adj. R-squared:                  0.027
+Method:                           Least Squares   F-statistic:                     11.39
+Date:                          Fri, 26 Sep 2025   Prob (F-statistic):           1.36e-05
+Time:                                  09:08:28   Log-Likelihood:                -2089.5
+No. Observations:                           677   AIC:                             4185.
+Df Residuals:                               674   BIC:                             4199.
+Df Model:                                     2                                         
+Covariance Type:                            HC3                                         
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+Intercept          3.3044      0.383      8.618      0.000       2.552       4.057
+role_in_funded    -1.1665      0.363     -3.214      0.001      -1.879      -0.454
+sessions_total     0.5578      0.124      4.500      0.000       0.314       0.801
+==============================================================================
+Omnibus:                      485.544   Durbin-Watson:                   1.917
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             6183.529
+Skew:                           3.168   Prob(JB):                         0.00
+Kurtosis:                      16.382   Cond. No.                         8.57
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_in_funded :: ann_integration_practices_count ===
+                                   OLS Regression Results                                  
+===========================================================================================
+Dep. Variable:     ann_integration_practices_count   R-squared:                       0.027
+Model:                                         OLS   Adj. R-squared:                  0.022
+Method:                              Least Squares   F-statistic:                     5.260
+Date:                             Fri, 26 Sep 2025   Prob (F-statistic):            0.00558
+Time:                                     09:08:28   Log-Likelihood:                -596.01
+No. Observations:                              385   AIC:                             1198.
+Df Residuals:                                  382   BIC:                             1210.
+Df Model:                                        2                                         
+Covariance Type:                               HC3                                         
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+Intercept          1.6174      0.156     10.344      0.000       1.310       1.925
+role_in_funded    -0.3431      0.114     -3.013      0.003      -0.567      -0.119
+sessions_total     0.0890      0.046      1.928      0.055      -0.002       0.180
+==============================================================================
+Omnibus:                      156.399   Durbin-Watson:                   2.074
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              521.463
+Skew:                           1.878   Prob(JB):                    5.83e-114
+Kurtosis:                       7.289   Cond. No.                         9.75
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_in_funded :: ann_participation_dynamics_count ===
+                                   OLS Regression Results                                   
+============================================================================================
+Dep. Variable:     ann_participation_dynamics_count   R-squared:                       0.055
+Model:                                          OLS   Adj. R-squared:                  0.051
+Method:                               Least Squares   F-statistic:                     21.53
+Date:                              Fri, 26 Sep 2025   Prob (F-statistic):           1.17e-09
+Time:                                      09:08:28   Log-Likelihood:                -1324.3
+No. Observations:                               455   AIC:                             2655.
+Df Residuals:                                   452   BIC:                             2667.
+Df Model:                                         2                                         
+Covariance Type:                                HC3                                         
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+Intercept          2.1190      0.406      5.222      0.000       1.322       2.917
+role_in_funded    -2.1173      0.328     -6.464      0.000      -2.761      -1.474
+sessions_total     0.4565      0.147      3.110      0.002       0.168       0.745
+==============================================================================
+Omnibus:                      375.459   Durbin-Watson:                   1.886
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             6583.990
+Skew:                           3.568   Prob(JB):                         0.00
+Kurtosis:                      20.215   Cond. No.                         9.22
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_in_funded :: ann_none_count ===
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:         ann_none_count   R-squared:                       0.010
+Model:                            OLS   Adj. R-squared:                  0.006
+Method:                 Least Squares   F-statistic:                     3.117
+Date:                Fri, 26 Sep 2025   Prob (F-statistic):             0.0453
+Time:                        09:08:28   Log-Likelihood:                -996.83
+No. Observations:                 447   AIC:                             2000.
+Df Residuals:                     444   BIC:                             2012.
+Df Model:                           2                                         
+Covariance Type:                  HC3                                         
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+Intercept          2.0029      0.199     10.060      0.000       1.612       2.394
+role_in_funded    -0.3720      0.192     -1.940      0.053      -0.749       0.005
+sessions_total     0.1162      0.056      2.076      0.039       0.006       0.226
+==============================================================================
+Omnibus:                      465.268   Durbin-Watson:                   1.989
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):            20459.559
+Skew:                           4.651   Prob(JB):                         0.00
+Kurtosis:                      34.812   Cond. No.                         9.38
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_in_funded :: ann_knowledge_sharing_mean_score ===
+                                   OLS Regression Results                                   
+============================================================================================
+Dep. Variable:     ann_knowledge_sharing_mean_score   R-squared:                       0.004
+Model:                                          OLS   Adj. R-squared:                  0.001
+Method:                               Least Squares   F-statistic:                     2.590
+Date:                              Fri, 26 Sep 2025   Prob (F-statistic):             0.0758
+Time:                                      09:08:28   Log-Likelihood:                 6.2633
+No. Observations:                               711   AIC:                            -6.527
+Df Residuals:                                   708   BIC:                             7.173
+Df Model:                                         2                                         
+Covariance Type:                                HC3                                         
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+Intercept          1.7721      0.023     75.904      0.000       1.726       1.818
+role_in_funded     0.0363      0.016      2.274      0.023       0.005       0.068
+sessions_total    -0.0012      0.006     -0.202      0.840      -0.013       0.011
+==============================================================================
+Omnibus:                      221.233   Durbin-Watson:                   1.977
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              543.538
+Skew:                          -1.633   Prob(JB):                    9.38e-119
+Kurtosis:                       5.771   Cond. No.                         8.51
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_in_funded :: ann_evaluation_practices_mean_score ===
+                                     OLS Regression Results                                    
+===============================================================================================
+Dep. Variable:     ann_evaluation_practices_mean_score   R-squared:                       0.003
+Model:                                             OLS   Adj. R-squared:                 -0.001
+Method:                                  Least Squares   F-statistic:                    0.7799
+Date:                                 Fri, 26 Sep 2025   Prob (F-statistic):              0.459
+Time:                                         09:08:28   Log-Likelihood:                -219.41
+No. Observations:                                  527   AIC:                             444.8
+Df Residuals:                                      524   BIC:                             457.6
+Df Model:                                            2                                         
+Covariance Type:                                   HC3                                         
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+Intercept          1.5646      0.045     34.758      0.000       1.476       1.653
+role_in_funded     0.0313      0.036      0.861      0.390      -0.040       0.103
+sessions_total    -0.0123      0.012     -1.007      0.315      -0.036       0.012
+==============================================================================
+Omnibus:                       30.816   Durbin-Watson:                   1.904
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               24.780
+Skew:                          -0.443   Prob(JB):                     4.16e-06
+Kurtosis:                       2.415   Cond. No.                         9.19
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_in_funded :: ann_idea_management_mean_score ===
+                                  OLS Regression Results                                  
+==========================================================================================
+Dep. Variable:     ann_idea_management_mean_score   R-squared:                       0.005
+Model:                                        OLS   Adj. R-squared:                  0.002
+Method:                             Least Squares   F-statistic:                     1.112
+Date:                            Fri, 26 Sep 2025   Prob (F-statistic):              0.330
+Time:                                    09:08:28   Log-Likelihood:                -49.080
+No. Observations:                             617   AIC:                             104.2
+Df Residuals:                                 614   BIC:                             117.4
+Df Model:                                       2                                         
+Covariance Type:                              HC3                                         
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+Intercept          1.7715      0.030     59.966      0.000       1.713       1.830
+role_in_funded    -0.0023      0.022     -0.106      0.916      -0.046       0.041
+sessions_total    -0.0122      0.008     -1.445      0.149      -0.029       0.004
+==============================================================================
+Omnibus:                      135.913   Durbin-Watson:                   1.957
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              244.996
+Skew:                          -1.299   Prob(JB):                     6.31e-54
+Kurtosis:                       4.668   Cond. No.                         8.44
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_in_funded :: ann_coordination_and_decision_practices_mean_score ===
+                                            OLS Regression Results                                            
+==============================================================================================================
+Dep. Variable:     ann_coordination_and_decision_practices_mean_score   R-squared:                       0.002
+Model:                                                            OLS   Adj. R-squared:                 -0.002
+Method:                                                 Least Squares   F-statistic:                    0.3821
+Date:                                                Fri, 26 Sep 2025   Prob (F-statistic):              0.683
+Time:                                                        09:08:28   Log-Likelihood:                -100.88
+No. Observations:                                                 510   AIC:                             207.8
+Df Residuals:                                                     507   BIC:                             220.5
+Df Model:                                                           2                                         
+Covariance Type:                                                  HC3                                         
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+Intercept          1.2497      0.030     41.736      0.000       1.191       1.309
+role_in_funded    -0.0165      0.033     -0.504      0.615      -0.081       0.048
+sessions_total    -0.0053      0.007     -0.715      0.475      -0.020       0.009
+==============================================================================
+Omnibus:                       70.742   Durbin-Watson:                   1.786
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               98.274
+Skew:                           0.985   Prob(JB):                     4.57e-22
+Kurtosis:                       3.861   Cond. No.                         9.07
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_in_funded :: ann_information_seeking_mean_score ===
+                                    OLS Regression Results                                    
+==============================================================================================
+Dep. Variable:     ann_information_seeking_mean_score   R-squared:                       0.009
+Model:                                            OLS   Adj. R-squared:                  0.006
+Method:                                 Least Squares   F-statistic:                     2.910
+Date:                                Fri, 26 Sep 2025   Prob (F-statistic):             0.0553
+Time:                                        09:08:28   Log-Likelihood:                -50.848
+No. Observations:                                 602   AIC:                             107.7
+Df Residuals:                                     599   BIC:                             120.9
+Df Model:                                           2                                         
+Covariance Type:                                  HC3                                         
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+Intercept          1.8043      0.029     62.042      0.000       1.747       1.861
+role_in_funded     0.0440      0.022      1.972      0.049       0.000       0.088
+sessions_total    -0.0131      0.008     -1.635      0.103      -0.029       0.003
+==============================================================================
+Omnibus:                      162.609   Durbin-Watson:                   1.918
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              326.728
+Skew:                          -1.520   Prob(JB):                     1.13e-71
+Kurtosis:                       4.945   Cond. No.                         8.57
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_in_funded :: ann_relational_climate_mean_score ===
+                                    OLS Regression Results                                   
+=============================================================================================
+Dep. Variable:     ann_relational_climate_mean_score   R-squared:                       0.008
+Model:                                           OLS   Adj. R-squared:                  0.005
+Method:                                Least Squares   F-statistic:                     2.710
+Date:                               Fri, 26 Sep 2025   Prob (F-statistic):             0.0673
+Time:                                       09:08:28   Log-Likelihood:                -211.74
+No. Observations:                                640   AIC:                             429.5
+Df Residuals:                                    637   BIC:                             442.9
+Df Model:                                          2                                         
+Covariance Type:                                 HC3                                         
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+Intercept          1.0516      0.033     31.613      0.000       0.986       1.117
+role_in_funded    -0.0568      0.028     -2.002      0.046      -0.112      -0.001
+sessions_total    -0.0096      0.008     -1.146      0.252      -0.026       0.007
+==============================================================================
+Omnibus:                       75.578   Durbin-Watson:                   1.990
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              123.695
+Skew:                           0.771   Prob(JB):                     1.38e-27
+Kurtosis:                       4.504   Cond. No.                         8.67
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_in_funded :: ann_integration_practices_mean_score ===
+                                     OLS Regression Results                                     
+================================================================================================
+Dep. Variable:     ann_integration_practices_mean_score   R-squared:                       0.003
+Model:                                              OLS   Adj. R-squared:                 -0.002
+Method:                                   Least Squares   F-statistic:                    0.6511
+Date:                                  Fri, 26 Sep 2025   Prob (F-statistic):              0.522
+Time:                                          09:08:28   Log-Likelihood:                -170.42
+No. Observations:                                   381   AIC:                             346.8
+Df Residuals:                                       378   BIC:                             358.7
+Df Model:                                             2                                         
+Covariance Type:                                    HC3                                         
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+Intercept          1.4548      0.053     27.267      0.000       1.350       1.560
+role_in_funded     0.0495      0.043      1.141      0.255      -0.036       0.135
+sessions_total    -0.0014      0.014     -0.102      0.919      -0.029       0.026
+==============================================================================
+Omnibus:                      758.443   Durbin-Watson:                   2.132
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               28.727
+Skew:                           0.080   Prob(JB):                     5.78e-07
+Kurtosis:                       1.664   Cond. No.                         9.79
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+
+=== role_in_funded :: ann_participation_dynamics_mean_score ===
+                                      OLS Regression Results                                     
+=================================================================================================
+Dep. Variable:     ann_participation_dynamics_mean_score   R-squared:                       0.004
+Model:                                               OLS   Adj. R-squared:                 -0.000
+Method:                                    Least Squares   F-statistic:                    0.8330
+Date:                                   Fri, 26 Sep 2025   Prob (F-statistic):              0.435
+Time:                                           09:08:28   Log-Likelihood:                -143.14
+No. Observations:                                    436   AIC:                             292.3
+Df Residuals:                                        433   BIC:                             304.5
+Df Model:                                              2                                         
+Covariance Type:                                     HC3                                         
+==================================================================================
+                     coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------
+Intercept          1.2356      0.043     28.675      0.000       1.151       1.320
+role_in_funded    -0.0237      0.034     -0.693      0.489      -0.091       0.044
+sessions_total    -0.0119      0.011     -1.089      0.277      -0.033       0.010
+==============================================================================
+Omnibus:                       66.005   Durbin-Watson:                   2.146
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               92.308
+Skew:                           1.085   Prob(JB):                     9.03e-21
+Kurtosis:                       3.607   Cond. No.                         9.38
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
