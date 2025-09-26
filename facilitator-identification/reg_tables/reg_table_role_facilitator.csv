@@ -1,0 +1,26 @@
+Model (Role Contrast),Outcome,N,Coef (SE),p,R2,R2_adj,Controls
+role_facilitator,ann_relational_climate_count,677,11.9 (1.033)***,3.62e-28,0.430062537725586,0.4283713286387183,sessions_total
+role_facilitator,ann_coordination_and_decision_practices_count,518,10.364 (0.891)***,6.3e-28,0.5388896907864673,0.5370989711390362,sessions_total
+role_facilitator,ann_participation_dynamics_count,455,10.092 (0.941)***,4.41e-24,0.5902212830409204,0.5884081028773847,sessions_total
+role_facilitator,p_turns,790,29.111 (2.789)***,5.54e-24,0.4116312779273207,0.4101360588115069,sessions_total
+role_facilitator,ann_information_seeking_count,602,5.003 (0.575)***,3.2e-17,0.2990153275820847,0.2966748111466326,sessions_total
+role_facilitator,p_speaking_duration_sec,790,296.121 (40.044)***,3.63e-13,0.2751405852447083,0.2732985028692183,sessions_total
+role_facilitator,ann_idea_management_count,618,3.443 (0.592)***,9.9e-09,0.1797710328639347,0.1771036215886955,sessions_total
+role_facilitator,ann_integration_practices_count,385,1.082 (0.196)***,6.66e-08,0.1273402324361311,0.122771333129514,sessions_total
+role_facilitator,ann_knowledge_sharing_count,711,5.19 (1.069)***,1.49e-06,0.1458261725539561,0.1434132521374419,sessions_total
+role_facilitator,ann_evaluation_practices_count,544,1.757 (0.372)***,2.88e-06,0.1055852369028059,0.1022787128248126,sessions_total
+role_facilitator,p_screenshare_segments,519,4.866 (1.114)***,1.52e-05,0.0725522950378229,0.0689575364914578,sessions_total
+role_facilitator,ann_idea_management_mean_score,617,-0.114 (0.028)***,5.28e-05,0.0217951601304066,0.018608825147118,sessions_total
+role_facilitator,ann_evaluation_practices_mean_score,527,-0.182 (0.046)***,8.03e-05,0.0267336469870976,0.0230188899145293,sessions_total
+role_facilitator,p_interruptions_made,391,1.717 (0.454)***,0.00018,0.0784357658970121,0.0736854347933885,sessions_total
+role_facilitator,p_smile_self_total,790,132.05 (36.065)***,0.000268,0.1008371958070922,0.098552156914607,sessions_total
+role_facilitator,p_smile_other_total,790,81.478 (24.148)***,0.000777,0.0649972415057765,0.0626211226785993,sessions_total
+role_facilitator,ann_coordination_and_decision_practices_mean_score,510,0.07 (0.022)**,0.00163,0.0072225558753992,0.0033062740445328,sessions_total
+role_facilitator,p_nods_received,790,0.342 (0.141)*,0.0154,0.0324246812287839,0.0299657858824783,sessions_total
+role_facilitator,ann_none_count,447,0.532 (0.239)*,0.0266,0.0115669289891044,0.0071145277683347,sessions_total
+role_facilitator,ann_knowledge_sharing_mean_score,711,-0.041 (0.019)*,0.0325,0.0023529623132325,-0.0004652496576338,sessions_total
+role_facilitator,ann_integration_practices_mean_score,381,-0.083 (0.041)*,0.0439,0.0064273084696483,0.0011703101017628,sessions_total
+role_facilitator,ann_information_seeking_mean_score,602,-0.054 (0.027)*,0.0466,0.0080459227474268,0.0047338891005067,sessions_total
+role_facilitator,p_overlaps,213,0.313 (0.182),0.0868,0.0167084452930913,0.0073437638196922,sessions_total
+role_facilitator,ann_relational_climate_mean_score,640,0.043 (0.028),0.131,0.0047470457456965,0.0016222327025118,sessions_total
+role_facilitator,ann_participation_dynamics_mean_score,436,-0.002 (0.033),0.95,0.0033872407697279,-0.001216051420712,sessions_total

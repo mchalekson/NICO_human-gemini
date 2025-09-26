@@ -1,0 +1,26 @@
+Model (Role Contrast),Outcome,N,Coef (SE),p,R2,R2_adj,Controls
+role_in_funded,ann_participation_dynamics_count,455,-2.117 (0.328)***,2.65e-10,0.0549220585750531,0.050740297772288,sessions_total
+role_in_funded,ann_coordination_and_decision_practices_count,518,-2.075 (0.336)***,1.27e-09,0.0487942775294335,0.0451002747237226,sessions_total
+role_in_funded,ann_knowledge_sharing_count,711,1.835 (0.499)***,0.000251,0.0778631750375101,0.0752582687523054,sessions_total
+role_in_funded,p_speaking_duration_sec,790,58.981 (17.607)***,0.000847,0.1235771748703923,0.1213499249971277,sessions_total
+role_in_funded,ann_relational_climate_count,677,-1.167 (0.363)**,0.00137,0.0296111702470494,0.0267316781706311,sessions_total
+role_in_funded,ann_integration_practices_count,385,-0.343 (0.114)**,0.00276,0.0270871938496473,0.0219934095242528,sessions_total
+role_in_funded,ann_knowledge_sharing_mean_score,711,0.036 (0.016)*,0.0233,0.0035529139226718,0.0007380916456173,sessions_total
+role_in_funded,ann_relational_climate_mean_score,640,-0.057 (0.028)*,0.0457,0.0079435416708626,0.0048287647216345,sessions_total
+role_in_funded,ann_information_seeking_mean_score,602,0.044 (0.022)*,0.0491,0.008861080118878,0.0055517681994086,sessions_total
+role_in_funded,ann_none_count,447,-0.372 (0.192),0.053,0.01004265132193,0.0055833839855423,sessions_total
+role_in_funded,ann_idea_management_count,618,0.424 (0.248),0.0884,0.0422261565929167,0.0391114449070401,sessions_total
+role_in_funded,p_interruptions_made,391,-0.305 (0.2),0.129,0.0089705359213355,0.0038621366219609,sessions_total
+role_in_funded,ann_integration_practices_mean_score,381,0.049 (0.043),0.255,0.0033671116412224,-0.0019060782442736,sessions_total
+role_in_funded,p_screenshare_segments,519,0.661 (0.689),0.338,0.0053746559732648,0.001519518980913,sessions_total
+role_in_funded,ann_evaluation_practices_mean_score,527,0.031 (0.036),0.39,0.003194173598446,-0.0006104287923995,sessions_total
+role_in_funded,ann_evaluation_practices_count,544,0.138 (0.182),0.447,0.013795699712094,0.0101498427794215,sessions_total
+role_in_funded,ann_participation_dynamics_mean_score,436,-0.024 (0.034),0.489,0.0042776953756911,-0.0003214838604488,sessions_total
+role_in_funded,p_turns,790,0.679 (1.114),0.542,0.075523213519972,0.0731738443040125,sessions_total
+role_in_funded,p_overlaps,213,-0.084 (0.153),0.582,0.0085816152467652,-0.0008604646080274,sessions_total
+role_in_funded,ann_coordination_and_decision_practices_mean_score,510,-0.016 (0.033),0.615,0.0015971296800395,-0.0023413431811831,sessions_total
+role_in_funded,p_smile_self_total,790,7.227 (16.044),0.653,0.0394372713185687,0.0369961970398357,sessions_total
+role_in_funded,p_nods_received,790,0.03 (0.087),0.73,0.0203557458088575,0.0178661797245089,sessions_total
+role_in_funded,p_smile_other_total,790,3.526 (11.181),0.753,0.0230206987644037,0.0205379051145038,sessions_total
+role_in_funded,ann_information_seeking_count,602,-0.055 (0.234),0.815,0.0209084532369909,0.0176393662695018,sessions_total
+role_in_funded,ann_idea_management_mean_score,617,-0.002 (0.022),0.916,0.0048794952272522,0.0016380603582857,sessions_total
