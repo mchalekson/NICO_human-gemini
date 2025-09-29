@@ -1,0 +1,3 @@
+Controls tested: p_speaking_duration_sec, p_turns
+[num_teams] R²: 0.247 → 0.249 (Δ +0.002); Adj.R²: 0.147 → 0.142 (Δ -0.005).
+[num_funded_teams] R²: 0.157 → 0.158 (Δ +0.000); Adj.R²: 0.045 → 0.037 (Δ -0.008).
