@@ -1,0 +1,55 @@
+Feature,Description,Aggregation (person-level),Prefix meaning
+person_name,Name of the individual,"Identifier, not aggregated",—
+conference,Conference identifier,Identifier (session/year level only),—
+year,Year of the conference,Identifier (session/year level only),—
+role_primary,Primary role label assigned based on most sessions,Derived label,—
+team_ids,IDs of teams the person is in (concatenated),Identifier (session/year level only),—
+facilitator,Indicator of facilitator sessions attended,Summed across sessions (count of sessions where facilitator),—
+member,Indicator of member sessions attended,Summed across sessions,—
+participant,Indicator of participant sessions attended,Summed across sessions,—
+unknown,Indicator of sessions where role unknown,Summed across sessions,—
+role_facilitator,Binary indicator (>=1 facilitator session in the period),Summed; treat as 0/1 across period,—
+role_nonfacilitator,Binary indicator of not being facilitator,Summed; treat as 0/1 across period,—
+role_on_team,Binary indicator (>=1 team membership in the period),Summed; treat as 0/1 across period,—
+role_in_funded,Binary indicator (>=1 funded team in the period),Summed; treat as 0/1 across period,—
+role_member,Binary indicator (>=1 session as member in the period),Summed; treat as 0/1 across period,—
+role_participant,Binary indicator (>=1 session as participant in the period),Summed; treat as 0/1 across period,—
+sessions_total,Number of sessions the person attended in the period,Summed across sessions,—
+teams_funded,Number of funded teams the person belonged to (period),Summed across sessions,—
+teams_unfunded,Number of unfunded teams the person belonged to (period),Summed across sessions,—
+teams_total,Total number of teams the person belonged to (period),Summed across sessions,—
+p_speaking_duration_sec,Total speaking duration by the person (seconds),Summed across sessions,p = person-level behavior from transcripts
+p_turns,Total number of speaking turns taken by the person,Summed across sessions,p = person-level behavior from transcripts
+p_smile_self_total,Total smiles detected for the person,Summed across sessions,p = person-level behavior from transcripts
+p_smile_other_total,Total smiles from others directed toward this person,Summed across sessions,p = person-level behavior from transcripts
+p_nods_received,Total nods received from others,Summed across sessions,p = person-level behavior from transcripts
+p_interruptions_made,Total interruptions made by the person,Summed across sessions,p = person-level behavior from transcripts
+p_overlaps,Total overlapping speech events made by the person,Summed across sessions,p = person-level behavior from transcripts
+p_screenshare_segments,Total screen-sharing segments initiated by the person,Summed across sessions,p = person-level behavior from transcripts
+ann_knowledge_sharing_count,Number of utterances coded as Knowledge Sharing,Summed across sessions,ann = annotation-derived feature
+ann_knowledge_sharing_sum_score,Sum of annotation scores for Knowledge Sharing,Summed across sessions,ann = annotation-derived feature
+ann_knowledge_sharing_mean_score,Average score per utterance for Knowledge Sharing,Weighted mean across all coded utterances in the period,ann = annotation-derived feature
+ann_evaluation_practices_count,Number of utterances coded as Evaluation Practices,Summed across sessions,ann = annotation-derived feature
+ann_evaluation_practices_sum_score,Sum of annotation scores for Evaluation Practices,Summed across sessions,ann = annotation-derived feature
+ann_evaluation_practices_mean_score,Average score per utterance for Evaluation Practices,Weighted mean across all coded utterances in the period,ann = annotation-derived feature
+ann_idea_management_count,Number of utterances coded as Idea Management,Summed across sessions,ann = annotation-derived feature
+ann_idea_management_sum_score,Sum of annotation scores for Idea Management,Summed across sessions,ann = annotation-derived feature
+ann_idea_management_mean_score,Average score per utterance for Idea Management,Weighted mean across all coded utterances in the period,ann = annotation-derived feature
+ann_coordination_and_decision_practices_count,Number of utterances coded as Coordination And Decision Practices,Summed across sessions,ann = annotation-derived feature
+ann_coordination_and_decision_practices_sum_score,Sum of annotation scores for Coordination And Decision Practices,Summed across sessions,ann = annotation-derived feature
+ann_coordination_and_decision_practices_mean_score,Average score per utterance for Coordination And Decision Practices,Weighted mean across all coded utterances in the period,ann = annotation-derived feature
+ann_information_seeking_count,Number of utterances coded as Information Seeking,Summed across sessions,ann = annotation-derived feature
+ann_information_seeking_sum_score,Sum of annotation scores for Information Seeking,Summed across sessions,ann = annotation-derived feature
+ann_information_seeking_mean_score,Average score per utterance for Information Seeking,Weighted mean across all coded utterances in the period,ann = annotation-derived feature
+ann_relational_climate_count,Number of utterances coded as Relational Climate,Summed across sessions,ann = annotation-derived feature
+ann_relational_climate_sum_score,Sum of annotation scores for Relational Climate,Summed across sessions,ann = annotation-derived feature
+ann_relational_climate_mean_score,Average score per utterance for Relational Climate,Weighted mean across all coded utterances in the period,ann = annotation-derived feature
+ann_integration_practices_count,Number of utterances coded as Integration Practices,Summed across sessions,ann = annotation-derived feature
+ann_integration_practices_sum_score,Sum of annotation scores for Integration Practices,Summed across sessions,ann = annotation-derived feature
+ann_integration_practices_mean_score,Average score per utterance for Integration Practices,Weighted mean across all coded utterances in the period,ann = annotation-derived feature
+ann_participation_dynamics_count,Number of utterances coded as Participation Dynamics,Summed across sessions,ann = annotation-derived feature
+ann_participation_dynamics_sum_score,Sum of annotation scores for Participation Dynamics,Summed across sessions,ann = annotation-derived feature
+ann_participation_dynamics_mean_score,Average score per utterance for Participation Dynamics,Weighted mean across all coded utterances in the period,ann = annotation-derived feature
+ann_none_count,Number of utterances coded as None,Summed across sessions,ann = annotation-derived feature
+ann_none_sum_score,Sum of annotation scores for None,Summed across sessions,ann = annotation-derived feature
+ann_none_mean_score,Average score per utterance for None,Weighted mean across all coded utterances in the period,ann = annotation-derived feature
