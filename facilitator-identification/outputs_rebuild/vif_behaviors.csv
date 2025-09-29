@@ -1,0 +1,10 @@
+feature,VIF
+const,1.8412658507847548
+p_speaking_duration_sec,4.628065987849721
+p_turns,6.25282185242244
+p_interruptions_made,1.578541784162669
+p_overlaps,1.6619194086254263
+p_screenshare_segments,1.9532485641222275
+p_smile_self_total,2.5000103996245544
+p_smile_other_total,2.2265606707300525
+p_nods_received,1.5458364330153536
