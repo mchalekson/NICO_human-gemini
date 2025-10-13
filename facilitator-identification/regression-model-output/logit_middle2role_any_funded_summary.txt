@@ -1,0 +1,32 @@
+                                           Results: Logit
+=====================================================================================================
+Model:                          Logit                        Method:                       MLE       
+Dependent Variable:             any_funded                   Pseudo R-squared:             0.260     
+Date:                           2025-10-13 09:48             AIC:                          1267.7631 
+No. Observations:               25542                        BIC:                          1414.4286 
+Df Model:                       17                           Log-Likelihood:               -615.88   
+Df Residuals:                   25524                        LL-Null:                      -831.93   
+Converged:                      1.0000                       LLR p-value:                  3.5322e-81
+No. Iterations:                 11.0000                      Scale:                        1.0000    
+-----------------------------------------------------------------------------------------------------
+                                                      Coef.  Std.Err.    z     P>|z|   [0.025  0.975]
+-----------------------------------------------------------------------------------------------------
+Intercept                                            -5.5504   0.2921 -19.0018 0.0000 -6.1229 -4.9779
+C(conference)[T.2021ABI]                             -0.8511   0.4810  -1.7695 0.0768 -1.7938  0.0916
+C(conference)[T.2021CMC]                             -0.4813   0.4338  -1.1096 0.2672 -1.3314  0.3689
+C(conference)[T.2021MND]                             -2.1611   0.6726  -3.2129 0.0013 -3.4794 -0.8428
+C(conference)[T.2021MZT]                             -0.0311   0.4041  -0.0769 0.9387 -0.8231  0.7610
+C(conference)[T.2021NES]                             -0.6849   0.4514  -1.5173 0.1292 -1.5696  0.1998
+C(conference)[T.2021SLU]                             -0.7403   0.4546  -1.6286 0.1034 -1.6313  0.1506
+C(conference)[T.2022MND]                             -1.8384   0.6356  -2.8923 0.0038 -3.0842 -0.5926
+C(conference)[T.v1-data]                              1.2813   0.3337   3.8397 0.0001  0.6273  1.9353
+ann_knowledge_sharing_score_middle                    0.0693   0.0244   2.8391 0.0045  0.0215  0.1172
+ann_evaluation_practices_score_middle                 0.1266   0.0598   2.1165 0.0343  0.0094  0.2439
+ann_idea_management_score_middle                      0.1605   0.0372   4.3201 0.0000  0.0877  0.2333
+ann_coordination_and_decision_practices_score_middle -0.5009   0.1526  -3.2817 0.0010 -0.8001 -0.2017
+ann_information_seeking_score_middle                  0.1313   0.0360   3.6422 0.0003  0.0606  0.2019
+ann_relational_climate_score_middle                   0.0361   0.0774   0.4673 0.6403 -0.1155  0.1878
+ann_participation_dynamics_score_middle              -0.4778   0.1358  -3.5186 0.0004 -0.7439 -0.2116
+ann_integration_practices_score_middle                0.3848   0.1207   3.1879 0.0014  0.1482  0.6213
+speaking_middle                                       0.0000   0.0000   3.2626 0.0011  0.0000  0.0001
+=====================================================================================================
